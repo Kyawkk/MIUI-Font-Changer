@@ -1,7 +1,6 @@
 [
     {
-        "language": "Myanmar",
-        "data":[
+        "myanmar":[
             {
                 "name": "Cherry Unicode",
                 "size": "153.06 KB",
@@ -803,8 +802,7 @@
         ]
     },
     {
-        "language": "English",
-        "data":[
+        "english":[
 
         ]
     }
