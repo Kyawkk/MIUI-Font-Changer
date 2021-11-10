@@ -1,0 +1,64 @@
+[
+    {
+        "name" : "Myanmar",
+        "sample": "ကခ",
+        "size": "120",
+        "url":""
+    },
+    {
+        "name" : "English",
+        "sample": "AB",
+        "size": "80",
+        "url":""
+    },
+    {
+        "name" : "Thai",
+        "sample": "กข",
+        "size": "215",
+        "url":""
+    },
+    {
+        "name" : "Vietnamese",
+        "sample": "AB",
+        "size": "59",
+        "url":""
+    },
+    {
+        "name" : "Cambodia",
+        "sample": "ខក",
+        "size": "21",
+        "url":""
+    },
+    {
+        "name" : "Lao",
+        "sample": "ကခ",
+        "size": "42",
+        "url":""
+    },
+    {
+        "name" : "Filipino",
+        "sample": "AB",
+        "size": "49",
+        "url":""
+    },
+    {
+        "name" : "Chinese",
+        "sample": "诶比",
+        "size": "210",
+        "url":""
+    },
+
+    {
+        "name" : "Japanese",
+        "sample": "あい",
+        "size": "83",
+        "url":""
+    },
+    {
+        "name" : "Korean",
+        "sample": "ㅎㄲ",
+        "size": "146",
+        "url":""
+    }
+    
+]
