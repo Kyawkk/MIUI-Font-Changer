@@ -1,10 +1,22 @@
 [
     {
         "sliders":[
-            "https://i.pinimg.com/236x/aa/c8/27/aac827a17c5e7749823cc09cc8dbeec7.jpg",
-            "http://www.goodmorningimagesdownload.com/wp-content/uploads/2019/12/Love-Images-1.jpg",
-            "https://cdn.wallpapersafari.com/90/81/6reFjl.jpg",
-            "https://static.vecteezy.com/system/resources/thumbnails/003/226/126/small/empty-podium-with-line-gradient-neon-ring-on-background-vector.jpg"
+            {
+                "img": "https://i.pinimg.com/236x/aa/c8/27/aac827a17c5e7749823cc09cc8dbeec7.jpg",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+            },
+            {
+                "img": "http://www.goodmorningimagesdownload.com/wp-content/uploads/2019/12/Love-Images-1.jpg",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+            },
+            {
+                "img": "https://cdn.wallpapersafari.com/90/81/6reFjl.jpg",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+            },
+            {
+                "img": "https://static.vecteezy.com/system/resources/thumbnails/003/226/126/small/empty-podium-with-line-gradient-neon-ring-on-background-vector.jpg",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+            }
         ]
     },
     {
