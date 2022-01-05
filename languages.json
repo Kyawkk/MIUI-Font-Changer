@@ -31,26 +31,26 @@
     },
     {
         "name" : "Lao",
-        "country_img": "ကခ",
+        "country_img": "https://www.intracen.org/uploadedImages/intracenorg/Content/Redesign/Projects/Arise_plus_Laos/shutterstock_1512201581.jpg",
         "size": "42",
         "url":""
     },
     {
         "name" : "Filipino",
-        "country_img": "AB",
+        "country_img": "https://grace.com/content/dam/grace-site/english/location/manila-philippines.jpg",
         "size": "49",
         "url":""
     },
     {
         "name" : "Chinese",
-        "country_img": "诶比",
+        "country_img": "https://www.umonarch-mei.ch/wp-content/uploads/2020/02/China-Pagoda.jpg",
         "size": "210",
         "url":""
     },
 
     {
         "name" : "Japanese",
-        "country_img": "あい",
+        "country_img": "https://resources.matcha-jp.com/resize/720x2000/2021/01/28-112002.jpeg",
         "size": "83",
         "url":""
     },
