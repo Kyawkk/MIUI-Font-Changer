@@ -1,62 +1,62 @@
 [
     {
         "name" : "Myanmar",
-        "sample": "ကခ",
+        "country_img": "https://www.globalcompliancenews.com/wp-content/uploads/sites/43/2018/05/Myanmar.png",
         "size": "120",
         "url":"https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
     },
     {
         "name" : "English",
-        "sample": "AB",
+        "country_img": "https://takemetomyanmar.com/wp-content/uploads/2021/10/england-top-rated-cities-london.jpg",
         "size": "80",
         "url":""
     },
     {
         "name" : "Thai",
-        "sample": "กข",
+        "country_img": "https://www.thaiairways.com/static/common/imgscontent/hilight_destination/TakeMeTour/Bangkok.jpg",
         "size": "215",
         "url":""
     },
     {
         "name" : "Vietnamese",
-        "sample": "AB",
+        "country_img": "https://image.volunteerworld.com/03efaf83ee2bc191c74ad4ad44b6fe2dca509dcf/vietnam-banner.jpg?auto=format&crop=right&fit=crop&h=410&w=700",
         "size": "59",
         "url":""
     },
     {
         "name" : "Cambodia",
-        "sample": "ខក",
+        "country_img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/151CF/production/_108297468_5b560e6b-51aa-4d75-819a-b242e3a577f3.jpg",
         "size": "21",
         "url":""
     },
     {
         "name" : "Lao",
-        "sample": "ကခ",
+        "country_img": "ကခ",
         "size": "42",
         "url":""
     },
     {
         "name" : "Filipino",
-        "sample": "AB",
+        "country_img": "AB",
         "size": "49",
         "url":""
     },
     {
         "name" : "Chinese",
-        "sample": "诶比",
+        "country_img": "诶比",
         "size": "210",
         "url":""
     },
 
     {
         "name" : "Japanese",
-        "sample": "あい",
+        "country_img": "あい",
         "size": "83",
         "url":""
     },
     {
         "name" : "Korean",
-        "sample": "ㅎㄲ",
+        "country_img": "ㅎㄲ",
         "size": "146",
         "url":""
     }
