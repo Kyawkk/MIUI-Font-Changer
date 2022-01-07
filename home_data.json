@@ -1,174 +1,239 @@
 [
-    {
-        "sliders":[
-            {
-                "name": "Test Font One",
-                "size": "160.74 KB",
-                "date": " Sep  6  2018",
-                "img": "https://i.pinimg.com/236x/aa/c8/27/aac827a17c5e7749823cc09cc8dbeec7.jpg",
-                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
-            },
-            {
-                "name": "Test Font Two",
-                "size": "160.74 KB",
-                "date": " Sep  6  2018",
-                "img": "http://www.goodmorningimagesdownload.com/wp-content/uploads/2019/12/Love-Images-1.jpg",
-                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
-            },
-            {
-                "name": "Test Font Three",
-                "size": "160.74 KB",
-                "date": " Sep  6  2018",
-                "img": "https://cdn.wallpapersafari.com/90/81/6reFjl.jpg",
-                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
-            },
-            {
-                "name": "Test Font Four",
-                "size": "160.74 KB",
-                "date": " Sep  6  2018",
-                "img": "https://static.vecteezy.com/system/resources/thumbnails/003/226/126/small/empty-podium-with-line-gradient-neon-ring-on-background-vector.jpg",
-                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
-            }
+  {
+    "sliders": [
+      {
+        "name": "Test Font One",
+        "size": "160.74 KB",
+
+        "img": "https://i.pinimg.com/236x/aa/c8/27/aac827a17c5e7749823cc09cc8dbeec7.jpg",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+      },
+      {
+        "name": "Test Font Two",
+        "size": "160.74 KB",
+
+        "img": "http://www.goodmorningimagesdownload.com/wp-content/uploads/2019/12/Love-Images-1.jpg",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+      },
+      {
+        "name": "Test Font Three",
+        "size": "160.74 KB",
+
+        "img": "https://cdn.wallpapersafari.com/90/81/6reFjl.jpg",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+      },
+      {
+        "name": "Test Font Four",
+        "size": "160.74 KB",
+
+        "img": "https://static.vecteezy.com/system/resources/thumbnails/003/226/126/small/empty-podium-with-line-gradient-neon-ring-on-background-vector.jpg",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+      }
+    ]
+  },
+  {
+    "categories": [
+      {
+        "title": "Emoji",
+        "url": "url",
+        "data": [
+          {
+            "name": "Kamjing",
+            "size": "225.24 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+          },
+          {
+            "name": "KT_02",
+            "size": "347.08 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_02.ttf?raw=true"
+          },
+          {
+            "name": "KT_03",
+            "size": "160.74 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_03.ttf?raw=true"
+          },
+          {
+            "name": "MasterpieceUniRound",
+            "size": "59.60 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/MasterpieceUniRound.ttf?raw=true"
+          }
         ]
-    },
-    {
-        "categories":[
-            {
-                "title": "Emoji",
-                "url":"url",
-                "data":[
-                    {
-                        "name": "Kamjing",
-                        "size": "225.24 KB",
-                        "image": "",
-                        "date": " Sep 22  2019",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
-                    },
-                    {
-                        "name": "KT_02",
-                        "size": "347.08 KB",
-                        "image": "",
-                        "date": " Sep  6  2018",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_02.ttf?raw=true"
-                    },
-                    {
-                        "name": "KT_03",
-                        "size": "160.74 KB",
-                        "image": "",
-                        "date": " Sep  6  2018",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_03.ttf?raw=true"
-                    },
-                    {
-                        "name": "MasterpieceUniRound",
-                        "size": "59.60 KB",
-                        "image": "",
-                        "date": " Sep  6  2018",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/MasterpieceUniRound.ttf?raw=true"
-                    }
-                ]
-            },
-            {
-                "title": "English",
-                "url": "url",
-                "data":[
-                    {
-                        "name": "English One",
-                        "size": "225.24 KB",
-                        "image": "",
-                        "date": " Sep 22  2019",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
-                    },
-                    {
-                        "name": "English Two",
-                        "size": "347.08 KB",
-                        "image": "",
-                        "date": " Sep  6  2018",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_02.ttf?raw=true"
-                    },
-                    {
-                        "name": "English Three",
-                        "size": "160.74 KB",
-                        "image": "",
-                        "date": " Sep  6  2018",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_03.ttf?raw=true"
-                    },
-                    {
-                        "name": "English Four",
-                        "size": "59.60 KB",
-                        "image": "",
-                        "date": " Sep  6  2018",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/MasterpieceUniRound.ttf?raw=true"
-                    }
-                ]
-            },
-            {
-                "title": "Myanmar",
-                "url":"https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json",
-                "data":[
-                    {
-                        "name": "Myanmar One",
-                        "size": "225.24 KB",
-                        "image": "",
-                        "date": " Sep 22  2019",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
-                    },
-                    {
-                        "name": "Myanmar Two",
-                        "size": "347.08 KB",
-                        "image": "",
-                        "date": " Sep  6  2018",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_02.ttf?raw=true"
-                    },
-                    {
-                        "name": "Myanmar Three",
-                        "size": "160.74 KB",
-                        "image": "",
-                        "date": " Sep  6  2018",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_03.ttf?raw=true"
-                    },
-                    {
-                        "name": "Myanmar Four",
-                        "size": "59.60 KB",
-                        "image": "",
-                        "date": " Sep  6  2018",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/MasterpieceUniRound.ttf?raw=true"
-                    }
-                ]
-            },
-            {
-                "title": "Stylish",
-                "url": "stylish url",
-                "data": [
-                    {
-                        "name": "Stylish One",
-                        "size": "225.24 KB",
-                        "image": "",
-                        "date": " Sep 22  2019",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
-                    },
-                    {
-                        "name": "Stylish Two",
-                        "size": "347.08 KB",
-                        "image": "",
-                        "date": " Sep  6  2018",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_02.ttf?raw=true"
-                    },
-                    {
-                        "name": "Stylish Three",
-                        "size": "160.74 KB",
-                        "image": "",
-                        "date": " Sep  6  2018",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_03.ttf?raw=true"
-                    },
-                    {
-                        "name": "Stylish Four",
-                        "size": "59.60 KB",
-                        "image": "",
-                        "date": " Sep  6  2018",
-                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/MasterpieceUniRound.ttf?raw=true"
-                    }
-                ]
-            }
+      },
+      {
+        "title": "English",
+        "url": "url",
+        "data": [
+          {
+            "name": "English One",
+            "size": "225.24 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+          },
+          {
+            "name": "English Two",
+            "size": "347.08 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_02.ttf?raw=true"
+          },
+          {
+            "name": "English Three",
+            "size": "160.74 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_03.ttf?raw=true"
+          },
+          {
+            "name": "English Four",
+            "size": "59.60 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/MasterpieceUniRound.ttf?raw=true"
+          }
         ]
-    }
+      },
+      {
+        "title": "Myanmar",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json",
+        "data": [
+          {
+            "name": "Myanmar One",
+            "size": "225.24 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+          },
+          {
+            "name": "Myanmar Two",
+            "size": "347.08 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_02.ttf?raw=true"
+          },
+          {
+            "name": "Myanmar Three",
+            "size": "160.74 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_03.ttf?raw=true"
+          },
+          {
+            "name": "Myanmar Four",
+            "size": "59.60 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/MasterpieceUniRound.ttf?raw=true"
+          }
+        ]
+      },
+      {
+        "title": "Stylish",
+        "url": "stylish url",
+        "data": [
+          {
+            "name": "Stylish One",
+            "size": "225.24 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+          },
+          {
+            "name": "Stylish Two",
+            "size": "347.08 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_02.ttf?raw=true"
+          },
+          {
+            "name": "Stylish Three",
+            "size": "160.74 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_03.ttf?raw=true"
+          },
+          {
+            "name": "Stylish Four",
+            "size": "59.60 KB",
+            "image": "",
+
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/MasterpieceUniRound.ttf?raw=true"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "languages": [
+      {
+        "name": "Myanmar",
+        "country_img": "https://www.globalcompliancenews.com/wp-content/uploads/sites/43/2018/05/Myanmar.png",
+        "size": "120",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
+      },
+      {
+        "name": "English",
+        "country_img": "https://takemetomyanmar.com/wp-content/uploads/2021/10/england-top-rated-cities-london.jpg",
+        "size": "80",
+        "url": ""
+      },
+      {
+        "name": "Thai",
+        "country_img": "https://www.thaiairways.com/static/common/imgscontent/hilight_destination/TakeMeTour/Bangkok.jpg",
+        "size": "215",
+        "url": ""
+      },
+      {
+        "name": "Vietnamese",
+        "country_img": "https://image.volunteerworld.com/03efaf83ee2bc191c74ad4ad44b6fe2dca509dcf/vietnam-banner.jpg?auto=format&crop=right&fit=crop&h=410&w=700",
+        "size": "59",
+        "url": ""
+      },
+      {
+        "name": "Cambodia",
+        "country_img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/151CF/production/_108297468_5b560e6b-51aa-4d75-819a-b242e3a577f3.jpg",
+        "size": "21",
+        "url": ""
+      },
+      {
+        "name": "Lao",
+        "country_img": "https://www.intracen.org/uploadedImages/intracenorg/Content/Redesign/Projects/Arise_plus_Laos/shutterstock_1512201581.jpg",
+        "size": "42",
+        "url": ""
+      },
+      {
+        "name": "Filipino",
+        "country_img": "https://ctrlr.org/wp-content/uploads/2021/05/Best-things-to-do-in-Philippines.jpg",
+        "size": "49",
+        "url": ""
+      },
+      {
+        "name": "Chinese",
+        "country_img": "https://www.umonarch-mei.ch/wp-content/uploads/2020/02/China-Pagoda.jpg",
+        "size": "210",
+        "url": ""
+      },
+
+      {
+        "name": "Japanese",
+        "country_img": "https://resources.matcha-jp.com/resize/720x2000/2021/01/28-112002.jpeg",
+        "size": "83",
+        "url": ""
+      },
+      {
+        "name": "Korean",
+        "country_img": "https://img2.storyblok.com/f/89778/786x584/37df951b58/kr_00_00_m.jpg",
+        "size": "146",
+        "url": ""
+      }
+    ]
+  }
 ]
