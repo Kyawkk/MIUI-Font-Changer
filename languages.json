@@ -2,13 +2,13 @@
     {
         "name" : "Myanmar",
         "country_img": "https://www.globalcompliancenews.com/wp-content/uploads/sites/43/2018/05/Myanmar.png",
-        "size": "120",
+        "size": "107",
         "url":"https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
     },
     {
         "name" : "English",
         "country_img": "https://takemetomyanmar.com/wp-content/uploads/2021/10/england-top-rated-cities-london.jpg",
-        "size": "80",
+        "size": "52",
         "url":"https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/english.json"
     },
     {
