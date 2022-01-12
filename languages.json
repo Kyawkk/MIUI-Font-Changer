@@ -6,6 +6,12 @@
         "url":"https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
     },
     {
+       "name" : "Arabic",
+       "country_img": "",
+       "size" : "116",
+       "url" : "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/arabic.json"
+    },
+    {
         "name" : "English",
         "country_img": "https://takemetomyanmar.com/wp-content/uploads/2021/10/england-top-rated-cities-london.jpg",
         "size": "52",
