@@ -1,0 +1,220 @@
+{
+  "fonts": [
+    {
+      "name": "Android_11_Beta",
+      "size": "9.71 MB",
+      "image": "https://i.ibb.co/Yy76m4X/Android-L.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Android_11_Beta.ttf?raw=true"
+    },
+    {
+      "name": "Android_11",
+      "size": "10.40 MB",
+      "image": "https://i.ibb.co/tCv99Xj/Android-11.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Android_11.ttf?raw=true"
+    },
+    {
+      "name": "Android_12_UNRELEASED",
+      "size": "10.06 MB",
+      "image": "https://i.ibb.co/tCv99Xj/Android-11.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Android_12_UNRELEASED.ttf?raw=true"
+    },
+    {
+      "name": "Android.L",
+      "size": "5.13 MB",
+      "image": "https://i.ibb.co/tCv99Xj/Android-11.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Android.L.ttf?raw=true"
+    },
+    {
+      "name": "AndroidPEmoji",
+      "size": "14.05 MB",
+      "image": "https://i.ibb.co/NTYLRGL/Android-PEmoji.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/AndroidPEmoji.ttf?raw=true"
+    },
+    {
+      "name": "AppleColorEmoji",
+      "size": "35.45 MB",
+      "image": "https://i.ibb.co/7jWJjRs/Apple-Color-Emoji.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/AppleColorEmoji.ttf?raw=true"
+    },
+    {
+      "name": "EmojiKitchen",
+      "size": "6.51 MB",
+      "image": "https://i.ibb.co/GQ8SFK2/emoji.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/EmojiKitchen.ttf?raw=true"
+    },
+    {
+      "name": "emoji",
+      "size": "317.86 KB",
+      "image": "https://i.ibb.co/6H93KJb/Emoji-Kitchen.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/emoji.ttf?raw=true"
+    },
+    {
+      "name": "FaceBook5.0",
+      "size": "12.91 MB",
+      "image": "https://i.ibb.co/6H93KJb/Emoji-Kitchen.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/FaceBook5.0.ttf?raw=true"
+    },
+    {
+      "name": "FacebookEmoji",
+      "size": "18.84 MB",
+      "image": "https://i.ibb.co/F6xvQNh/Face-Book5-0.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/FacebookEmoji.ttf?raw=true"
+    },
+    {
+      "name": "GMonkey",
+      "size": "6.27 MB",
+      "image": "https://i.ibb.co/9gRP8B1/Facebook-Emoji.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/GMonkey.ttf?raw=true"
+    },
+    {
+      "name": "Google11",
+      "size": "5.99 MB",
+      "image": "https://i.ibb.co/1QXFysB/GMonkey.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Google11.ttf?raw=true"
+    },
+    {
+      "name": "GPoo",
+      "size": "6.21 MB",
+      "image": "https://i.ibb.co/NNGy9jK/Google11.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/GPoo.ttf?raw=true"
+    },
+    {
+      "name": "Gturtle",
+      "size": "6.25 MB",
+      "image": "https://i.ibb.co/02Ybk9D/GPoo.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Gturtle.ttf?raw=true"
+    },
+    {
+      "name": "HTC.Sense",
+      "size": "5.35 MB",
+      "image": "https://i.ibb.co/6Jmx5Db/Gturtle.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/HTC.Sense.ttf?raw=true"
+    },
+    {
+      "name": "iOS12.1",
+      "size": "26.08 MB",
+      "image": "https://i.ibb.co/v3dJf2y/HTC-Sense.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/iOS12.1.ttf?raw=true"
+    },
+    {
+      "name": "iOS_14.5_BETA",
+      "size": "27.04 MB",
+      "image": "https://i.ibb.co/vPvGs79/iOS12-1.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/iOS_14.5_BETA.ttf?raw=true"
+    },
+    {
+      "name": "iOS+GMonkey",
+      "size": "13.32 MB",
+      "image": "https://i.ibb.co/XxwsbjY/i-OS-14-5-BETA.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/iOS+GMonkey.ttf?raw=true"
+    },
+    {
+      "name": "iOS+GPoo",
+      "size": "13.26 MB",
+      "image": "https://i.ibb.co/1QXFysB/GMonkey.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/iOS+GPoo.ttf?raw=true"
+    },
+    {
+      "name": "JoyPixel",
+      "size": "23.21 MB",
+      "image": "https://i.ibb.co/02Ybk9D/GPoo.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/JoyPixel.ttf?raw=true"
+    },
+    {
+      "name": "Kitchen+Google11Beta",
+      "size": "10.27 MB",
+      "image": "https://i.ibb.co/hFJyFxH/JoyPixel.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Kitchen+Google11Beta.ttf?raw=true"
+    },
+    {
+      "name": "LG",
+      "size": "6.45 MB",
+      "image": "https://i.ibb.co/6H93KJb/Emoji-Kitchen.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/LG.ttf?raw=true"
+    },
+    {
+      "name": "og-dcm-emoji",
+      "size": "82.38 KB",
+      "image": "https://i.ibb.co/VLWKP78/LG.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/og-dcm-emoji.ttf?raw=true"
+    },
+    {
+      "name": "OpenSansEmoji",
+      "size": "532.62 KB",
+      "image": "https://i.ibb.co/RHPwmft/og-dcm-emoji.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/OpenSansEmoji.otf?raw=true"
+    },
+    {
+      "name": "OpenSansEmoji",
+      "size": "561.51 KB",
+      "image": "https://i.ibb.co/VBXb7vy/Open-Sans-Emoji.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/OpenSansEmoji.ttf?raw=true"
+    },
+    {
+      "name": "Phantom",
+      "size": "719.74 KB",
+      "image": "https://i.ibb.co/S7vPH1F/Phantom.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Phantom.ttf?raw=true"
+    },
+    {
+      "name": "Pixels",
+      "size": "2.00 MB",
+      "image": "https://i.ibb.co/WcKtxwZ/Pixels.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Pixels.ttf?raw=true"
+    },
+    {
+      "name": "Samsung_Android11",
+      "size": "16.81 MB",
+      "image": "https://i.ibb.co/f9pdkLh/Samsung.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Samsung_Android11.ttf?raw=true"
+    },
+    {
+      "name": "Samsung_Emoji_2.5",
+      "size": "16.81 MB",
+      "image": "https://i.ibb.co/vBbVvvM/Samsung-Android11.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Samsung_Emoji_2.5.ttf?raw=true"
+    },
+    {
+      "name": "SamsungPie",
+      "size": "11.19 MB",
+      "image": "https://i.ibb.co/vBbVvvM/Samsung-Android11.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/SamsungPie.ttf?raw=true"
+    },
+    {
+      "name": "Samsung",
+      "size": "6.80 MB",
+      "image": "https://i.ibb.co/rpHndRm/Samsung-Pie.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Samsung.ttf?raw=true"
+    },
+    {
+      "name": "Twemoji",
+      "size": "1.72 MB",
+      "image": "https://i.ibb.co/nnx7bqB/Twemoji.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Twemoji.ttf?raw=true"
+    },
+    {
+      "name": "Twitter",
+      "size": "2.65 MB",
+      "image": "https://i.ibb.co/7N6G4hM/Twitter.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Twitter.ttf?raw=true"
+    },
+    {
+      "name": "unofficial_iOS16_u14",
+      "size": "27.10 MB",
+      "image": "https://i.ibb.co/YRPS8Ch/unofficial-i-OS16-u14.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/unofficial_iOS16_u14.ttf?raw=true"
+    },
+    {
+      "name": "WhatsApp_v1.1",
+      "size": "35.63 MB",
+      "image": "https://i.ibb.co/nRhYZ5Y/Whats-App-v1-1.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/WhatsApp_v1.1.ttf?raw=true"
+    },
+    {
+      "name": "Windows10Emoji",
+      "size": "17.15 MB",
+      "image": "https://i.ibb.co/Pc94pJh/Windows10-Emoji.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Windows10Emoji.ttf?raw=true"
+    }
+  ]
+}
