@@ -38,32 +38,28 @@
         "url": "url",
         "data": [
           {
-            "name": "Kamjing",
-            "size": "225.24 KB",
-            "image": "",
-
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+            "name": "Android_11_Beta",
+            "size": "9.71 MB",
+            "image": "https://i.ibb.co/HdRCV5Y/Android-11.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Android_11_Beta.ttf?raw=true"
           },
           {
-            "name": "KT_02",
-            "size": "347.08 KB",
-            "image": "",
-
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_02.ttf?raw=true"
+            "name": "Android_11",
+            "size": "10.40 MB",
+            "image": "https://i.ibb.co/hcXNdRy/Android-L.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Android_11.ttf?raw=true"
           },
           {
-            "name": "KT_03",
-            "size": "160.74 KB",
-            "image": "",
-
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/KT_03.ttf?raw=true"
+            "name": "Android_12_UNRELEASED",
+            "size": "10.06 MB",
+            "image": "https://i.ibb.co/HdRCV5Y/Android-11.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Android_12_UNRELEASED.ttf?raw=true"
           },
           {
-            "name": "MasterpieceUniRound",
-            "size": "59.60 KB",
-            "image": "",
-
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/MasterpieceUniRound.ttf?raw=true"
+            "name": "Android.L",
+            "size": "5.13 MB",
+            "image": "https://i.ibb.co/HdRCV5Y/Android-11.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Emoji/Android.L.ttf?raw=true"
           }
         ]
       },
@@ -170,79 +166,78 @@
   {
     "languages": [
       {
-          "name" : "Myanmar",
-          "country_img": "https://www.globalcompliancenews.com/wp-content/uploads/sites/43/2018/05/Myanmar.png",
-          "size": "107",
-          "url":"https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
+        "name": "Myanmar",
+        "country_img": "https://www.globalcompliancenews.com/wp-content/uploads/sites/43/2018/05/Myanmar.png",
+        "size": "107",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
       },
       {
-         "name" : "Arabic",
-         "country_img": "https://www.worldbank.org/content/dam/photos/780x439/2020/oct-2/MEU2020_KSA.jpg",
-         "size" : "116",
-         "url" : "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/arabic.json"
+        "name": "Arabic",
+        "country_img": "https://www.worldbank.org/content/dam/photos/780x439/2020/oct-2/MEU2020_KSA.jpg",
+        "size": "116",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/arabic.json"
       },
       {
-         "name" : "Emoji",
-         "country_img" : "https://149346090.v2.pressablecdn.com/wp-content/uploads/2021/10/GettyImages-1226007274-1600x900.jpg",
-         "size" : "36",
-         "url" : "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/emoji.json"
+        "name": "Emoji",
+        "country_img": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2021/10/GettyImages-1226007274-1600x900.jpg",
+        "size": "36",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/emoji.json"
       },
       {
-          "name" : "English",
-          "country_img": "https://takemetomyanmar.com/wp-content/uploads/2021/10/england-top-rated-cities-london.jpg",
-          "size": "52",
-          "url":"https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/english.json"
+        "name": "English",
+        "country_img": "https://takemetomyanmar.com/wp-content/uploads/2021/10/england-top-rated-cities-london.jpg",
+        "size": "52",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/english.json"
       },
       {
-          "name" : "Thai",
-          "country_img": "https://www.thaiairways.com/static/common/imgscontent/hilight_destination/TakeMeTour/Bangkok.jpg",
-          "size": "215",
-          "url":""
+        "name": "Thai",
+        "country_img": "https://www.thaiairways.com/static/common/imgscontent/hilight_destination/TakeMeTour/Bangkok.jpg",
+        "size": "215",
+        "url": ""
       },
       {
-          "name" : "Vietnamese",
-          "country_img": "https://image.volunteerworld.com/03efaf83ee2bc191c74ad4ad44b6fe2dca509dcf/vietnam-banner.jpg?auto=format&crop=right&fit=crop&h=410&w=700",
-          "size": "59",
-          "url":""
+        "name": "Vietnamese",
+        "country_img": "https://image.volunteerworld.com/03efaf83ee2bc191c74ad4ad44b6fe2dca509dcf/vietnam-banner.jpg?auto=format&crop=right&fit=crop&h=410&w=700",
+        "size": "59",
+        "url": ""
       },
       {
-          "name" : "Cambodia",
-          "country_img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/151CF/production/_108297468_5b560e6b-51aa-4d75-819a-b242e3a577f3.jpg",
-          "size": "21",
-          "url":""
+        "name": "Cambodia",
+        "country_img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/151CF/production/_108297468_5b560e6b-51aa-4d75-819a-b242e3a577f3.jpg",
+        "size": "21",
+        "url": ""
       },
       {
-          "name" : "Lao",
-          "country_img": "https://www.intracen.org/uploadedImages/intracenorg/Content/Redesign/Projects/Arise_plus_Laos/shutterstock_1512201581.jpg",
-          "size": "42",
-          "url":""
+        "name": "Lao",
+        "country_img": "https://www.intracen.org/uploadedImages/intracenorg/Content/Redesign/Projects/Arise_plus_Laos/shutterstock_1512201581.jpg",
+        "size": "42",
+        "url": ""
       },
       {
-          "name" : "Filipino",
-          "country_img": "https://ctrlr.org/wp-content/uploads/2021/05/Best-things-to-do-in-Philippines.jpg",
-          "size": "49",
-          "url":""
+        "name": "Filipino",
+        "country_img": "https://ctrlr.org/wp-content/uploads/2021/05/Best-things-to-do-in-Philippines.jpg",
+        "size": "49",
+        "url": ""
       },
       {
-          "name" : "Chinese",
-          "country_img": "https://www.umonarch-mei.ch/wp-content/uploads/2020/02/China-Pagoda.jpg",
-          "size": "210",
-          "url":""
+        "name": "Chinese",
+        "country_img": "https://www.umonarch-mei.ch/wp-content/uploads/2020/02/China-Pagoda.jpg",
+        "size": "210",
+        "url": ""
       },
-  
+
       {
-          "name" : "Japanese",
-          "country_img": "https://resources.matcha-jp.com/resize/720x2000/2021/01/28-112002.jpeg",
-          "size": "83",
-          "url":""
+        "name": "Japanese",
+        "country_img": "https://resources.matcha-jp.com/resize/720x2000/2021/01/28-112002.jpeg",
+        "size": "83",
+        "url": ""
       },
       {
-          "name" : "Korean",
-          "country_img": "https://img2.storyblok.com/f/89778/786x584/37df951b58/kr_00_00_m.jpg",
-          "size": "146",
-          "url":""
+        "name": "Korean",
+        "country_img": "https://img2.storyblok.com/f/89778/786x584/37df951b58/kr_00_00_m.jpg",
+        "size": "146",
+        "url": ""
       }
-      
-  ]
+    ]
   }
 ]
