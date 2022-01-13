@@ -177,7 +177,7 @@
       },
       {
          "name" : "Arabic",
-         "country_img": "",
+         "country_img": "https://www.worldbank.org/content/dam/photos/780x439/2020/oct-2/MEU2020_KSA.jpg",
          "size" : "116",
          "url" : "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/arabic.json"
       },
