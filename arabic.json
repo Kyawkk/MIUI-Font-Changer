@@ -1,0 +1,700 @@
+{
+  "fonts": [
+    {
+      "name": "Abdoullah Ashgar EL Kharef",
+      "size": "69.64 KB",
+      "image": "https://i.ibb.co/X5csksy/Abdoullah-Ashgar-EL-Kharef.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Abdoullah Ashgar EL Kharef.ttf?raw=true"
+    },
+    {
+      "name": "Adobe Arabic Shin",
+      "size": "75.89 KB",
+      "image": "https://i.ibb.co/F6k3pNQ/Adobe-Arabic-Shin.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Adobe Arabic Shin.ttf?raw=true"
+    },
+    {
+      "name": "AD Rsail",
+      "size": "54.68 KB",
+      "image": "https://i.ibb.co/PQHgzy0/AD-Rsail.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/AD Rsail.otf?raw=true"
+    },
+    {
+      "name": "Afsaneh Font",
+      "size": "75.49 KB",
+      "image": "https://i.ibb.co/nwdJpXC/Afsaneh-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Afsaneh Font.ttf?raw=true"
+    },
+    {
+      "name": "Ahrar Font",
+      "size": "497.00 KB",
+      "image": "https://i.ibb.co/f0817X9/Ahrar-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Ahrar Font.otf?raw=true"
+    },
+    {
+      "name": "Air Strip Arabic",
+      "size": "57.28 KB",
+      "image": "https://i.ibb.co/K2TSMD8/Air-Strip-Arabic.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Air Strip Arabic.otf?raw=true"
+    },
+    {
+      "name": "Air Strip Arabic",
+      "size": "127.08 KB",
+      "image": "https://i.ibb.co/DghcRq6/Alarabiya-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Air Strip Arabic.ttf?raw=true"
+    },
+    {
+      "name": "Alarabiya Font",
+      "size": "50.79 KB",
+      "image": "https://i.ibb.co/0scg21z/Alharbi-Alhanoof-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Alarabiya Font.ttf?raw=true"
+    },
+    {
+      "name": "Alharbi Alhanoof Font",
+      "size": "54.82 KB",
+      "image": "https://i.ibb.co/wQ0CNW3/Almarai-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Alharbi Alhanoof Font.otf?raw=true"
+    },
+    {
+      "name": "Almarai Font",
+      "size": "140.99 KB",
+      "image": "https://i.ibb.co/jk9zP1b/A-Massir-Ballpoint.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Almarai Font.ttf?raw=true"
+    },
+    {
+      "name": "A Massir Ballpoint",
+      "size": "91.33 KB",
+      "image": "https://i.ibb.co/k1FJwTC/Ara-Al-Bayan-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/A Massir Ballpoint.ttf?raw=true"
+    },
+    {
+      "name": "AraAlBayan Bold",
+      "size": "114.25 KB",
+      "image": "https://i.ibb.co/hRhDS4n/Ara-Alm-Bon.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/AraAlBayan Bold.otf?raw=true"
+    },
+    {
+      "name": "AraAlmBon",
+      "size": "35.56 KB",
+      "image": "https://i.ibb.co/mXyRGTv/Ara-Aqeeq-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/AraAlmBon.otf?raw=true"
+    },
+    {
+      "name": "AraAqeeq Bold",
+      "size": "49.11 KB",
+      "image": "https://i.ibb.co/HthcGth/Ara-Aqeeq-Extra-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/AraAqeeq Bold.ttf?raw=true"
+    },
+    {
+      "name": "AraAqeeq ExtraBold",
+      "size": "48.91 KB",
+      "image": "https://i.ibb.co/25ptgqb/Ara-ESNawar-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/AraAqeeq ExtraBold.ttf?raw=true"
+    },
+    {
+      "name": "AraESNawar Regular",
+      "size": "49.38 KB",
+      "image": "https://i.ibb.co/nPCqq2f/Ara-ESTaqniya-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/AraESNawar Regular.otf?raw=true"
+    },
+    {
+      "name": "AraESTaqniya Regular",
+      "size": "42.44 KB",
+      "image": "https://i.ibb.co/5hryPny/Ara-Hala-Bo-Shesha-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/AraESTaqniya Regular.otf?raw=true"
+    },
+    {
+      "name": "AraHalaBoShesha Regular",
+      "size": "68.76 KB",
+      "image": "https://i.ibb.co/VCm3fjj/Ara-Hamah1964-B-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/AraHalaBoShesha Regular.otf?raw=true"
+    },
+    {
+      "name": "AraHamah1964B Bold",
+      "size": "41.16 KB",
+      "image": "https://i.ibb.co/fd3JJb2/Asmaa-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/AraHamah1964B Bold.otf?raw=true"
+    },
+    {
+      "name": "Asmaa Font",
+      "size": "68.71 KB",
+      "image": "https://i.ibb.co/68VLn25/Assaf-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Asmaa Font.otf?raw=true"
+    },
+    {
+      "name": "Assaf Font",
+      "size": "45.06 KB",
+      "image": "https://i.ibb.co/1fHCHjC/Bein-Ar-Black-0.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Assaf Font.otf?raw=true"
+    },
+    {
+      "name": "Bein-Ar-Black_0",
+      "size": "131.24 KB",
+      "image": "https://i.ibb.co/Qjxkgbj/Bein-Ar-Normal-0.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Bein-Ar-Black_0.ttf?raw=true"
+    },
+    {
+      "name": "Bein-Ar-Normal_0",
+      "size": "140.37 KB",
+      "image": "https://i.ibb.co/gjR5bvC/Blue-Ocean.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Bein-Ar-Normal_0.ttf?raw=true"
+    },
+    {
+      "name": "Blue Ocean",
+      "size": "29.58 KB",
+      "image": "https://i.ibb.co/XJ3mrQb/Bustan-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Blue Ocean.ttf?raw=true"
+    },
+    {
+      "name": "Bustan Bold",
+      "size": "3.08 MB",
+      "image": "https://i.ibb.co/0j4Dy6s/BZIBA.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Bustan Bold.otf?raw=true"
+    },
+    {
+      "name": "BZIBA",
+      "size": "47.12 KB",
+      "image": "https://i.ibb.co/qNVDc21/Choco-Cooky.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/BZIBA.ttf?raw=true"
+    },
+    {
+      "name": "Choco Cooky",
+      "size": "1.72 MB",
+      "image": "https://i.ibb.co/3yRv5X2/Cocon-Next-Arabic-Light.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Choco Cooky.ttf?raw=true"
+    },
+    {
+      "name": "Cocon Next Arabic Light",
+      "size": "61.46 KB",
+      "image": "https://i.ibb.co/k5H1V4g/Dastnevis.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Cocon Next Arabic Light.otf?raw=true"
+    },
+    {
+      "name": "Dastnevis",
+      "size": "29.45 KB",
+      "image": "https://i.ibb.co/1rVZCKd/Deco-Type-Thuluth.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Dastnevis.otf?raw=true"
+    },
+    {
+      "name": "DecoType Thuluth",
+      "size": "89.35 KB",
+      "image": "https://i.ibb.co/dM7JG7m/Dima-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/DecoType Thuluth.ttf?raw=true"
+    },
+    {
+      "name": "Dima Font",
+      "size": "63.11 KB",
+      "image": "https://i.ibb.co/TkSgY83/DIN-NEXT-ARABIC-REGULAR.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Dima Font.ttf?raw=true"
+    },
+    {
+      "name": "DIN NEXT ARABIC REGULAR",
+      "size": "140.15 KB",
+      "image": "https://i.ibb.co/7W4D2bn/Droid-Kufi-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/DIN NEXT ARABIC REGULAR.otf?raw=true"
+    },
+    {
+      "name": "DroidKufi Bold",
+      "size": "81.22 KB",
+      "image": "https://i.ibb.co/9YKtSx9/Droid-Kufi-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/DroidKufi Bold.ttf?raw=true"
+    },
+    {
+      "name": "DroidKufi Regular",
+      "size": "81.22 KB",
+      "image": "https://i.ibb.co/vZmVTXv/El-Messiri-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/DroidKufi Regular.ttf?raw=true"
+    },
+    {
+      "name": "ElMessiri Bold",
+      "size": "77.60 KB",
+      "image": "https://i.ibb.co/JdfFwPm/Emad-Diana-Light.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/ElMessiri Bold.otf?raw=true"
+    },
+    {
+      "name": "Emad Diana Light",
+      "size": "28.68 KB",
+      "image": "https://i.ibb.co/tJvrkDM/Far-Casablanca.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Emad Diana Light.otf?raw=true"
+    },
+    {
+      "name": "Far Casablanca",
+      "size": "30.08 KB",
+      "image": "https://i.ibb.co/ypdzR1P/FDK-Aban.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Far Casablanca.ttf?raw=true"
+    },
+    {
+      "name": "FDK Aban",
+      "size": "32.10 KB",
+      "image": "https://i.ibb.co/5kRndcQ/FFBouya-Messy.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/FDK Aban.ttf?raw=true"
+    },
+    {
+      "name": "FFBouya Messy",
+      "size": "288.14 KB",
+      "image": "https://i.ibb.co/n7LtdCN/FFBouya-Normal.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/FFBouya Messy.otf?raw=true"
+    },
+    {
+      "name": "FFBouya Normal",
+      "size": "155.82 KB",
+      "image": "https://i.ibb.co/Bn4pdKn/FFHekaya-Light.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/FFBouya Normal.otf?raw=true"
+    },
+    {
+      "name": "FFHekaya Light",
+      "size": "41.78 KB",
+      "image": "https://i.ibb.co/yXKpGM5/FFKhallab-Italic.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/FFHekaya Light.otf?raw=true"
+    },
+    {
+      "name": "FFKhallab-Italic",
+      "size": "27.33 KB",
+      "image": "https://i.ibb.co/zPQ4G6K/FFKhallab-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/FFKhallab-Italic.otf?raw=true"
+    },
+    {
+      "name": "FFKhallab-Regular",
+      "size": "21.27 KB",
+      "image": "https://i.ibb.co/P9xDGbq/FFTaweel-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/FFKhallab-Regular.otf?raw=true"
+    },
+    {
+      "name": "FFTaweel Regular",
+      "size": "31.28 KB",
+      "image": "https://i.ibb.co/DPJDMgN/FFYaseer-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/FFTaweel Regular.otf?raw=true"
+    },
+    {
+      "name": "FFYaseer Regular",
+      "size": "41.76 KB",
+      "image": "https://i.ibb.co/wgZ2cXP/FFYaseer-Solid.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/FFYaseer Regular.otf?raw=true"
+    },
+    {
+      "name": "FFYaseer Solid",
+      "size": "43.12 KB",
+      "image": "https://i.ibb.co/6bPt4sK/Frutiger-LT-Arabic.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/FFYaseer Solid.otf?raw=true"
+    },
+    {
+      "name": "FrutigerLT Arabic",
+      "size": "141.52 KB",
+      "image": "https://i.ibb.co/RYJSWDw/FS-Metal.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/FrutigerLT Arabic.ttf?raw=true"
+    },
+    {
+      "name": "FS Metal",
+      "size": "59.69 KB",
+      "image": "https://i.ibb.co/48dHVZd/GE-SS.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/FS Metal.ttf?raw=true"
+    },
+    {
+      "name": "GE SS",
+      "size": "21.45 KB",
+      "image": "https://i.ibb.co/jkpbtLB/GE-SS-Unique-Light.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/GE SS.otf?raw=true"
+    },
+    {
+      "name": "GE SS Unique Light",
+      "size": "19.32 KB",
+      "image": "https://i.ibb.co/HdgSD91/GE-Thameen-Light.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/GE SS Unique Light.otf?raw=true"
+    },
+    {
+      "name": "GE Thameen Light",
+      "size": "24.26 KB",
+      "image": "https://i.ibb.co/vwp0VbQ/Hala.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/GE Thameen Light.otf?raw=true"
+    },
+    {
+      "name": "Hala",
+      "size": "126.48 KB",
+      "image": "https://i.ibb.co/GRGb9Ws/Hawiah-AD-Arwa.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Hala.otf?raw=true"
+    },
+    {
+      "name": "HawiahAD Arwa",
+      "size": "12.76 KB",
+      "image": "https://i.ibb.co/hD8W933/Helvetica-World-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/HawiahAD Arwa.otf?raw=true"
+    },
+    {
+      "name": "HelveticaWorld Bold",
+      "size": "536.02 KB",
+      "image": "https://i.ibb.co/Gx846h9/HSN-Golden.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/HelveticaWorld Bold.ttf?raw=true"
+    },
+    {
+      "name": "HSN Golden",
+      "size": "74.18 KB",
+      "image": "https://i.ibb.co/47K4mYS/HSN-Moalla.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/HSN Golden.ttf?raw=true"
+    },
+    {
+      "name": "HSN Moalla",
+      "size": "95.32 KB",
+      "image": "https://i.ibb.co/2Kjd80x/HSN-Naskh.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/HSN Moalla.ttf?raw=true"
+    },
+    {
+      "name": "HSN Naskh farisi",
+      "size": "48.68 KB",
+      "image": "https://i.ibb.co/1RvqWjB/HSN-Naskh-farisi.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/HSN Naskh farisi.ttf?raw=true"
+    },
+    {
+      "name": "HSN Naskh",
+      "size": "43.31 KB",
+      "image": "https://i.ibb.co/94F2Cp6/Ibtisam.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/HSN Naskh.ttf?raw=true"
+    },
+    {
+      "name": "Ibtisam",
+      "size": "29.88 KB",
+      "image": "https://i.ibb.co/qr8VTyn/Ithra-Light-Web.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Ibtisam.ttf?raw=true"
+    },
+    {
+      "name": "Ithra Light Web",
+      "size": "57.14 KB",
+      "image": "https://i.ibb.co/CM7CXG1/Janna-LT-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Ithra Light Web.ttf?raw=true"
+    },
+    {
+      "name": "JannaLT Regular",
+      "size": "139.34 KB",
+      "image": "https://i.ibb.co/k6FxGSG/JF-Flat-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/JannaLT Regular.ttf?raw=true"
+    },
+    {
+      "name": "JF Flat Regular",
+      "size": "43.85 KB",
+      "image": "https://i.ibb.co/4TKw3MY/Jozoor-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/JF Flat Regular.otf?raw=true"
+    },
+    {
+      "name": "Jozoor Font",
+      "size": "89.48 KB",
+      "image": "https://i.ibb.co/7n0P2sP/Khaled-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Jozoor Font.otf?raw=true"
+    },
+    {
+      "name": "Khaled Font",
+      "size": "48.36 KB",
+      "image": "https://i.ibb.co/XCR2Brq/Kharabeesh-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Khaled Font.otf?raw=true"
+    },
+    {
+      "name": "Kharabeesh Font",
+      "size": "282.97 KB",
+      "image": "https://i.ibb.co/XSG1P6y/K-Sina.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kharabeesh Font.ttf?raw=true"
+    },
+    {
+      "name": "K Sina",
+      "size": "58.90 KB",
+      "image": "https://i.ibb.co/K77t9z8/Kufam-Regular-Web.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/K Sina.ttf?raw=true"
+    },
+    {
+      "name": "Kufam Regular Web",
+      "size": "81.03 KB",
+      "image": "https://i.ibb.co/rcjZfmn/Kufyan-Arabic-Black.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kufam Regular Web.otf?raw=true"
+    },
+    {
+      "name": "Kufyan Arabic Black",
+      "size": "42.03 KB",
+      "image": "https://i.ibb.co/rGkkCHr/Lalezar-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Kufyan Arabic Black.otf?raw=true"
+    },
+    {
+      "name": "Lalezar Regular",
+      "size": "150.31 KB",
+      "image": "https://i.ibb.co/dbr5zqR/Lamar-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Lalezar Regular.otf?raw=true"
+    },
+    {
+      "name": "Lamar Font",
+      "size": "48.68 KB",
+      "image": "https://i.ibb.co/b7Xb7Zd/Lemonada-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Lamar Font.otf?raw=true"
+    },
+    {
+      "name": "Lemonada Bold",
+      "size": "106.18 KB",
+      "image": "https://i.ibb.co/fDfpckW/MCS-THOLOTH-OUT.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Lemonada Bold.otf?raw=true"
+    },
+    {
+      "name": "MCS THOLOTH OUT",
+      "size": "93.91 KB",
+      "image": "https://i.ibb.co/h2NQpxL/Mobily.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/MCS THOLOTH OUT.ttf?raw=true"
+    },
+    {
+      "name": "Mobily",
+      "size": "83.51 KB",
+      "image": "https://i.ibb.co/DW7G0zX/Moga.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Mobily.ttf?raw=true"
+    },
+    {
+      "name": "Moga-Font",
+      "size": "57.68 KB",
+      "image": "https://i.ibb.co/7p0tBZC/Moga-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Moga-Font.ttf?raw=true"
+    },
+    {
+      "name": "Moga",
+      "size": "57.68 KB",
+      "image": "https://i.ibb.co/McGx3H5/Moheeb.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Moga.ttf?raw=true"
+    },
+    {
+      "name": "Moheeb",
+      "size": "25.50 KB",
+      "image": "https://i.ibb.co/ZGb1Yqs/Mokhtar-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Moheeb.otf?raw=true"
+    },
+    {
+      "name": "Mokhtar Bold",
+      "size": "45.06 KB",
+      "image": "https://i.ibb.co/31tK9bs/Molhim.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Mokhtar Bold.ttf?raw=true"
+    },
+    {
+      "name": "Molhim Bold",
+      "size": "84.90 KB",
+      "image": "https://i.ibb.co/KGjD96Z/Molhim-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Molhim Bold.otf?raw=true"
+    },
+    {
+      "name": "Molhim",
+      "size": "89.16 KB",
+      "image": "https://i.ibb.co/KGB57rc/Motairah.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Molhim.otf?raw=true"
+    },
+    {
+      "name": "Motairah",
+      "size": "38.24 KB",
+      "image": "https://i.ibb.co/K640Dr8/Motken-K-Nasim.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Motairah.otf?raw=true"
+    },
+    {
+      "name": "Motken K Nasim",
+      "size": "64.20 KB",
+      "image": "https://i.ibb.co/QNMd0J5/Neo-Sans-Arabic.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Motken K Nasim.ttf?raw=true"
+    },
+    {
+      "name": "NeoSansArabic",
+      "size": "160.04 KB",
+      "image": "https://i.ibb.co/G9m9QXD/Nizar-Aldhabi.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/NeoSansArabic.ttf?raw=true"
+    },
+    {
+      "name": "NizarAldhabi",
+      "size": "548.48 KB",
+      "image": "https://i.ibb.co/9Yk0Hhq/Nizar-BBCKurdish-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/NizarAldhabi.otf?raw=true"
+    },
+    {
+      "name": "NizarBBCKurdish Bold",
+      "size": "86.96 KB",
+      "image": "https://i.ibb.co/3Rg8MqC/Nizar-BBCKurdish-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/NizarBBCKurdish Bold.ttf?raw=true"
+    },
+    {
+      "name": "NizarBBCKurdish Regular",
+      "size": "87.24 KB",
+      "image": "https://i.ibb.co/wQWwyNq/Nizar-Cocon-Kurdish-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/NizarBBCKurdish Regular.ttf?raw=true"
+    },
+    {
+      "name": "NizarCoconKurdish Bold",
+      "size": "88.08 KB",
+      "image": "https://i.ibb.co/9cxgZFS/Ntaqat.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/NizarCoconKurdish Bold.otf?raw=true"
+    },
+    {
+      "name": "Ntaqat",
+      "size": "166.23 KB",
+      "image": "https://i.ibb.co/4SjSrYc/Omar-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Ntaqat.ttf?raw=true"
+    },
+    {
+      "name": "Omar Font",
+      "size": "32.82 KB",
+      "image": "https://i.ibb.co/K21ky1Z/Phalls-Khodkar.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Omar Font.ttf?raw=true"
+    },
+    {
+      "name": "Phalls Khodkar",
+      "size": "45.52 KB",
+      "image": "https://i.ibb.co/nQNRpq5/Runya-Multicolored-COLR.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Phalls Khodkar.ttf?raw=true"
+    },
+    {
+      "name": "RunyaMulticolored COLR",
+      "size": "123.43 KB",
+      "image": "https://i.ibb.co/CVSb5bN/Sane-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/RunyaMulticolored COLR.ttf?raw=true"
+    },
+    {
+      "name": "Sane Font",
+      "size": "82.29 KB",
+      "image": "https://i.ibb.co/840QcQy/Shahd-Font-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Sane Font.ttf?raw=true"
+    },
+    {
+      "name": "Shahd Font Regular",
+      "size": "42.06 KB",
+      "image": "https://i.ibb.co/Sxr2vq5/Sheba-Ye-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Shahd Font Regular.ttf?raw=true"
+    },
+    {
+      "name": "Sheba Ye Font",
+      "size": "85.03 KB",
+      "image": "https://i.ibb.co/yyvq01H/Shekari-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Sheba Ye Font.ttf?raw=true"
+    },
+    {
+      "name": "Shekari Font",
+      "size": "37.44 KB",
+      "image": "https://i.ibb.co/dtkj0SL/Shoroq-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Shekari Font.ttf?raw=true"
+    },
+    {
+      "name": "Shoroq Font",
+      "size": "78.74 KB",
+      "image": "https://i.ibb.co/RppMd0P/SOGAND.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Shoroq Font.ttf?raw=true"
+    },
+    {
+      "name": "SOGAND",
+      "size": "88.07 KB",
+      "image": "https://i.ibb.co/fDwfh6z/Souria-Free.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/SOGAND.ttf?raw=true"
+    },
+    {
+      "name": "Souria Free",
+      "size": "174.62 KB",
+      "image": "https://i.ibb.co/QX1WkMW/Sukar-Black.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Souria Free.ttf?raw=true"
+    },
+    {
+      "name": "Sukar Black",
+      "size": "46.78 KB",
+      "image": "https://i.ibb.co/nbQ7F6Y/Sukar-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Sukar Black.ttf?raw=true"
+    },
+    {
+      "name": "Sukar Bold",
+      "size": "47.41 KB",
+      "image": "https://i.ibb.co/C2Hsk4d/Sukar-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Sukar Bold.ttf?raw=true"
+    },
+    {
+      "name": "Sukar Regular",
+      "size": "46.83 KB",
+      "image": "https://i.ibb.co/s1Cqd9K/Sulimany.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Sukar Regular.ttf?raw=true"
+    },
+    {
+      "name": "Sulimany",
+      "size": "148.51 KB",
+      "image": "https://i.ibb.co/PhbZMRt/Tachkili-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Sulimany.ttf?raw=true"
+    },
+    {
+      "name": "Tachkili Font",
+      "size": "39.04 KB",
+      "image": "https://i.ibb.co/S6NFCZV/Thulth.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Tachkili Font.otf?raw=true"
+    },
+    {
+      "name": "Thulth Bold Italic",
+      "size": "78.23 KB",
+      "image": "https://i.ibb.co/kB1SX7j/Thulth-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Thulth Bold Italic.ttf?raw=true"
+    },
+    {
+      "name": "Thulth Bold",
+      "size": "77.48 KB",
+      "image": "https://i.ibb.co/ZgQQZCY/Thulth-Bold-Italic.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Thulth Bold.ttf?raw=true"
+    },
+    {
+      "name": "Thulth Italic",
+      "size": "77.70 KB",
+      "image": "https://i.ibb.co/ZJy33v0/Thulth-Italic.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Thulth Italic.ttf?raw=true"
+    },
+    {
+      "name": "Thulth",
+      "size": "76.97 KB",
+      "image": "https://i.ibb.co/K29zvv4/Toyor-Aljanah-Fat.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Thulth.ttf?raw=true"
+    },
+    {
+      "name": "ToyorAljanah Fat",
+      "size": "66.61 KB",
+      "image": "https://i.ibb.co/rwsp3zr/Toyor-Aljanah-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/ToyorAljanah Fat.otf?raw=true"
+    },
+    {
+      "name": "ToyorAljanah Regular",
+      "size": "68.30 KB",
+      "image": "https://i.ibb.co/8cbjHqS/VIP-Arabic-Typo.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/ToyorAljanah Regular.otf?raw=true"
+    },
+    {
+      "name": "VIP Arabic Typo",
+      "size": "99.46 KB",
+      "image": "https://i.ibb.co/Lzvg6GZ/VIP-Hakm-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/VIP Arabic Typo.otf?raw=true"
+    },
+    {
+      "name": "VIP Hakm Regular",
+      "size": "44.32 KB",
+      "image": "https://i.ibb.co/474ND94/VIP-Hala-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/VIP Hakm Regular.ttf?raw=true"
+    },
+    {
+      "name": "VIP Hala Bold",
+      "size": "57.67 KB",
+      "image": "https://i.ibb.co/0QqmjT7/VIP-Rawy-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/VIP Hala Bold.otf?raw=true"
+    },
+    {
+      "name": "VIP Rawy Regular",
+      "size": "37.84 KB",
+      "image": "https://i.ibb.co/D73FkRL/VIP-Sbgh.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/VIP Rawy Regular.otf?raw=true"
+    },
+    {
+      "name": "VIP Sbgh",
+      "size": "57.70 KB",
+      "image": "https://i.ibb.co/NSx9j4t/VIP-TIM-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/VIP Sbgh.otf?raw=true"
+    },
+    {
+      "name": "VIP TIM Regular",
+      "size": "131.68 KB",
+      "image": "https://i.ibb.co/G2Qj2kQ/VIP-Urkida-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/VIP TIM Regular.ttf?raw=true"
+    },
+    {
+      "name": "VIP Urkida Regular",
+      "size": "52.98 KB",
+      "image": "https://i.ibb.co/br8y5WQ/Wasm-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/VIP Urkida Regular.otf?raw=true"
+    },
+    {
+      "name": "Wasm Font Bold",
+      "size": "78.98 KB",
+      "image": "https://i.ibb.co/wCv8g1k/Wasm-Font-Bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/blob/master/Fonts/Myanmar/Wasm Font Bold.ttf?raw=true"
+    }
+  ]
+}
