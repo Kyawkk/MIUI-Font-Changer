@@ -186,9 +186,9 @@
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/english.json"
       },
       {
-        "name": "Thai",
-        "size": "215",
-        "url": ""
+        "name": "Bengali",
+        "size": "7",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/bengali.json"
       },
       {
         "name": "Vietnamese",
