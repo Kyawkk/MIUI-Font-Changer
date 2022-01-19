@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 {
     "isAvailable": true,
     "version": "Version 1.3",
     "update_url" : "https://play.google.com/store/apps/details?id=com.kyaw.myapplication",
     "description": "- Fixed some bugs\n- Enahanced performance\n- Added 420+ English Fonts\n- Update some UI"
 }
+=======
+
+{
+    "isAvailable": true,
+    "version": "Version 1.3",
+    "description": "- Fixed some bugs\n- Enahanced performance\n- Added 420+ English Fonts\n- Update some UI"
+}
+>>>>>>> 3dcabf1313a1f8f018485f43f7af9bbefb615bf0
