@@ -196,6 +196,11 @@
           "url" : "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/cyrillic.json"
       },
       {
+        "name": "Traditional Chinese",
+        "size": "41",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/traditional_chinese.json"
+      },
+      {
         "name": "Vietnamese",
         "size": "59",
         "url": ""
@@ -215,12 +220,6 @@
         "size": "49",
         "url": ""
       },
-      {
-        "name": "Chinese",
-        "size": "210",
-        "url": ""
-      },
-
       {
         "name": "Japanese",
         "size": "83",
