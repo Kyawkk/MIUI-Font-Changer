@@ -30,9 +30,14 @@
           "url" : "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/cyrillic.json"
       },
       {
-        "name": "Vietnamese",
-        "size": "59",
-        "url": ""
+        "name": "Traditional Chinese",
+        "size": "41",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/traditional_chinese.json"
+      },
+      {
+        "name": "Thai",
+        "size": "410",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/thai.json"
       },
       {
         "name": "Cambodia",
