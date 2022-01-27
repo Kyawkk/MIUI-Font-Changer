@@ -1,0 +1,346 @@
+{
+    "fonts" : [
+        {
+            "name": "Aakar",
+            "size": "77.10 KB",
+            "image":"https://i.ibb.co/GJHZK7L/Aakar.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Aakar.ttf"
+        },
+        {
+            "name": "akshar",
+            "size": "535.38 KB",
+            "image":"https://i.ibb.co/Zxn7R4P/akshar.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/akshar.ttf"
+        },
+        {
+            "name": "AMDAVAD UNICODE ",
+            "size": "93.95 KB",
+            "image":"https://i.ibb.co/jZ8RGvp/AMDAVAD-UNICODE.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/AMDAVAD UNICODE.ttf "
+        },
+        {
+            "name": "Avantika",
+            "size": "49.58 KB",
+            "image":"https://i.ibb.co/02k3Frf/Avantika.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Avantika.ttf"
+        },
+        {
+            "name": "BalooBhai2 Bold ",
+            "size": "725.21 KB",
+            "image":"https://i.ibb.co/VxmsFsc/Baloo-Bhai2-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/BalooBhai2 Bold.ttf "
+        },
+        {
+            "name": "BalooBhai2 Regular ",
+            "size": "698.02 KB",
+            "image":"https://i.ibb.co/847wCVK/Baloo-Bhai2-Regular.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/BalooBhai2 Regular.ttf "
+        },
+        {
+            "name": "Bhavnagar Unicode ",
+            "size": "114.34 KB",
+            "image":"https://i.ibb.co/jW85TcN/Bhavnagar-Unicode.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Bhavnagar Unicode.ttf "
+        },
+        {
+            "name": "BHUJ UNICODE ",
+            "size": "755.91 KB",
+            "image":"https://i.ibb.co/mq7RSKL/BHUJ-UNICODE.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/BHUJ UNICODE.ttf "
+        },
+        {
+            "name": "Ekatra B ",
+            "size": "88.21 KB",
+            "image":"https://i.ibb.co/QYNLFwL/Ekatra.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Ekatra B.ttf "
+        },
+        {
+            "name": "Ekatra",
+            "size": "87.10 KB",
+            "image":"https://i.ibb.co/B6BmN9j/Ekatra-B.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Ekatra.ttf"
+        },
+        {
+            "name": "Farsan Regular ",
+            "size": "247.42 KB",
+            "image":"https://i.ibb.co/GdgB9KV/Farsan-Regular.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Farsan Regular.ttf "
+        },
+        {
+            "name": "Gopika",
+            "size": "37.74 KB",
+            "image":"https://i.ibb.co/qFKDy5m/Gopika.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Gopika.ttf"
+        },
+        {
+            "name": "HindVadodara Bold ",
+            "size": "251.95 KB",
+            "image":"https://i.ibb.co/qC9fvsn/Hind-Vadodara-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/HindVadodara Bold.ttf "
+        },
+        {
+            "name": "HindVadodara Light ",
+            "size": "236.41 KB",
+            "image":"https://i.ibb.co/9gDpdd8/Hind-Vadodara-Light.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/HindVadodara Light.ttf "
+        },
+        {
+            "name": "HindVadodara Medium ",
+            "size": "241.79 KB",
+            "image":"https://i.ibb.co/cN6gjRH/Hind-Vadodara-Medium.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/HindVadodara Medium.ttf "
+        },
+        {
+            "name": "HindVadodara Regular ",
+            "size": "243.38 KB",
+            "image":"https://i.ibb.co/r521pjW/Hind-Vadodara-Regular.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/HindVadodara Regular.ttf "
+        },
+        {
+            "name": "HindVadodara SemiBold ",
+            "size": "252.70 KB",
+            "image":"https://i.ibb.co/pX1NW8V/Hind-Vadodara-Semi-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/HindVadodara SemiBold.ttf "
+        },
+        {
+            "name": "KumarOneOutline",
+            "size": "120.65 KB",
+            "image":"https://i.ibb.co/C9yYHKT/Kumar-One-Outline.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/KumarOneOutline.ttf"
+        },
+        {
+            "name": "KumarOne Regular ",
+            "size": "95.85 KB",
+            "image":"https://i.ibb.co/C9yYHKT/Kumar-One-Outline.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/KumarOne Regular.ttf "
+        },
+        {
+            "name": "Lohit Gujarati ",
+            "size": "61.73 KB",
+            "image":"https://i.ibb.co/dQnSjKp/Lohit-Gujarati.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Lohit Gujarati.ttf "
+        },
+        {
+            "name": "Mogra",
+            "size": "323.03 KB",
+            "image":"https://i.ibb.co/5hYxLT5/Mogra.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Mogra.ttf"
+        },
+        {
+            "name": "MuktaVaani Bold ",
+            "size": "484.41 KB",
+            "image":"https://i.ibb.co/Kb8d3CN/Mukta-Vaani-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/MuktaVaani Bold.ttf "
+        },
+        {
+            "name": "MuktaVaani ExtraBold ",
+            "size": "474.54 KB",
+            "image":"https://i.ibb.co/C97ZFX6/Mukta-Vaani-Extra-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/MuktaVaani ExtraBold.ttf "
+        },
+        {
+            "name": "MuktaVaani ExtraLight ",
+            "size": "455.89 KB",
+            "image":"https://i.ibb.co/vLHVbB2/Mukta-Vaani-Extra-Light.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/MuktaVaani ExtraLight.ttf "
+        },
+        {
+            "name": "MuktaVaani Light ",
+            "size": "463.08 KB",
+            "image":"https://i.ibb.co/yNss5D5/Mukta-Vaani-Light.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/MuktaVaani Light.ttf "
+        },
+        {
+            "name": "MuktaVaani Medium ",
+            "size": "475.00 KB",
+            "image":"https://i.ibb.co/88W13fX/Mukta-Vaani-Medium.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/MuktaVaani Medium.ttf "
+        },
+        {
+            "name": "MuktaVaani Regular ",
+            "size": "431.60 KB",
+            "image":"https://i.ibb.co/dj2YMgd/Mukta-Vaani-Regular.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/MuktaVaani Regular.ttf "
+        },
+        {
+            "name": "MuktaVaani SemiBold ",
+            "size": "476.44 KB",
+            "image":"https://i.ibb.co/Prs9Prc/Mukta-Vaani-Semi-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/MuktaVaani SemiBold.ttf "
+        },
+        {
+            "name": "NotoSansGujarati Black ",
+            "size": "207.43 KB",
+            "image":"https://i.ibb.co/zFB3BWT/Noto-Sans-Gujarati-Black.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/NotoSansGujarati Black.ttf "
+        },
+        {
+            "name": "NotoSansGujarati Bold ",
+            "size": "202.18 KB",
+            "image":"https://i.ibb.co/888QhW3/Noto-Sans-Gujarati-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/NotoSansGujarati Bold.ttf "
+        },
+        {
+            "name": "NotoSansGujarati ExtraBold ",
+            "size": "202.42 KB",
+            "image":"https://i.ibb.co/Fg72f1z/Noto-Sans-Gujarati-Extra-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/NotoSansGujarati ExtraBold.ttf "
+        },
+        {
+            "name": "NotoSansGujarati ExtraLight ",
+            "size": "198.32 KB",
+            "image":"https://i.ibb.co/LxyyW49/Noto-Sans-Gujarati-Extra-Light.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/NotoSansGujarati ExtraLight.ttf "
+        },
+        {
+            "name": "NotoSansGujarati Light ",
+            "size": "193.19 KB",
+            "image":"https://i.ibb.co/vPdxZjT/Noto-Sans-Gujarati-Light.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/NotoSansGujarati Light.ttf "
+        },
+        {
+            "name": "NotoSansGujarati Medium ",
+            "size": "204.96 KB",
+            "image":"https://i.ibb.co/smGxDjn/Noto-Sans-Gujarati-Medium.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/NotoSansGujarati Medium.ttf "
+        },
+        {
+            "name": "NotoSansGujarati Regular ",
+            "size": "204.36 KB",
+            "image":"https://i.ibb.co/bdqLvJT/Noto-Sans-Gujarati-Regular.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/NotoSansGujarati Regular.ttf "
+        },
+        {
+            "name": "NotoSansGujarati SemiBold ",
+            "size": "200.84 KB",
+            "image":"https://i.ibb.co/YjkRsdH/Noto-Sans-Gujarati-Semi-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/NotoSansGujarati SemiBold.ttf "
+        },
+        {
+            "name": "NotoSansGujarati Thin ",
+            "size": "200.78 KB",
+            "image":"https://i.ibb.co/qn3MsCx/Noto-Sans-Gujarati-Thin.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/NotoSansGujarati Thin.ttf "
+        },
+        {
+            "name": "Padmaa Bold ",
+            "size": "84.84 KB",
+            "image":"https://i.ibb.co/FHLRFpV/Padmaa.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Padmaa Bold.ttf "
+        },
+        {
+            "name": "Padmaa",
+            "size": "72.37 KB",
+            "image":"https://i.ibb.co/3cZMc3c/Padmaa-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Padmaa.ttf"
+        },
+        {
+            "name": "RAJKOT UNICODE ",
+            "size": "66.92 KB",
+            "image":"https://i.ibb.co/J310PJh/RAJKOT-UNICODE.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/RAJKOT UNICODE.ttf "
+        },
+        {
+            "name": "Rasa",
+            "size": "265.62 KB",
+            "image":"https://i.ibb.co/myGHHFq/Rasa.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Rasa.ttf"
+        },
+        {
+            "name": "Rekha",
+            "size": "83.87 KB",
+            "image":"https://i.ibb.co/pL3DyCh/Rekha.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Rekha.ttf"
+        },
+        {
+            "name": "Samyak Gujarati ",
+            "size": "100.56 KB",
+            "image":"https://i.ibb.co/cvMVnXM/Samyak-Gujarati.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Samyak Gujarati.ttf "
+        },
+        {
+            "name": "SaraswatiBold",
+            "size": "556.59 KB",
+            "image":"https://i.ibb.co/MNS96Dp/Saraswati-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/SaraswatiBold.ttf"
+        },
+        {
+            "name": "SaraswatiNormal",
+            "size": "565.47 KB",
+            "image":"https://i.ibb.co/YL0Jg6L/Saraswati-Normal.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/SaraswatiNormal.ttf"
+        },
+        {
+            "name": "Sarpanch Black ",
+            "size": "299.82 KB",
+            "image":"https://i.ibb.co/yVR73gL/Sarpanch-Black.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Sarpanch Black.ttf "
+        },
+        {
+            "name": "Sarpanch Bold ",
+            "size": "292.26 KB",
+            "image":"https://i.ibb.co/hCQ5tMf/Sarpanch-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Sarpanch Bold.ttf "
+        },
+        {
+            "name": "Sarpanch ExtraBold ",
+            "size": "299.43 KB",
+            "image":"https://i.ibb.co/hCQ5tMf/Sarpanch-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Sarpanch ExtraBold.ttf "
+        },
+        {
+            "name": "Sarpanch Medium ",
+            "size": "292.78 KB",
+            "image":"https://i.ibb.co/tXN4SX4/Sarpanch-Medium.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Sarpanch Medium.ttf "
+        },
+        {
+            "name": "Sarpanch Regular ",
+            "size": "290.58 KB",
+            "image":"https://i.ibb.co/tXN4SX4/Sarpanch-Medium.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Sarpanch Regular.ttf "
+        },
+        {
+            "name": "Sarpanch SemiBold ",
+            "size": "293.24 KB",
+            "image":"https://i.ibb.co/hCQ5tMf/Sarpanch-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Sarpanch SemiBold.ttf "
+        },
+        {
+            "name": "Shrikhand Regular ",
+            "size": "213.82 KB",
+            "image":"https://i.ibb.co/RNffchp/Shrikhand-Regular.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Shrikhand Regular.ttf "
+        },
+        {
+            "name": "shruti Bold ",
+            "size": "235.34 KB",
+            "image":"https://i.ibb.co/tKL9N8f/Shruti.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/shruti Bold.ttf "
+        },
+        {
+            "name": "Shruti",
+            "size": "234.28 KB",
+            "image":"https://i.ibb.co/XWYkKdZ/shruti-Bold.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Shruti.ttf"
+        },
+        {
+            "name": "Surat Unicode ",
+            "size": "161.02 KB",
+            "image":"https://i.ibb.co/1GxcZK3/Surat-Unicode.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Surat Unicode.ttf "
+        },
+        {
+            "name": "VADODARA UNICODE ",
+            "size": "132.59 KB",
+            "image":"https://i.ibb.co/Jvy1XDL/VADODARA-UNICODE.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/VADODARA UNICODE.ttf "
+        },
+        {
+            "name": "VIJAYA UNICODE ",
+            "size": "68.14 KB",
+            "image":"https://i.ibb.co/qs52TZk/VIJAYA-UNICODE.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/VIJAYA UNICODE.ttf "
+        }
+    ]
+}
