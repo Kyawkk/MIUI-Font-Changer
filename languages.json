@@ -1,74 +1,73 @@
 [
-    {
-        "name": "Myanmar",
-        "size": "199",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
-      },
-      {
-        "name": "Arabic",
-        "size": "116",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/arabic.json"
-      },
-      {
-        "name": "Emoji",
-        "size": "36",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/emoji.json"
-      },
-      {
-        "name": "English",
-        "size": "309",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/english.json"
-      },
-      {
-        "name": "Bengali",
-        "size": "6",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/bengali.json"
-      },
-      {
-          "name" : "Cyrillic",
-          "size" : "164",
-          "url" : "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/cyrillic.json"
-      },
-      {
-        "name": "Traditional Chinese",
-        "size": "41",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/traditional_chinese.json"
-      },
-      {
-        "name": "Thai",
-        "size": "410",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/thai.json"
-      },
-      {
-        "name": "Hindi",
-        "size": "51",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/hindi.json"
-      },
-      {
-        "name": "Gujarati",
-        "size": "57",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/gujarati.json"
-      },
-      {
-        "name": "Kannada",
-        "size": "8",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/kannada.json"
-      },
-      {
-        "name": "Chinese",
-        "size": "210",
-        "url": ""
-      },
+  {
+    "name": "Arabic",
+    "size": "116",
+    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/arabic.json"
+  },
+  {
+    "name": "Bengali",
+    "size": "6",
+    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/bengali.json"
+  },
+  {
+    "name": "Cyrillic",
+    "size": "164",
+    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/cyrillic.json"
+  },
+  {
+    "name": "Chinese",
+    "size": "210",
+    "url": ""
+  },
+  {
+    "name": "Emoji",
+    "size": "36",
+    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/emoji.json"
+  },
+  {
+    "name": "English",
+    "size": "309",
+    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/english.json"
+  },
+  {
+    "name": "Gujarati",
+    "size": "57",
+    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/gujarati.json"
+  },
+  {
+    "name": "Hindi",
+    "size": "51",
+    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/hindi.json"
+  },
+  {
+    "name": "Japanese",
+    "size": "83",
+    "url": ""
+  },
+  {
+    "name": "Kannada",
+    "size": "8",
+    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/kannada.json"
+  },
 
-      {
-        "name": "Japanese",
-        "size": "83",
-        "url": ""
-      },
-      {
-        "name": "Korean",
-        "size": "146",
-        "url": ""
-      }
-    
+  {
+    "name": "Korean",
+    "size": "146",
+    "url": ""
+  },
+  {
+    "name": "Myanmar",
+    "size": "199",
+    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
+  },
+  {
+    "name": "Thai",
+    "size": "410",
+    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/thai.json"
+  },
+  {
+    "name": "Traditional Chinese",
+    "size": "41",
+    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/traditional_chinese.json"
+  }
 ]
