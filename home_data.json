@@ -237,5 +237,13 @@
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/traditional_chinese.json"
       }
     ]
-  }
+  },
+ 
+  {
+    "font_resources": [
+      {
+        "image_url" : "https://upload.wikimedia.org/wikipedia/commons/3/3b/Logo-GoogleFonts-color-background.png"
+      }
+    ]
+  },
 ]
