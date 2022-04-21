@@ -61,6 +61,11 @@
     "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
   },
   {
+    "name": "Stylish Fonts",
+    "size": "125",
+    "url" : "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/stylish_fonts.json"
+  },
+  {
     "name": "Thai",
     "size": "410",
     "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/thai.json"
