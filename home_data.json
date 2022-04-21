@@ -227,6 +227,11 @@
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
       },
       {
+        "name": "Sci-Fi",
+        "size": "343",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/sci_fi.json"
+      },
+      {
         "name": "Stylish Fonts",
         "size": "125",
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/stylish_fonts.json"
