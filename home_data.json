@@ -227,6 +227,11 @@
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
       },
       {
+        "name": "Stylish Fonts",
+        "size": "125",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/stylish_fonts.json"
+      },
+      {
         "name": "Thai",
         "size": "410",
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/thai.json"
@@ -241,7 +246,7 @@
   {
     "font_resources": [
       {
-        "image_url" : "https://mllj2j8xvfl0.i.optimole.com/Lsv2lkg.cHDL~36fa1/w:auto/h:auto/q:98/https://s15165.pcdn.co/wp-content/uploads/2020/04/best-google-fonts.jpg"
+        "image_url": "https://mllj2j8xvfl0.i.optimole.com/Lsv2lkg.cHDL~36fa1/w:auto/h:auto/q:98/https://s15165.pcdn.co/wp-content/uploads/2020/04/best-google-fonts.jpg"
       }
     ]
   }
