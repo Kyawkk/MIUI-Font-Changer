@@ -2,28 +2,28 @@
   {
     "sliders": [
       {
-        "name": "Test Font One",
+        "name": "Kamjing",
         "size": "160.74 KB",
 
         "img": "https://mlqmtwka8c9g.i.optimole.com/gOh5_1g.Ga1T~1cfa5/w:auto/h:auto/q:75/https://www.competethemes.com/wp-content/uploads/2018/11/google-fonts.png",
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
       },
       {
-        "name": "Test Font Two",
+        "name": "Kamjing",
         "size": "160.74 KB",
 
         "img": "https://developer.apple.com/news/images/og/fonts-og.jpg",
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
       },
       {
-        "name": "Test Font Three",
+        "name": "Poppins",
         "size": "160.74 KB",
 
         "img": "https://fontsme.com/wp-data/p/24/15024/slide/poppins-s0.png",
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
       },
       {
-        "name": "Test Font Four",
+        "name": "Kamjing",
         "size": "160.74 KB",
 
         "img": "https://i2.wp.com/www.freefonts.io/wp-content/uploads/2016/08/open-sans-font-5-big.png?fit=1024%2C512&ssl=1",
@@ -98,28 +98,28 @@
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json",
         "data": [
           {
-            "name": "Myanmar One",
+            "name": "Kamjing",
             "size": "225.24 KB",
             "image": "https://i.ibb.co/rfWKvW4/Kamjing.png",
 
             "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
           },
           {
-            "name": "Myanmar Two",
+            "name": "KT 02",
             "size": "347.08 KB",
             "image": "https://i.ibb.co/QNvf7rV/KT-02.png",
 
             "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/KT_02.ttf?raw=true"
           },
           {
-            "name": "Myanmar Three",
+            "name": "KT 03",
             "size": "160.74 KB",
             "image": "https://i.ibb.co/648Xnpy/KT-03.png",
 
             "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/KT_03.ttf?raw=true"
           },
           {
-            "name": "Myanmar Four",
+            "name": "Masterpiece Unicode Round",
             "size": "59.60 KB",
             "image": "https://i.ibb.co/Kqz2MX6/Masterpiece-Uni-Round.png",
 
@@ -181,11 +181,6 @@
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/cyrillic.json"
       },
       {
-        "name": "Chinese",
-        "size": "210",
-        "url": ""
-      },
-      {
         "name": "Emoji",
         "size": "36",
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/emoji.json"
@@ -206,20 +201,9 @@
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/hindi.json"
       },
       {
-        "name": "Japanese",
-        "size": "83",
-        "url": ""
-      },
-      {
         "name": "Kannada",
         "size": "8",
         "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/kannada.json"
-      },
-
-      {
-        "name": "Korean",
-        "size": "146",
-        "url": ""
       },
       {
         "name": "Myanmar",
