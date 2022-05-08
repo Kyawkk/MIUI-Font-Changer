@@ -1,8 +1,8 @@
 {
-    "banner" : "ca-app-pub-3940256099942544/6300978111",
-    "interstitial" : "ca-app-pub-3940256099942544/1033173712",
-    "interstitial_video": "ca-app-pub-3940256099942544/8691691433",
-    "rewarded" : "ca-app-pub-3940256099942544/5224354917",
-    "rewarded_interstitial" : "ca-app-pub-3940256099942544/5354046379",
-    "native" : "ca-app-pub-3940256099942544/2247696110"
+    "banner" : "ca-app-pub-2809222496881818/4181397325",
+    "interstitial" : "ca-app-pub-2809222496881818/7929070645",
+    "interstitial_video": "ca-app-pub-2809222496881818/7929070645",
+    "rewarded" : "ca-app-pub-2809222496881818/1363662292",
+    "rewarded_interstitial" : "ca-app-pub-2809222496881818/3989825638",
+    "native" : "ca-app-pub-2809222496881818/6150468001"
 }
