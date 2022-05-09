@@ -200,6 +200,11 @@
                 "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/kannada.json"
             },
             {
+                "name": "Malayalam",
+                "size": "8",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/malayalam.json"
+            },
+            {
                 "name": "Myanmar",
                 "size": "199",
                 "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
