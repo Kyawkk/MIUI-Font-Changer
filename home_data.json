@@ -1,241 +1,236 @@
 [
-  {
-    "sliders": [
-      {
-            "name": " Roboto",
-            "size": "168.26 KB",
-            "img":"https://fontswan.com/wp-content/uploads/Roboto-Font.webp",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Cyrillic/Roboto.ttf?raw=true"
-        },
-      {
-      "name": "San Fransisco",
-      "size": "275.20 KB",
-      "img": "https://www.cufonfonts.com/images/thumb/15008/sf-ui-text-2-741x415-00aa679128.jpg",
-      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/English/San Fransisco.otf?raw=true"
+    {
+        "sliders": [
+            {
+                "name": "Roboto",
+                "size": "168.26 KB",
+                "img": "https://fontswan.com/wp-content/uploads/Roboto-Font.webp",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Cyrillic/Roboto.ttf?raw=true"
+            },
+            {
+                "name": "San Fransisco",
+                "size": "275.20 KB",
+                "img": "https://www.cufonfonts.com/images/thumb/15008/sf-ui-text-2-741x415-00aa679128.jpg",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/English/San Fransisco.otf?raw=true"
+            },
+            {
+                "name": "Poppins",
+                "size": "160.74 KB",
+                "img": "https://fontsme.com/wp-data/p/24/15024/slide/poppins-s0.png",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+            },
+            {
+                "name": "Open Sans",
+                "size": "129.80 KB",
+                "img": "https://i.redd.it/73v45v5zfof51.png",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Cyrillic/Open Sans.ttf?raw=true"
+            }
+        ]
     },
-      {
-        "name": "Poppins",
-        "size": "160.74 KB",
-
-        "img": "https://fontsme.com/wp-data/p/24/15024/slide/poppins-s0.png",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
-      },
-      {
-            "name": "Open Sans",
-            "size": "129.80 KB",
-            "img":"https://i.redd.it/73v45v5zfof51.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Cyrillic/Open Sans.ttf?raw=true"
-        }
-    ]
-  },
-  {
-    "categories": [
-      {
-        "title": "Emoji",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/emoji.json",
-        "data": [
-          {
-            "name": "Android.L",
-            "size": "5.13 MB",
-            "image": "https://i.ibb.co/ssrShQx/Android-L.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Emoji/Android.L.ttf?raw=true"
-          },
-          {
-            "name": "Android_11_Beta",
-            "size": "9.71 MB",
-            "image": "https://i.ibb.co/pwR0g6b/Android-11.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Emoji/Android_11_Beta.ttf?raw=true"
-          },
-          {
-            "name": "Android_11",
-            "size": "10.40 MB",
-            "image": "https://i.ibb.co/pwR0g6b/Android-11.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Emoji/Android_11.ttf?raw=true"
-          },
-          {
-            "name": "Android_12_UNRELEASED",
-            "size": "10.06 MB",
-            "image": "https://i.ibb.co/pwR0g6b/Android-11.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Emoji/Android_12_UNRELEASED.ttf?raw=true"
-          }
+    {
+        "categories": [
+            {
+                "title": "Emoji",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/emoji.json",
+                "data": [
+                    {
+                        "name": "Android.L",
+                        "size": "5.13 MB",
+                        "image": "https://i.ibb.co/ssrShQx/Android-L.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Emoji/Android.L.ttf?raw=true"
+                    },
+                    {
+                        "name": "Android_11_Beta",
+                        "size": "9.71 MB",
+                        "image": "https://i.ibb.co/pwR0g6b/Android-11.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Emoji/Android_11_Beta.ttf?raw=true"
+                    },
+                    {
+                        "name": "Android_11",
+                        "size": "10.40 MB",
+                        "image": "https://i.ibb.co/pwR0g6b/Android-11.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Emoji/Android_11.ttf?raw=true"
+                    },
+                    {
+                        "name": "Android_12_UNRELEASED",
+                        "size": "10.06 MB",
+                        "image": "https://i.ibb.co/pwR0g6b/Android-11.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Emoji/Android_12_UNRELEASED.ttf?raw=true"
+                    }
+                ]
+            },
+            {
+                "title": "English",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/english.json",
+                "data": [
+                    {
+                        "name": "8th Element Bold",
+                        "size": "63.58 KB",
+                        "image": "https://i.ibb.co/rtw6whj/8th-Element.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/English/8th Element Bold.ttf?raw=true"
+                    },
+                    {
+                        "name": "8th Element",
+                        "size": "80.81 KB",
+                        "image": "https://i.ibb.co/CH7s9k9/8th-Element-Bold.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/English/8th Element.ttf?raw=true"
+                    },
+                    {
+                        "name": "American Typewriter",
+                        "size": "41.12 KB",
+                        "image": "https://i.ibb.co/nr8bXks/American-Typewriter.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/English/American Typewriter.otf?raw=true"
+                    },
+                    {
+                        "name": "Arista 2.0",
+                        "size": "74.37 KB",
+                        "image": "https://i.ibb.co/1Zq7S7n/Arista-2-0.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/English/Arista 2.0.ttf?raw=true"
+                    }
+                ]
+            },
+            {
+                "title": "Myanmar",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json",
+                "data": [
+                    {
+                        "name": "Kamjing",
+                        "size": "225.24 KB",
+                        "image": "https://i.ibb.co/rfWKvW4/Kamjing.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
+                    },
+                    {
+                        "name": "KT 02",
+                        "size": "347.08 KB",
+                        "image": "https://i.ibb.co/QNvf7rV/KT-02.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/KT_02.ttf?raw=true"
+                    },
+                    {
+                        "name": "KT 03",
+                        "size": "160.74 KB",
+                        "image": "https://i.ibb.co/648Xnpy/KT-03.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/KT_03.ttf?raw=true"
+                    },
+                    {
+                        "name": "Masterpiece Unicode Round",
+                        "size": "59.60 KB",
+                        "image": "https://i.ibb.co/Kqz2MX6/Masterpiece-Uni-Round.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/MasterpieceUniRound.ttf?raw=true"
+                    }
+                ]
+            },
+            {
+                "title": "Stylish",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/stylish.json",
+                "data": [
+                    {
+                        "name": "Adlery Pro Swash",
+                        "size": "255.75 KB",
+                        "image": "https://i.ibb.co/rmmrvFC/adlery-pro-swash.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/adlery-pro.swash.ttf"
+                    },
+                    {
+                        "name": "Adventure of the old Giant ",
+                        "size": "63.35 KB",
+                        "image": "https://i.ibb.co/P1Ymz2y/Adventure-of-the-old-Giant.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/Adventure of the old Giant.ttf "
+                    },
+                    {
+                        "name": "Bellerose",
+                        "size": "13.96 KB",
+                        "image": "https://i.ibb.co/nbjYhgz/Bellerose.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/Bellerose.ttf"
+                    },
+                    {
+                        "name": "Delamoore",
+                        "size": "70.94 KB",
+                        "image": "https://i.ibb.co/YbF8jDK/Delamoore.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/Delamoore.ttf"
+                    },
+                    {
+                        "name": "Anglo Text ",
+                        "size": "44.84 KB",
+                        "image": "https://i.ibb.co/Hr5nj76/Anglo-Text.png",
+                        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/Anglo Text.ttf "
+                    }
+                ]
+            }
         ]
-      },
-      {
-        "title": "English",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/english.json",
-        "data": [
-          {
-            "name": "8th Element Bold",
-            "size": "63.58 KB",
-            "image": "https://i.ibb.co/rtw6whj/8th-Element.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/English/8th Element Bold.ttf?raw=true"
-          },
-          {
-            "name": "8th Element",
-            "size": "80.81 KB",
-            "image": "https://i.ibb.co/CH7s9k9/8th-Element-Bold.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/English/8th Element.ttf?raw=true"
-          },
-          {
-            "name": "American Typewriter",
-            "size": "41.12 KB",
-            "image": "https://i.ibb.co/nr8bXks/American-Typewriter.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/English/American Typewriter.otf?raw=true"
-          },
-          {
-            "name": "Arista 2.0",
-            "size": "74.37 KB",
-            "image": "https://i.ibb.co/1Zq7S7n/Arista-2-0.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/English/Arista 2.0.ttf?raw=true"
-          }
+    },
+    {
+        "languages": [
+            {
+                "name": "Arabic",
+                "size": "116",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/arabic.json"
+            },
+            {
+                "name": "Bengali",
+                "size": "6",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/bengali.json"
+            },
+            {
+                "name": "Cyrillic",
+                "size": "164",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/cyrillic.json"
+            },
+            {
+                "name": "Emoji",
+                "size": "36",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/emoji.json"
+            },
+            {
+                "name": "English",
+                "size": "309",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/english.json"
+            },
+            {
+                "name": "Gujarati",
+                "size": "57",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/gujarati.json"
+            },
+            {
+                "name": "Hindi",
+                "size": "51",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/hindi.json"
+            },
+            {
+                "name": "Kannada",
+                "size": "8",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/kannada.json"
+            },
+            {
+                "name": "Myanmar",
+                "size": "199",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
+            },
+            {
+                "name": "Sci-Fi",
+                "size": "343",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/sci_fi.json"
+            },
+            {
+                "name": "Stylish Fonts",
+                "size": "125",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/stylish_fonts.json"
+            },
+            {
+                "name": "Thai",
+                "size": "410",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/thai.json"
+            },
+            {
+                "name": "Traditional Chinese",
+                "size": "41",
+                "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/traditional_chinese.json"
+            }
         ]
-      },
-      {
-        "title": "Myanmar",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json",
-        "data": [
-          {
-            "name": "Kamjing",
-            "size": "225.24 KB",
-            "image": "https://i.ibb.co/rfWKvW4/Kamjing.png",
-
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
-          },
-          {
-            "name": "KT 02",
-            "size": "347.08 KB",
-            "image": "https://i.ibb.co/QNvf7rV/KT-02.png",
-
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/KT_02.ttf?raw=true"
-          },
-          {
-            "name": "KT 03",
-            "size": "160.74 KB",
-            "image": "https://i.ibb.co/648Xnpy/KT-03.png",
-
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/KT_03.ttf?raw=true"
-          },
-          {
-            "name": "Masterpiece Unicode Round",
-            "size": "59.60 KB",
-            "image": "https://i.ibb.co/Kqz2MX6/Masterpiece-Uni-Round.png",
-
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/MasterpieceUniRound.ttf?raw=true"
-          }
+    },
+    {
+        "font_resources": [
+            {
+                "image_url": "https://mllj2j8xvfl0.i.optimole.com/Lsv2lkg.cHDL~36fa1/w:auto/h:auto/q:98/https://s15165.pcdn.co/wp-content/uploads/2020/04/best-google-fonts.jpg"
+            }
         ]
-      },
-      {
-        "title": "Stylish",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/stylish.json",
-        "data": [
-          {
-            "name": "Adlery Pro Swash",
-            "size": "255.75 KB",
-            "image":"https://i.ibb.co/rmmrvFC/adlery-pro-swash.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/adlery-pro.swash.ttf"
-        },
-        {
-            "name": "Adventure of the old Giant ",
-            "size": "63.35 KB",
-            "image":"https://i.ibb.co/P1Ymz2y/Adventure-of-the-old-Giant.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/Adventure of the old Giant.ttf "
-        },
-          {
-            "name": "Bellerose",
-            "size": "13.96 KB",
-            "image":"https://i.ibb.co/nbjYhgz/Bellerose.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/Bellerose.ttf"
-        },
-        {
-            "name": "Delamoore",
-            "size": "70.94 KB",
-            "image":"https://i.ibb.co/YbF8jDK/Delamoore.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/Delamoore.ttf"
-        },
-        {
-            "name": "Anglo Text ",
-            "size": "44.84 KB",
-            "image":"https://i.ibb.co/Hr5nj76/Anglo-Text.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/Anglo Text.ttf "
-        }
-        ]
-      }
-    ]
-  },
-  {
-    "languages": [
-      {
-        "name": "Arabic",
-        "size": "116",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/arabic.json"
-      },
-      {
-        "name": "Bengali",
-        "size": "6",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/bengali.json"
-      },
-      {
-        "name": "Cyrillic",
-        "size": "164",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/cyrillic.json"
-      },
-      {
-        "name": "Emoji",
-        "size": "36",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/emoji.json"
-      },
-      {
-        "name": "English",
-        "size": "309",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/english.json"
-      },
-      {
-        "name": "Gujarati",
-        "size": "57",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/gujarati.json"
-      },
-      {
-        "name": "Hindi",
-        "size": "51",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/hindi.json"
-      },
-      {
-        "name": "Kannada",
-        "size": "8",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/kannada.json"
-      },
-      {
-        "name": "Myanmar",
-        "size": "199",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json"
-      },
-      {
-        "name": "Sci-Fi",
-        "size": "343",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/sci_fi.json"
-      },
-      {
-        "name": "Stylish Fonts",
-        "size": "125",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/stylish_fonts.json"
-      },
-      {
-        "name": "Thai",
-        "size": "410",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/thai.json"
-      },
-      {
-        "name": "Traditional Chinese",
-        "size": "41",
-        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/traditional_chinese.json"
-      }
-    ]
-  },
-  {
-    "font_resources": [
-      {
-        "image_url": "https://mllj2j8xvfl0.i.optimole.com/Lsv2lkg.cHDL~36fa1/w:auto/h:auto/q:98/https://s15165.pcdn.co/wp-content/uploads/2020/04/best-google-fonts.jpg"
-      }
-    ]
-  }
+    }
 ]
