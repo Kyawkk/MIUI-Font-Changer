@@ -129,36 +129,38 @@
       },
       {
         "title": "Stylish",
-        "url": "stylish url",
+        "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/stylish.json",
         "data": [
           {
-            "name": "Stylish One",
-            "size": "225.24 KB",
-            "image": "",
-
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
-          },
+            "name": "Adlery Pro Swash",
+            "size": "255.75 KB",
+            "image":"https://i.ibb.co/rmmrvFC/adlery-pro-swash.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/adlery-pro.swash.ttf"
+        },
+        {
+            "name": "Adventure of the old Giant ",
+            "size": "63.35 KB",
+            "image":"https://i.ibb.co/P1Ymz2y/Adventure-of-the-old-Giant.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/Adventure of the old Giant.ttf "
+        },
           {
-            "name": "Stylish Two",
-            "size": "347.08 KB",
-            "image": "",
-
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/KT_02.ttf?raw=true"
-          },
-          {
-            "name": "Stylish Three",
-            "size": "160.74 KB",
-            "image": "",
-
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/KT_03.ttf?raw=true"
-          },
-          {
-            "name": "Stylish Four",
-            "size": "59.60 KB",
-            "image": "",
-
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/MasterpieceUniRound.ttf?raw=true"
-          }
+            "name": "Bellerose",
+            "size": "13.96 KB",
+            "image":"https://i.ibb.co/nbjYhgz/Bellerose.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/Bellerose.ttf"
+        },
+        {
+            "name": "Delamoore",
+            "size": "70.94 KB",
+            "image":"https://i.ibb.co/YbF8jDK/Delamoore.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/Delamoore.ttf"
+        },
+        {
+            "name": "Anglo Text ",
+            "size": "44.84 KB",
+            "image":"https://i.ibb.co/Hr5nj76/Anglo-Text.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Stylish Fonts/Anglo Text.ttf "
+        }
         ]
       }
     ]
