@@ -1,244 +1,250 @@
 {
-    "fonts": [
+    "fonts" : [
         {
-            "name": "HanyiSenty Candy-color-mono ",
-            "size": "6.71 MB",
-            "image": "https://i.ibb.co/Rh0s4Vq/Hanyi-Senty-Candy-color-mono.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSenty Candy-color-mono.ttf "
+            "name": "HanyiSentyBubbleTea",
+            "size": "7.41 MB",
+            "image":"https://i.ibb.co/VHs94f0/Hanyi-Senty-Bubble-Tea.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyBubbleTea.ttf?raw=true"
         },
         {
-            "name": "HanyiSentyChalk 2018 ",
+            "name": "HanyiSenty Candy-color-mono",
+            "size": "6.71 MB",
+            "image":"https://i.ibb.co/xMWKST8/Hanyi-Senty-Candy-color-mono.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSenty Candy-color-mono.ttf?raw=true"
+        },
+        {
+            "name": "HanyiSentyChalk 2018",
             "size": "6.94 MB",
-            "image": "https://i.ibb.co/Z8zmh59/Hanyi-Senty-Chalk-2018.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyChalk 2018.ttf "
+            "image":"https://i.ibb.co/ZKj1X8C/Hanyi-Senty-Chalk-2018.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyChalk 2018.ttf?raw=true"
         },
         {
             "name": "HanyiSentyCrayon-non-color",
             "size": "16.83 MB",
-            "image": "https://i.ibb.co/Zzh5Xqh/Hanyi-Senty-Crayon.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyCrayon-non-color.ttf"
+            "image":"https://i.ibb.co/whFLypc/Hanyi-Senty-Crayon.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyCrayon-non-color.ttf?raw=true"
         },
         {
             "name": "HanyiSentyCrayon",
             "size": "16.94 MB",
-            "image": "https://i.ibb.co/M6MhqW3/Hanyi-Senty-Crayon-non-color.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyCrayon.ttf"
+            "image":"https://i.ibb.co/jrdF24Q/Hanyi-Senty-Crayon-non-color.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyCrayon.ttf?raw=true"
         },
         {
             "name": "HanyiSentyDiary",
             "size": "5.06 MB",
-            "image": "https://i.ibb.co/DppLhCF/Hanyi-Senty-Diary.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyDiary.ttf"
+            "image":"https://i.ibb.co/P420yGT/Hanyi-Senty-Diary.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyDiary.ttf?raw=true"
         },
         {
             "name": "HanyiSentyFingerPainting",
             "size": "14.60 MB",
-            "image": "https://i.ibb.co/qrSrWBH/Hanyi-Senty-Finger-Painting.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyFingerPainting.ttf"
+            "image":"https://i.ibb.co/1RY3yV7/Hanyi-Senty-Finger-Painting.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyFingerPainting.ttf?raw=true"
         },
         {
             "name": "HanyiSentyFlorCalligraphy",
             "size": "13.46 MB",
-            "image": "https://i.ibb.co/qR4z1YP/Hanyi-Senty-Flor-Calligraphy.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyFlorCalligraphy.ttf"
+            "image":"https://i.ibb.co/5x6VP3K/Hanyi-Senty-Flor-Calligraphy.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyFlorCalligraphy.ttf?raw=true"
         },
         {
             "name": "HanyiSentyFoundation",
             "size": "12.02 MB",
-            "image": "https://i.ibb.co/5T7Fd48/Hanyi-Senty-Foundation.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyFoundation.ttf"
+            "image":"https://i.ibb.co/YDPBRwS/Hanyi-Senty-Foundation.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyFoundation.ttf?raw=true"
         },
         {
             "name": "HanyiSentyGarden",
             "size": "15.97 MB",
-            "image": "https://i.ibb.co/jkdtdzJ/Hanyi-Senty-Garden.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyGarden.ttf"
+            "image":"https://i.ibb.co/fX3VJ5M/Hanyi-Senty-Garden.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyGarden.ttf?raw=true"
         },
         {
             "name": "HanyiSentyGraffiti",
             "size": "17.57 MB",
-            "image": "https://i.ibb.co/ChLDP8N/Hanyi-Senty-Graffiti.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyGraffiti.ttf"
+            "image":"https://i.ibb.co/VDp4zQL/Hanyi-Senty-Graffiti.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyGraffiti.ttf?raw=true"
         },
         {
             "name": "HanyiSentyJournal",
             "size": "14.66 MB",
-            "image": "https://i.ibb.co/YQXPVQv/Hanyi-Senty-Journal.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyJournal.ttf"
+            "image":"https://i.ibb.co/x1c4DYV/Hanyi-Senty-Journal.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyJournal.ttf?raw=true"
         },
         {
             "name": "HanyiSentyJoy",
             "size": "15.30 MB",
-            "image": "https://i.ibb.co/ZGQZHBw/Hanyi-Senty-Joy.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyJoy.ttf"
+            "image":"https://i.ibb.co/4KQTqNF/Hanyi-Senty-Joy.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyJoy.ttf?raw=true"
         },
         {
-            "name": "Hanyi Senty Lingfei Scroll ",
+            "name": "Hanyi Senty Lingfei Scroll",
             "size": "5.89 MB",
-            "image": "https://i.ibb.co/VH777n6/Hanyi-Senty-Lingfei-Scroll.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/Hanyi Senty Lingfei Scroll.ttf "
+            "image":"https://i.ibb.co/q17cZTv/Hanyi-Senty-Lingfei-Scroll.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/Hanyi Senty Lingfei Scroll.ttf?raw=true"
         },
         {
             "name": "HanyiSentyMarshmallowChalk-A",
             "size": "29.77 MB",
-            "image": "https://i.ibb.co/N29BSSJ/Hanyi-Senty-Marshmallow.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyMarshmallowChalk-A.ttf"
+            "image":"https://i.ibb.co/6DK5Kjr/Hanyi-Senty-Marshmallow.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyMarshmallowChalk-A.ttf?raw=true"
         },
         {
             "name": "HanyiSentyMarshmallowChalk-B",
             "size": "33.85 MB",
-            "image": "https://i.ibb.co/JQ3HSGz/Hanyi-Senty-Marshmallow-Chalk-A.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyMarshmallowChalk-B.ttf"
+            "image":"https://i.ibb.co/X8th2Zz/Hanyi-Senty-Marshmallow-Chalk-A.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyMarshmallowChalk-B.ttf?raw=true"
         },
         {
             "name": "HanyiSentyMarshmallow",
             "size": "7.78 MB",
-            "image": "https://i.ibb.co/0sbSQTC/Hanyi-Senty-Marshmallow-Chalk-B.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyMarshmallow.ttf"
+            "image":"https://i.ibb.co/6RnqTNv/Hanyi-Senty-Marshmallow-Chalk-B.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyMarshmallow.ttf?raw=true"
         },
         {
             "name": "HanyiSentyMeadow",
             "size": "9.40 MB",
-            "image": "https://i.ibb.co/BwF7fWb/Hanyi-Senty-Meadow.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyMeadow.ttf"
+            "image":"https://i.ibb.co/m6M4wXW/Hanyi-Senty-Meadow.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyMeadow.ttf?raw=true"
         },
         {
             "name": "HanyiSentyPagoda",
             "size": "9.98 MB",
-            "image": "https://i.ibb.co/HqkHB1s/Hanyi-Senty-Pagoda.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyPagoda.ttf"
+            "image":"https://i.ibb.co/pyHgd0w/Hanyi-Senty-Pagoda.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyPagoda.ttf?raw=true"
         },
         {
-            "name": "HanyiSentyPailouArch",
+            "name": "HanyiSentyPailouArch.tt",
             "size": "9.60 MB",
-            "image": "https://i.ibb.co/QrX8Nqt/Hanyi-Senty-Pailou-Arch.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyPailouArch.ttf"
+            "image":"https://i.ibb.co/brp8679/Hanyi-Senty-Pailou-Arch.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyPailouArch.tt?raw=true"
         },
         {
             "name": "HanyiSentyPine",
             "size": "6.10 MB",
-            "image": "https://i.ibb.co/5RB8D31/Hanyi-Senty-Pine.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyPine.ttf"
+            "image":"https://i.ibb.co/pXspy7q/Hanyi-Senty-Pine.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyPine.ttf?raw=true"
         },
         {
             "name": "HanyiSentyScholar",
             "size": "12.27 MB",
-            "image": "https://i.ibb.co/HXSqSj8/Hanyi-Senty-Scholar.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyScholar.ttf"
+            "image":"https://i.ibb.co/NpTy7SH/Hanyi-Senty-Scholar.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyScholar.ttf?raw=true"
         },
         {
             "name": "HanyiSentySIlkRoad",
             "size": "11.63 MB",
-            "image": "https://i.ibb.co/VVqqg0W/Hanyi-Senty-SIlk-Road.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentySIlkRoad.ttf"
+            "image":"https://i.ibb.co/sw9HywB/Hanyi-Senty-SIlk-Road.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentySIlkRoad.ttf?raw=true"
         },
         {
             "name": "HanyiSentySpringBrush",
             "size": "17.25 MB",
-            "image": "https://i.ibb.co/Lp9gVWK/Hanyi-Senty-Spring-Brush.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentySpringBrush.ttf"
+            "image":"https://i.ibb.co/hdMBMwd/Hanyi-Senty-Spring-Brush.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentySpringBrush.ttf?raw=true"
         },
         {
             "name": "HanyiSentySpringTrip",
             "size": "29.24 MB",
-            "image": "https://i.ibb.co/XY6fxW9/Hanyi-Senty-Spring-Trip.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentySpringTrip.ttf"
+            "image":"https://i.ibb.co/80nY4Ft/Hanyi-Senty-Spring-Trip.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentySpringTrip.ttf?raw=true"
         },
         {
             "name": "HanyiSentySuciTablet",
             "size": "13.05 MB",
-            "image": "https://i.ibb.co/5T7Fd48/Hanyi-Senty-Foundation.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentySuciTablet.ttf"
+            "image":"https://i.ibb.co/SnbkZc6/Hanyi-Senty-Suci-Tablet.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentySuciTablet.ttf?raw=true"
         },
         {
             "name": "HanyiSentyTang",
             "size": "12.12 MB",
-            "image": "https://i.ibb.co/ZmqP1yQ/Hanyi-Senty-Tang.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyTang.ttf"
+            "image":"https://i.ibb.co/7v94GkY/Hanyi-Senty-Tang.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyTang.ttf?raw=true"
         },
         {
-            "name": "HanyiSentyTea Regular ",
+            "name": "HanyiSentyTea Regular",
             "size": "5.37 MB",
-            "image": "https://i.ibb.co/GMWzXpM/Hanyi-Senty-Tea-Regular.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyTea Regular.ttf "
+            "image":"https://i.ibb.co/T4rrgHQ/Hanyi-Senty-Tea-Regular.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyTea Regular.ttf?raw=true"
         },
         {
             "name": "HanyiSentyTriumphCalligraphy",
             "size": "8.38 MB",
-            "image": "https://i.ibb.co/nzbGN9S/Hanyi-Senty-Triumph-Calligraphy.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyTriumphCalligraphy.ttf"
+            "image":"https://i.ibb.co/hVH3wrL/Hanyi-Senty-Triumph-Calligraphy.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyTriumphCalligraphy.ttf?raw=true"
         },
         {
             "name": "HanyiSentyWEN",
             "size": "5.81 MB",
-            "image": "https://i.ibb.co/9vPgDk8/Hanyi-Senty-WEN.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyWEN.ttf"
+            "image":"https://i.ibb.co/p1YJynz/Hanyi-Senty-WEN.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyWEN.ttf?raw=true"
         },
         {
             "name": "HanyiSentyYongleEncyclopedia-2020",
             "size": "6.73 MB",
-            "image": "https://i.ibb.co/b7YjrSC/Hanyi-Senty-Yongle-Encyclopedia-2020.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyYongleEncyclopedia-2020.ttf"
+            "image":"https://i.ibb.co/428gzT3/Hanyi-Senty-Yongle-Encyclopedia-2020.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyYongleEncyclopedia-2020.ttf?raw=true"
         },
         {
             "name": "HanyiSentyZhangjizhi",
             "size": "12.20 MB",
-            "image": "https://i.ibb.co/qBnWjbz/Hanyi-Senty-Zhangjizhi.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyZhangjizhi.ttf"
+            "image":"https://i.ibb.co/1LcL99n/Hanyi-Senty-Zhangjizhi.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyZhangjizhi.ttf?raw=true"
         },
         {
             "name": "HanyiSentyZHAO",
             "size": "10.49 MB",
-            "image": "https://i.ibb.co/VMWYXbG/Hanyi-Senty-ZHAO.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/HanyiSentyZHAO.ttf"
+            "image":"https://i.ibb.co/HzV7gmm/Hanyi-Senty-ZHAO.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/HanyiSentyZHAO.ttf?raw=true"
         },
         {
             "name": "OzCaramel",
             "size": "15.62 MB",
-            "image": "https://i.ibb.co/VH777n6/Hanyi-Senty-Lingfei-Scroll.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/OzCaramel.ttf"
+            "image":"https://i.ibb.co/VQCMVps/Oz-Caramel.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/OzCaramel.ttf?raw=true"
         },
         {
             "name": "SentyChalk",
             "size": "9.26 MB",
-            "image": "https://i.ibb.co/Rh0s4Vq/Hanyi-Senty-Candy-color-mono.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/SentyChalk.ttf"
+            "image":"https://i.ibb.co/YfHvy28/Senty-Chalk.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/SentyChalk.ttf?raw=true"
         },
         {
             "name": "SentyCreamPuff",
             "size": "4.69 MB",
-            "image": "https://i.ibb.co/Z8zmh59/Hanyi-Senty-Chalk-2018.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/SentyCreamPuff.ttf"
+            "image":"https://i.ibb.co/Yc3s5w2/Senty-Cream-Puff.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/SentyCreamPuff.ttf?raw=true"
         },
         {
             "name": "SentyGoldenBell",
             "size": "6.14 MB",
-            "image": "https://i.ibb.co/M6MhqW3/Hanyi-Senty-Crayon-non-color.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/SentyGoldenBell.ttf"
+            "image":"https://i.ibb.co/DCqbZzS/Senty-Golden-Bell.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/SentyGoldenBell.ttf?raw=true"
         },
         {
             "name": "SentyMARUKO",
             "size": "4.38 MB",
-            "image": "https://i.ibb.co/Zzh5Xqh/Hanyi-Senty-Crayon.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/SentyMARUKO.ttf"
+            "image":"https://i.ibb.co/ZYvngTT/Senty-MARUKO.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/SentyMARUKO.ttf?raw=true"
         },
         {
             "name": "SentyPaperCut",
             "size": "14.01 MB",
-            "image": "https://i.ibb.co/DppLhCF/Hanyi-Senty-Diary.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/SentyPaperCut.ttf"
+            "image":"https://i.ibb.co/4pw80tt/Senty-Paper-Cut.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/SentyPaperCut.ttf?raw=true"
         },
         {
             "name": "SentyPea",
             "size": "4.67 MB",
-            "image": "https://i.ibb.co/qrSrWBH/Hanyi-Senty-Finger-Painting.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/SentyPea.ttf"
+            "image":"https://i.ibb.co/3fhs2Gn/SentyPea.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/SentyPea.ttf?raw=true"
         },
         {
             "name": "SentySnowMountain",
             "size": "6.20 MB",
-            "image": "https://i.ibb.co/qR4z1YP/Hanyi-Senty-Flor-Calligraphy.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional_Chinese/SentySnowMountain.ttf"
+            "image":"https://i.ibb.co/2SFKQsQ/Senty-Snow-Mountain.png",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Traditional Chinese/SentySnowMountain.ttf?raw=true"
         }
     ]
 }
