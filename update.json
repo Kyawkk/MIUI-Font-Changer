@@ -1,5 +1,5 @@
 {
     "isAvailable": true,
-    "version": "2.0",
-    "description": "- Fixed some bugs\n- Perfectly works on MIUI 13 and MIUI 12.5"
+    "version": "2.0.1",
+    "description": "- Fixed minor bugs"
 }
