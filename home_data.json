@@ -4,25 +4,25 @@
             {
                 "name": "Roboto",
                 "size": "168.26 KB",
-                "img": "https://fontswan.com/wp-content/uploads/Roboto-Font.webp",
+                "image": "https://fontswan.com/wp-content/uploads/Roboto-Font.webp",
                 "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Cyrillic/Roboto.ttf?raw=true"
             },
             {
                 "name": "San Fransisco",
                 "size": "275.20 KB",
-                "img": "https://www.cufonfonts.com/images/thumb/15008/sf-ui-text-2-741x415-00aa679128.jpg",
+                "image": "https://www.cufonfonts.com/images/thumb/15008/sf-ui-text-2-741x415-00aa679128.jpg",
                 "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/English/San Fransisco.otf?raw=true"
             },
             {
                 "name": "Poppins",
                 "size": "160.74 KB",
-                "img": "https://fontsme.com/wp-data/p/24/15024/slide/poppins-s0.png",
+                "image": "https://fontsme.com/wp-data/p/24/15024/slide/poppins-s0.png",
                 "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Myanmar/Kamjing.ttf?raw=true"
             },
             {
                 "name": "Open Sans",
                 "size": "129.80 KB",
-                "img": "https://i.redd.it/73v45v5zfof51.png",
+                "image": "https://i.redd.it/73v45v5zfof51.png",
                 "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Cyrillic/Open Sans.ttf?raw=true"
             }
         ]
