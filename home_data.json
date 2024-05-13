@@ -118,7 +118,7 @@
         },
         {
             "title": "Stylish",
-            "url": "stylish.json",
+            "url": "stylish_fonts.json",
             "fonts": [
                 {
                     "name": "Adlery Pro Swash",
