@@ -28,7 +28,7 @@
     "categories": [
         {
             "title": "Emoji",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/emoji.json",
+            "url": "emoji.json",
             "fonts": [
                 {
                     "name": "Android.L",
@@ -58,7 +58,7 @@
         },
         {
             "title": "English",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/english.json",
+            "url": "english.json",
             "fonts": [
                 {
                     "name": "8th Element Bold",
@@ -88,7 +88,7 @@
         },
         {
             "title": "Myanmar",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/myanmar.json",
+            "url": "myanmar.json",
             "fonts": [
                 {
                     "name": "Kamjing",
@@ -118,7 +118,7 @@
         },
         {
             "title": "Stylish",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/stylish.json",
+            "url": "stylish.json",
             "fonts": [
                 {
                     "name": "Adlery Pro Swash",
