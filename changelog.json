@@ -1,0 +1,34 @@
+[
+    {
+        "date": "Apr 20,2022",
+        "version": "1.0.0",
+        "changelogs": [
+            "First release.",
+            "Support MIUI 12.5, MIUI 13, and Magisk for rooted devices."
+        ]
+    },
+    {
+        "date": "May 8,2022",
+        "version": "2.0.0",
+        "changelogs": [
+            "Fixed some bugs",
+            "Perfectly works on MIUI 13 and some MIUI 12.5 devices"
+        ]
+    },
+    {
+        "date": "May 10,2022",
+        "version": "2.0.1",
+        "changelogs": [
+            "Fixed some bugs"
+        ]
+    },
+    {
+        "date": "May 20,2024",
+        "version": "3.0.0",
+        "changelogs": [
+            "Updated UI",
+            "Removed magisk feature.",
+            "Fixed broken font download link."
+        ]
+    }
+]
