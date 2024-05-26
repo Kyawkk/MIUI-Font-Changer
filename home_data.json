@@ -1,10 +1,10 @@
 {
     "sliders": [
         {
-            "name": "Roboto",
-            "size": "168.26 KB",
-            "image": "https://fontswan.com/wp-content/uploads/Roboto-Font.webp",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/master/Fonts/Cyrillic/Roboto.ttf?raw=true"
+            "name": "Mi Sans Myanmar",
+            "size": "54.7 KB",
+            "image": "https://cia.hyperos.mi.com/misans-home-page/MiSans-Myanmar-18.svg",
+            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Myanmar/MiSans%20Myanmar%20VF.ttf"
         },
         {
             "name": "San Fransisco",
