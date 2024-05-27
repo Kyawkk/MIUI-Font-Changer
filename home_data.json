@@ -62,16 +62,16 @@
             "url": "english.json",
             "fonts": [
                 {
-                    "name": "8th Element Bold",
+                    "name": "8th Element",
                     "size": "63.58 KB",
                     "image": "https://i.ibb.co/rtw6whj/8th-Element.png",
-                    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/8th Element Bold.ttf?raw=true"
+                    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/8th Element.ttf?raw=true"
                 },
                 {
-                    "name": "8th Element",
+                    "name": "8th Element Bold",
                     "size": "80.81 KB",
                     "image": "https://i.ibb.co/CH7s9k9/8th-Element-Bold.png",
-                    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/8th Element.ttf?raw=true"
+                    "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/8th Element Bold.ttf?raw=true"
                 },
                 {
                     "name": "American Typewriter",
