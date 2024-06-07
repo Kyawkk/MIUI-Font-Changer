@@ -10,18 +10,21 @@
         {
             "name": "San Fransisco",
             "size": "275.20 KB",
+            "category": "English",
             "image": "https://www.cufonfonts.com/images/thumb/15008/sf-ui-text-2-741x415-00aa679128.jpg",
             "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/San Fransisco.otf?raw=true"
         },
         {
             "name": "Poppins",
             "size": "160.74 KB",
+            "category": "English",
             "image": "https://fontsme.com/wp-data/p/24/15024/slide/poppins-s0.png",
             "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Myanmar/Kamjing.ttf?raw=true"
         },
         {
             "name": "Open Sans",
             "size": "129.80 KB",
+            "category": "English",
             "image": "https://i.redd.it/73v45v5zfof51.png",
             "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Cyrillic/Open Sans.ttf?raw=true"
         }
