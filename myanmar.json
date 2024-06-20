@@ -1,13 +1,6 @@
 {
   "fonts": [
     {
-      "name": "Mi Sans Myanmar",
-      "size": "54.7 KB",
-      "category": "Myanmar",
-      "image": "https://gsmchina.com/wp-content/uploads/2023/12/HyperOS-is-completely-changing-with-Mi-Sans-Global-font.jpg",
-      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Myanmar/MiSans%20Myanmar%20VF.ttf"
-  },
-    {
       "name": "Kamjing",
       "size": "225.24 KB",
       "image": "https://i.ibb.co/rfWKvW4/Kamjing.png",
