@@ -1,2164 +1,1855 @@
 {
   "fonts": [
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "8th Element Bold",
       "size": "63.58 KB",
       "image": "https://i.ibb.co/rtw6whj/8th-Element.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/8th Element Bold.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "8th Element",
       "size": "80.81 KB",
       "image": "https://i.ibb.co/CH7s9k9/8th-Element-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/8th Element.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "American Typewriter",
       "size": "41.12 KB",
       "image": "https://i.ibb.co/nr8bXks/American-Typewriter.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/American Typewriter.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Arista 2.0",
       "size": "74.37 KB",
       "image": "https://i.ibb.co/1Zq7S7n/Arista-2-0.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Arista 2.0.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Bengitc",
       "size": "59.86 KB",
       "image": "https://i.ibb.co/QmTkjJv/Bengitc.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Bengitc.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Bodoni SvntyTwo ITC Std-Book",
       "size": "63.83 KB",
       "image": "https://i.ibb.co/pw9ZVC6/Bodoni-Svnty-Two-ITC-Std-Book.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Bodoni SvntyTwo ITC Std-Book.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Bodoni TwelveI TC Std-Bold Italic",
       "size": "59.15 KB",
       "image": "https://i.ibb.co/fHNzTrv/Bodoni-Twelve-I-TC-Std-Bold-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Bodoni TwelveI TC Std-Bold Italic.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Caprica San Italic",
       "size": "135.81 KB",
       "image": "https://i.ibb.co/VJMnmk7/Caprica-San-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Caprica San Italic.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Christmas Lightness",
       "size": "51.20 KB",
       "image": "https://i.ibb.co/h7YRyky/Christmas-Lightness.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Christmas Lightness.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Drummon Semibold",
       "size": "61.67 KB",
       "image": "https://i.ibb.co/nzBTGYR/Drummon-Semibold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Drummon Semibold.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Dunkin-Sans-Italic",
       "size": "39.62 KB",
       "image": "https://i.ibb.co/6rjLpX5/Dunkin-Sans-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Dunkin-Sans-Italic.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Heather",
       "size": "28.80 KB",
       "image": "https://i.ibb.co/JBvkJQ1/Heather.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Heather.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Helvetica Neue LT 57",
       "size": "39.23 KB",
       "image": "https://i.ibb.co/Khmy9NL/Helvetica.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Helvetica Neue LT 57.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Helvetica Neue LT Pro Italic",
       "size": "44.71 KB",
       "image": "https://i.ibb.co/c2CzyRT/Helvetica-Neue-LT-57.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Helvetica Neue LT Pro Italic.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Helvetica Neue Lt Pro",
       "size": "46.44 KB",
       "image": "https://i.ibb.co/rxtq8Sc/Helvetica-Neue-Lt-Pro.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Helvetica Neue Lt Pro.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Helveticaneue Roman",
       "size": "17.26 KB",
       "image": "https://i.ibb.co/NFWnn6V/Helvetica-Neue-LT-Pro-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Helveticaneue Roman.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Helvetica Neue Ultra Light",
       "size": "109.33 KB",
       "image": "https://i.ibb.co/rfR9xzB/Helveticaneue-Roman.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Helvetica Neue Ultra Light.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Helvetica",
       "size": "312.96 KB",
       "image": "https://i.ibb.co/W6Xk9pK/Helvetica-Neue-Ultra-Light.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Helvetica.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Instruction Bold Italic",
       "size": "41.16 KB",
       "image": "https://i.ibb.co/D8v8Zvj/Instruction-Bold-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Instruction Bold Italic.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Lexie Readable Bold",
       "size": "110.03 KB",
       "image": "https://i.ibb.co/pJPV3VF/Lexie-Readable-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Lexie Readable Bold.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Love Me For A Reson",
       "size": "52.14 KB",
       "image": "https://i.ibb.co/cxHhDJn/Love-Me-For-A-Reson.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Love Me For A Reson.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "LugaShadowC",
       "size": "31.72 KB",
       "image": "https://i.ibb.co/KF4td68/Luga-Shadow-C.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/LugaShadowC.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "MissingLinks",
       "size": "68.86 KB",
       "image": "https://i.ibb.co/nQgp2VX/Missing-Links.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/MissingLinks.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Monotype Corsiva",
       "size": "157.36 KB",
       "image": "https://i.ibb.co/61M3YpB/Monotype-Corsiva.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Monotype Corsiva.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Myriad Apple",
       "size": "58.13 KB",
       "image": "https://i.ibb.co/R2k3D8M/Myriad-Apple.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Myriad Apple.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Myriad Set Pro 100",
       "size": "125.48 KB",
       "image": "https://i.ibb.co/G7bqfCx/Myriad-Set-Pro-100.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Myriad Set Pro 100.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Myriad Set Pro 200",
       "size": "135.49 KB",
       "image": "https://i.ibb.co/8gt7nrn/Myriad-Set-Pro-200.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Myriad Set Pro 200.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Myriad Set Pro 400",
       "size": "242.06 KB",
       "image": "https://i.ibb.co/DtxMmPB/Myriad-Set-Pro-400.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Myriad Set Pro 400.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Myriad Set Pro 600",
       "size": "212.32 KB",
       "image": "https://i.ibb.co/QJ3gJgZ/Myriad-Set-Pro-600.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Myriad Set Pro 600.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Myriad Set Pro 700",
       "size": "232.82 KB",
       "image": "https://i.ibb.co/h12D4DZ/Myriad-Set-Pro-700.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Myriad Set Pro 700.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Myriad Set Pro Thin",
       "size": "141.92 KB",
       "image": "https://i.ibb.co/n1kT2Vp/Myriad-Set-Pro-Thin.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Myriad Set Pro Thin.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Napoleno Slab",
       "size": "31.92 KB",
       "image": "https://i.ibb.co/Hq7V9bR/Napoleno-Slab.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Napoleno Slab.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "San Fransisco",
       "size": "275.20 KB",
       "image": "https://i.ibb.co/ypKbtKq/San-Fransisco.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/San Fransisco.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Santa's Sleigh Full",
       "size": "48.59 KB",
       "image": "https://i.ibb.co/Z6fYk9r/Santa-s-Sleigh-Full.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Santa's Sleigh Full.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Scriptoria Small Caps",
       "size": "63.34 KB",
       "image": "https://i.ibb.co/4KqJFvr/Scriptoria-Small-Caps.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Scriptoria Small Caps.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "SF-Compact-Text-Medium",
       "size": "331.71 KB",
       "image": "https://i.ibb.co/tx6sQsy/SF-Compact-Text-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/SF-Compact-Text-Medium.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "SF-UI-Display-Regular",
       "size": "290.22 KB",
       "image": "https://i.ibb.co/RTYtfFd/SF-UI-Display-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/SF-UI-Display-Regular.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "SF-UI-Text-MediumItalic",
       "size": "237.81 KB",
       "image": "https://i.ibb.co/f99WxkX/SF-UI-Text-Medium-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/SF-UI-Text-MediumItalic.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "simply-rounded-italic",
       "size": "52.46 KB",
       "image": "https://i.ibb.co/Bf7YjJz/simply-rounded-italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/simply-rounded-italic.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "solmeitl",
       "size": "42.34 KB",
       "image": "https://i.ibb.co/t2CGCpd/solmeitl.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/solmeitl.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "souvenirstd-light",
       "size": "32.64 KB",
       "image": "https://i.ibb.co/ZGVWZVR/souvenirstd-light.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/souvenirstd-light.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "speedballno1nf",
       "size": "97.64 KB",
       "image": "https://i.ibb.co/4FbZgmD/speedballno1nf.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/speedballno1nf.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Speed Ball No3",
       "size": "101.64 KB",
       "image": "https://i.ibb.co/0MWps0j/Speed-Ball-No3.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Speed Ball No3.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "System Font",
       "size": "238.90 KB",
       "image": "https://i.ibb.co/GxWgyz2/System-Font.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/System Font.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Thaleia",
       "size": "59.52 KB",
       "image": "https://i.ibb.co/XpzdTRH/Thaleia.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Thaleia.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Traffolight",
       "size": "14.58 KB",
       "image": "https://i.ibb.co/YhxYxtc/Traffolight.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Traffolight.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Typewriter Condensed",
       "size": "20.00 KB",
       "image": "https://i.ibb.co/TbYDMHX/Typewriter-Condensed.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Typewriter Condensed.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Typo Round Thin Italic",
       "size": "104.73 KB",
       "image": "https://i.ibb.co/0DbPd9G/Typo-Round-Thin-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Typo Round Thin Italic.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Univers CE",
       "size": "59.25 KB",
       "image": "https://i.ibb.co/WWCjQPc/Univers.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Univers CE.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Univers",
       "size": "53.74 KB",
       "image": "https://i.ibb.co/my78TLH/Univers-CE.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Univers.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Zapf Book ITC",
       "size": "34.73 KB",
       "image": "https://i.ibb.co/wYn5y63/Zapf-Book-ITC.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Zapf Book ITC.otf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Zealot",
       "size": "62.66 KB",
       "image": "https://i.ibb.co/xJDbxNq/Zealot.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Zealot.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "AndroidClock",
       "size": "4.54 KB",
       "image": "https://i.ibb.co/cXNgvBx/Android-Clock.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/AndroidClock.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "CarroisGothicSC Regular ",
       "size": "40.31 KB",
       "image": "https://i.ibb.co/mDJ9JNB/Carrois-Gothic-SC-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/CarroisGothicSC Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "ComingSoon",
       "size": "59.14 KB",
       "image": "https://i.ibb.co/R784pM6/Coming-Soon.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/ComingSoon.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "CutiveMono",
       "size": "69.18 KB",
       "image": "https://i.ibb.co/W5RQyt6/Cutive-Mono.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/CutiveMono.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "DancingScript Bold ",
       "size": "115.57 KB",
       "image": "https://i.ibb.co/WvXsWvC/Dancing-Script-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/DancingScript Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "DancingScript Regular ",
       "size": "116.58 KB",
       "image": "https://i.ibb.co/gt8Zj2X/Dancing-Script-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/DancingScript Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "DroidSans Bold ",
       "size": "306.94 KB",
       "image": "https://i.ibb.co/wB6Z8VF/Droid-Sans.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/DroidSans Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "DroidSansMono",
       "size": "108.13 KB",
       "image": "https://i.ibb.co/fnDzpR1/Droid-Sans-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/DroidSansMono.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "DroidSans",
       "size": "305.61 KB",
       "image": "https://i.ibb.co/9pPxPqC/Droid-Sans-Mono.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/DroidSans.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoColorEmoji",
       "size": "10.42 MB",
       "image": "https://i.ibb.co/9vZk7Ty/Noto-Color-Emoji.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoColorEmoji.ttf?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoNaskhArabic Bold ",
       "size": "115.78 KB",
       "image": "https://i.ibb.co/wMmC4r0/Noto-Naskh-Arabic-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoNaskhArabic Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoNaskhArabic Regular ",
       "size": "116.72 KB",
       "image": "https://i.ibb.co/3h58cFs/Noto-Naskh-Arabic-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoNaskhArabic Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoNaskhArabicUI Bold ",
       "size": "119.36 KB",
       "image": "https://i.ibb.co/cXNgvBx/Android-Clock.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoNaskhArabicUI Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoNaskhArabicUI Regular ",
       "size": "120.80 KB",
       "image": "https://i.ibb.co/16s7QgN/Noto-Naskh-Arabic-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoNaskhArabicUI Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansAdlam VF ",
       "size": "103.89 KB",
       "image": "https://i.ibb.co/HVzPqsj/Noto-Sans-Adlam-VF.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansAdlam VF.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansAhom Regular ",
       "size": "13.85 KB",
       "image": "https://i.ibb.co/J3RyqfM/Noto-Sans-Ahom-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansAhom Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansAnatolianHieroglyphs Regular ",
       "size": "134.91 KB",
       "image": "https://i.ibb.co/q0C3RTj/Noto-Sans-Anatolian-Hieroglyphs-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansAnatolianHieroglyphs Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansArmenian Bold ",
       "size": "14.73 KB",
       "image": "https://i.ibb.co/YWTqVWD/Noto-Sans-Armenian-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansArmenian Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansArmenian Medium ",
       "size": "14.90 KB",
       "image": "https://i.ibb.co/bXBd2CD/Noto-Sans-Armenian-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansArmenian Medium.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansArmenian Regular ",
       "size": "14.68 KB",
       "image": "https://i.ibb.co/HV89dJZ/Noto-Sans-Armenian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansArmenian Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansAvestan Regular ",
       "size": "11.85 KB",
       "image": "https://i.ibb.co/JzMXZrJ/Noto-Sans-Avestan-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansAvestan Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBalinese Regular ",
       "size": "32.08 KB",
       "image": "https://i.ibb.co/hRVTgwd/Noto-Sans-Balinese-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBalinese Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBamum Regular ",
       "size": "133.73 KB",
       "image": "https://i.ibb.co/TgqxDNr/Noto-Sans-Bamum-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBamum Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBassaVah Regular ",
       "size": "6.33 KB",
       "image": "https://i.ibb.co/5GCfBvg/Noto-Sans-Bassa-Vah-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBassaVah Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBatak Regular ",
       "size": "12.81 KB",
       "image": "https://i.ibb.co/9qzMFQj/Noto-Sans-Batak-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBatak Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBengali Bold ",
       "size": "82.07 KB",
       "image": "https://i.ibb.co/GnwgJmX/Noto-Sans-Bengali-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBengali Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBengali Medium ",
       "size": "88.93 KB",
       "image": "https://i.ibb.co/1L8zdMx/Noto-Sans-Bengali-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBengali Medium.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBengali Regular ",
       "size": "80.04 KB",
       "image": "https://i.ibb.co/xz2619C/Noto-Sans-Bengali-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBengali Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBengaliUI Bold ",
       "size": "81.64 KB",
       "image": "https://i.ibb.co/hsRwwJN/Noto-Sans-Bengali-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBengaliUI Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBengaliUI Medium ",
       "size": "88.28 KB",
       "image": "https://i.ibb.co/7Sx9b10/Noto-Sans-Bengali-UI-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBengaliUI Medium.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBengaliUI Regular ",
       "size": "79.61 KB",
       "image": "https://i.ibb.co/XbYVydd/Noto-Sans-Bengali-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBengaliUI Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBhaiksuki Regular ",
       "size": "100.34 KB",
       "image": "https://i.ibb.co/3p85n0B/Noto-Sans-Bhaiksuki-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBhaiksuki Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBrahmi Regular ",
       "size": "23.65 KB",
       "image": "https://i.ibb.co/3FjD5GS/Noto-Sans-Brahmi-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBrahmi Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBuginese Regular ",
       "size": "7.84 KB",
       "image": "https://i.ibb.co/4fj0pYw/Noto-Sans-Buginese-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBuginese Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansBuhid Regular ",
       "size": "4.90 KB",
       "image": "https://i.ibb.co/802nxzQ/Noto-Sans-Buhid-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansBuhid Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansCanadianAboriginal Regular ",
       "size": "46.42 KB",
       "image": "https://i.ibb.co/k6wsNBt/Noto-Sans-Canadian-Aboriginal-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansCanadianAboriginal Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansCarian Regular ",
       "size": "6.26 KB",
       "image": "https://i.ibb.co/GF0SpHw/Noto-Sans-Carian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansCarian Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansChakma Regular ",
       "size": "29.51 KB",
       "image": "https://i.ibb.co/SPjcmSs/Noto-Sans-Chakma-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansChakma Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansCham Bold ",
       "size": "22.27 KB",
       "image": "https://i.ibb.co/PzYmBrh/Noto-Sans-Cham-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansCham Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansCham Regular ",
       "size": "22.26 KB",
       "image": "https://i.ibb.co/TgqxDNr/Noto-Sans-Bamum-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansCham Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansCherokee Regular ",
       "size": "58.17 KB",
       "image": "https://i.ibb.co/PYsLLkP/Noto-Sans-Cherokee-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansCherokee Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansCJK Regular.ttc ",
       "size": "20.33 MB",
       "image": "https://i.ibb.co/GTz3QKQ/Noto-Sans-CJK-Regular-ttc.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansCJK Regular.ttc ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansCoptic Regular ",
       "size": "21.98 KB",
       "image": "https://i.ibb.co/BBY35xx/Noto-Sans-Coptic-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansCoptic Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansCuneiform Regular ",
       "size": "500.38 KB",
       "image": "https://i.ibb.co/HXPV355/Noto-Sans-Cuneiform-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansCuneiform Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansCypriot Regular ",
       "size": "7.98 KB",
       "image": "https://i.ibb.co/XzVc1cD/Noto-Sans-Cypriot-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansCypriot Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansDeseret Regular ",
       "size": "10.51 KB",
       "image": "https://i.ibb.co/5T8TH8L/Noto-Sans-Deseret-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansDeseret Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansDevanagari Bold ",
       "size": "118.56 KB",
       "image": "https://i.ibb.co/g9Dfshs/Noto-Sans-Devanagari-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansDevanagari Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansDevanagari Medium ",
       "size": "122.90 KB",
       "image": "https://i.ibb.co/0J7MJ6P/Noto-Sans-Devanagari-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansDevanagari Medium.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansDevanagari Regular ",
       "size": "115.20 KB",
       "image": "https://i.ibb.co/mvZPwyT/Noto-Sans-Devanagari-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansDevanagari Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansDevanagariUI Bold ",
       "size": "108.64 KB",
       "image": "https://i.ibb.co/GMF9p0C/Noto-Sans-Devanagari-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansDevanagariUI Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansDevanagariUI Medium ",
       "size": "111.97 KB",
       "image": "https://i.ibb.co/nz3qwV2/Noto-Sans-Devanagari-UI-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansDevanagariUI Medium.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansDevanagariUI Regular ",
       "size": "105.37 KB",
       "image": "https://i.ibb.co/hHr3HwR/Noto-Sans-Devanagari-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansDevanagariUI Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansEgyptianHieroglyphs Regular ",
       "size": "505.44 KB",
       "image": "https://i.ibb.co/jgGM72R/Noto-Sans-Egyptian-Hieroglyphs-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansEgyptianHieroglyphs Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansElbasan Regular ",
       "size": "8.79 KB",
       "image": "https://i.ibb.co/HnMP9tK/Noto-Sans-Elbasan-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansElbasan Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansEthiopic Bold ",
       "size": "143.36 KB",
       "image": "https://i.ibb.co/TtKmQ7p/Noto-Sans-Ethiopic-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansEthiopic Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansEthiopic Regular ",
       "size": "143.23 KB",
       "image": "https://i.ibb.co/z5kCWJg/Noto-Sans-Ethiopic-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansEthiopic Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansGeorgian VF ",
       "size": "66.72 KB",
       "image": "https://i.ibb.co/tb1SRcy/Noto-Sans-Georgian-VF.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansGeorgian VF.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansGlagolitic Regular ",
       "size": "15.68 KB",
       "image": "https://i.ibb.co/n7PZDGF/Noto-Sans-Glagolitic-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansGlagolitic Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansGothic Regular ",
       "size": "6.03 KB",
       "image": "https://i.ibb.co/dgYDNVH/Noto-Sans-Gothic-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansGothic Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansGujarati Bold ",
       "size": "117.02 KB",
       "image": "https://i.ibb.co/b1n78Jb/Noto-Sans-Gujarati-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansGujarati Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansGujarati Regular ",
       "size": "120.04 KB",
       "image": "https://i.ibb.co/4p7MzLm/Noto-Sans-Gujarati-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansGujarati Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansGujaratiUI Bold ",
       "size": "114.31 KB",
       "image": "https://i.ibb.co/FJPksH8/Noto-Sans-Gujarati-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansGujaratiUI Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansGujaratiUI Regular ",
       "size": "117.38 KB",
       "image": "https://i.ibb.co/bdYB1Zq/Noto-Sans-Gujarati-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansGujaratiUI Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansGunjalaGondi Regular ",
       "size": "32.34 KB",
       "image": "https://i.ibb.co/qxgHJyg/Noto-Sans-Gunjala-Gondi-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansGunjalaGondi Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansGurmukhi Bold ",
       "size": "31.62 KB",
       "image": "https://i.ibb.co/qRdqBBn/Noto-Sans-Gurmukhi-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansGurmukhi Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansGurmukhi Regular ",
       "size": "31.78 KB",
       "image": "https://i.ibb.co/LDTB2Cp/Noto-Sans-Gurmukhi-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansGurmukhi Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansGurmukhiUI Bold ",
       "size": "32.38 KB",
       "image": "https://i.ibb.co/5BztmBD/Noto-Sans-Gurmukhi-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansGurmukhiUI Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansGurmukhiUI Regular ",
       "size": "32.13 KB",
       "image": "https://i.ibb.co/5ksMJcT/Noto-Sans-Gurmukhi-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansGurmukhiUI Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansHanifiRohingya Regular ",
       "size": "13.43 KB",
       "image": "https://i.ibb.co/zxfvtBC/Noto-Sans-Hanifi-Rohingya-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansHanifiRohingya Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansHanunoo Regular ",
       "size": "6.77 KB",
       "image": "https://i.ibb.co/tbpfgnD/Noto-Sans-Hanunoo-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansHanunoo Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansHatran Regular ",
       "size": "4.39 KB",
       "image": "https://i.ibb.co/MpJCVjY/Noto-Sans-Hatran-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansHatran Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansHebrew Bold ",
       "size": "17.54 KB",
       "image": "https://i.ibb.co/9236qqP/Noto-Sans-Hebrew-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansHebrew Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansHebrew Regular ",
       "size": "17.35 KB",
       "image": "https://i.ibb.co/9rM81GF/Noto-Sans-Hebrew-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansHebrew Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansImperialAramaic Regular ",
       "size": "5.63 KB",
       "image": "https://i.ibb.co/j3Mqwt5/Noto-Sans-Imperial-Aramaic-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansImperialAramaic Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansInscriptionalPahlavi Regular ",
       "size": "5.67 KB",
       "image": "https://i.ibb.co/Xy5LSMb/Noto-Sans-Inscriptional-Pahlavi-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansInscriptionalPahlavi Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansInscriptionalParthian Regular ",
       "size": "7.51 KB",
       "image": "https://i.ibb.co/BjnfJZM/Noto-Sans-Inscriptional-Parthian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansInscriptionalParthian Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansJavanese Regular ",
       "size": "86.94 KB",
       "image": "https://i.ibb.co/h9YmL3s/Noto-Sans-Javanese-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansJavanese Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansKaithi Regular ",
       "size": "59.45 KB",
       "image": "https://i.ibb.co/vjB3HNn/Noto-Sans-Kaithi-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansKaithi Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansKannada Bold ",
       "size": "80.85 KB",
       "image": "https://i.ibb.co/qgRX79H/Noto-Sans-Kannada-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansKannada Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansKannada Regular ",
       "size": "82.15 KB",
       "image": "https://i.ibb.co/1JdRBxF/Noto-Sans-Kannada-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansKannada Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansKannadaUI Bold ",
       "size": "79.58 KB",
       "image": "https://i.ibb.co/VMWYJT0/Noto-Sans-Kannada-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansKannadaUI Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansKannadaUI Regular ",
       "size": "81.09 KB",
       "image": "https://i.ibb.co/xz60Jqg/Noto-Sans-Kannada-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansKannadaUI Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansKayahLi Regular ",
       "size": "8.02 KB",
       "image": "https://i.ibb.co/b71RRCk/Noto-Sans-Kayah-Li-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansKayahLi Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansKharoshthi Regular ",
       "size": "21.86 KB",
       "image": "https://i.ibb.co/5BztmBD/Noto-Sans-Gurmukhi-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansKharoshthi Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansKhmerUI Bold ",
       "size": "36.22 KB",
       "image": "https://i.ibb.co/ngmTHK1/Noto-Sans-Khmer-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansKhmerUI Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansKhmerUI Regular ",
       "size": "37.93 KB",
       "image": "https://i.ibb.co/dPZC2h7/Noto-Sans-Khmer-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansKhmerUI Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansKhmer VF ",
       "size": "143.48 KB",
       "image": "https://i.ibb.co/mDt0JR3/Noto-Sans-Khmer-VF.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansKhmer VF.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansKhojki Regular ",
       "size": "26.93 KB",
       "image": "https://i.ibb.co/8gW6kL7/Noto-Sans-Khojki-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansKhojki Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansLao Bold ",
       "size": "29.18 KB",
       "image": "https://i.ibb.co/wgfF6fx/Noto-Sans-Lao-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansLao Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansLao Regular ",
       "size": "30.56 KB",
       "image": "https://i.ibb.co/rwHrTJQ/Noto-Sans-Lao-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansLao Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansLaoUI Bold ",
       "size": "29.23 KB",
       "image": "https://i.ibb.co/f1zB8Qz/Noto-Sans-Lao-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansLaoUI Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansLaoUI Regular ",
       "size": "30.57 KB",
       "image": "https://i.ibb.co/yQFbhKY/Noto-Sans-Lao-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansLaoUI Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansLepcha Regular ",
       "size": "102.06 KB",
       "image": "https://i.ibb.co/b7Qt2g3/Noto-Sans-Lepcha-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansLepcha Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansLimbu Regular ",
       "size": "11.10 KB",
       "image": "https://i.ibb.co/SVcdTXX/Noto-Sans-Limbu-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansLimbu Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansLinearA Regular ",
       "size": "33.92 KB",
       "image": "https://i.ibb.co/W0mHpMQ/Noto-Sans-Linear-A-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansLinearA Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansLinearB Regular ",
       "size": "57.94 KB",
       "image": "https://i.ibb.co/vBWpvSd/Noto-Sans-Linear-B-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansLinearB Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansLisu Regular ",
       "size": "5.68 KB",
       "image": "https://i.ibb.co/61JyMDc/Noto-Sans-Lisu-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansLisu Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansLycian Regular ",
       "size": "4.31 KB",
       "image": "https://i.ibb.co/G9gXCYH/Noto-Sans-Lycian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansLycian Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansLydian Regular ",
       "size": "4.27 KB",
       "image": "https://i.ibb.co/QcW8f64/Noto-Sans-Lydian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansLydian Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMalayalam Bold ",
       "size": "47.98 KB",
       "image": "https://i.ibb.co/Q62y3VJ/Noto-Sans-Malayalam-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMalayalam Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMalayalam Medium ",
       "size": "53.47 KB",
       "image": "https://i.ibb.co/5BztmBD/Noto-Sans-Gurmukhi-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMalayalam Medium.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMalayalam Regular ",
       "size": "48.05 KB",
       "image": "https://i.ibb.co/N2kVmyH/Noto-Sans-Malayalam-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMalayalam Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMalayalamUI Bold ",
       "size": "47.91 KB",
       "image": "https://i.ibb.co/YbWkwBJ/Noto-Sans-Malayalam-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMalayalamUI Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMalayalamUI Medium ",
       "size": "53.41 KB",
       "image": "https://i.ibb.co/WywR3Kt/Noto-Sans-Malayalam-UI-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMalayalamUI Medium.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMalayalamUI Regular ",
       "size": "47.97 KB",
       "image": "https://i.ibb.co/C9xWtm1/Noto-Sans-Malayalam-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMalayalamUI Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMandaic Regular ",
       "size": "15.33 KB",
       "image": "https://i.ibb.co/KD8xPH3/Noto-Sans-Mandaic-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMandaic Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansManichaean Regular ",
       "size": "16.61 KB",
       "image": "https://i.ibb.co/VSzJKJt/Noto-Sans-Manichaean-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansManichaean Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMarchen Regular ",
       "size": "63.99 KB",
       "image": "https://i.ibb.co/LZ4vfj9/Noto-Sans-Marchen-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMarchen Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMasaramGondi Regular ",
       "size": "23.02 KB",
       "image": "https://i.ibb.co/cJL3wrp/Noto-Sans-Masaram-Gondi-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMasaramGondi Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMeeteiMayek Regular ",
       "size": "13.94 KB",
       "image": "https://i.ibb.co/d5xqj3z/Noto-Sans-Meetei-Mayek-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMeeteiMayek Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMeroitic Regular ",
       "size": "20.06 KB",
       "image": "https://i.ibb.co/SVcdTXX/Noto-Sans-Limbu-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMeroitic Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMiao Regular ",
       "size": "22.91 KB",
       "image": "https://i.ibb.co/rwHrTJQ/Noto-Sans-Lao-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMiao Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMongolian Regular ",
       "size": "113.66 KB",
       "image": "https://i.ibb.co/DD3BJV9/Noto-Sans-Mongolian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMongolian Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMro Regular ",
       "size": "5.68 KB",
       "image": "https://i.ibb.co/6WSYscF/Noto-Sans-Mro-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMro Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMultani Regular ",
       "size": "7.81 KB",
       "image": "https://i.ibb.co/rbfmJsQ/Noto-Sans-Multani-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMultani Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMyanmar Bold ",
       "size": "110.51 KB",
       "image": "https://i.ibb.co/ZH8GwHw/Noto-Sans-Myanmar-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMyanmar Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMyanmar Medium ",
       "size": "115.60 KB",
       "image": "https://i.ibb.co/j3Mqwt5/Noto-Sans-Imperial-Aramaic-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMyanmar Medium.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMyanmar Regular ",
       "size": "110.38 KB",
       "image": "https://i.ibb.co/sJXjF63/Noto-Sans-Myanmar-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMyanmar Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMyanmarUI Bold ",
       "size": "112.64 KB",
       "image": "https://i.ibb.co/FY6HSwB/Noto-Sans-Myanmar-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMyanmarUI Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMyanmarUI Medium ",
       "size": "117.08 KB",
       "image": "https://i.ibb.co/rfpWPHT/Noto-Sans-Myanmar-UI-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMyanmarUI Medium.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansMyanmarUI Regular ",
       "size": "112.33 KB",
       "image": "https://i.ibb.co/M8R2hNP/Noto-Sans-Myanmar-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansMyanmarUI Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansNabataean Regular ",
       "size": "6.62 KB",
       "image": "https://i.ibb.co/PCxyKWb/Noto-Sans-Nabataean-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansNabataean Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansNewa Regular ",
       "size": "66.13 KB",
       "image": "https://i.ibb.co/2K5tY00/Noto-Sans-Newa-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansNewa Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansNewTaiLue Regular ",
       "size": "14.91 KB",
       "image": "https://i.ibb.co/Dw35VHK/Noto-Sans-New-Tai-Lue-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansNewTaiLue Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansNKo Regular ",
       "size": "18.72 KB",
       "image": "https://i.ibb.co/RhqnsJZ/Noto-Sans-NKo-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansNKo Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOgham Regular ",
       "size": "4.46 KB",
       "image": "https://i.ibb.co/Xy5LSMb/Noto-Sans-Inscriptional-Pahlavi-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOgham Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOlChiki Regular ",
       "size": "7.63 KB",
       "image": "https://i.ibb.co/BjnfJZM/Noto-Sans-Inscriptional-Parthian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOlChiki Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOldItalic Regular ",
       "size": "5.00 KB",
       "image": "https://i.ibb.co/h9YmL3s/Noto-Sans-Javanese-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOldItalic Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOldNorthArabian Regular ",
       "size": "6.28 KB",
       "image": "https://i.ibb.co/HtfhQrM/Noto-Sans-Old-North-Arabian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOldNorthArabian Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOldPermic Regular ",
       "size": "8.63 KB",
       "image": "https://i.ibb.co/qgRX79H/Noto-Sans-Kannada-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOldPermic Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOldPersian Regular ",
       "size": "12.42 KB",
       "image": "https://i.ibb.co/1JdRBxF/Noto-Sans-Kannada-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOldPersian Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOldSouthArabian Regular ",
       "size": "4.72 KB",
       "image": "https://i.ibb.co/VMWYJT0/Noto-Sans-Kannada-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOldSouthArabian Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOldTurkic Regular ",
       "size": "7.86 KB",
       "image": "https://i.ibb.co/ZGKTZqL/Noto-Sans-Old-Turkic-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOldTurkic Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOriya Bold ",
       "size": "84.62 KB",
       "image": "https://i.ibb.co/j3Mqwt5/Noto-Sans-Imperial-Aramaic-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOriya Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOriya Regular ",
       "size": "85.22 KB",
       "image": "https://i.ibb.co/sJXjF63/Noto-Sans-Myanmar-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOriya Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOriyaUI Bold ",
       "size": "80.18 KB",
       "image": "https://i.ibb.co/FY6HSwB/Noto-Sans-Myanmar-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOriyaUI Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOriyaUI Regular ",
       "size": "80.73 KB",
       "image": "https://i.ibb.co/rfpWPHT/Noto-Sans-Myanmar-UI-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOriyaUI Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOsage Regular ",
       "size": "10.56 KB",
       "image": "https://i.ibb.co/M8R2hNP/Noto-Sans-Myanmar-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOsage Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansOsmanya Regular ",
       "size": "7.47 KB",
       "image": "https://i.ibb.co/PCxyKWb/Noto-Sans-Nabataean-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansOsmanya Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansPahawhHmong Regular ",
       "size": "13.23 KB",
       "image": "https://i.ibb.co/2K5tY00/Noto-Sans-Newa-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansPahawhHmong Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansPalmyrene Regular ",
       "size": "8.60 KB",
       "image": "https://i.ibb.co/Dw35VHK/Noto-Sans-New-Tai-Lue-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansPalmyrene Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansPauCinHau Regular ",
       "size": "8.20 KB",
       "image": "https://i.ibb.co/RhqnsJZ/Noto-Sans-NKo-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansPauCinHau Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansPhagsPa Regular ",
       "size": "28.40 KB",
       "image": "https://i.ibb.co/Xy5LSMb/Noto-Sans-Inscriptional-Pahlavi-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansPhagsPa Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansPhoenician Regular ",
       "size": "5.40 KB",
       "image": "https://i.ibb.co/BjnfJZM/Noto-Sans-Inscriptional-Parthian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansPhoenician Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansRejang Regular ",
       "size": "6.48 KB",
       "image": "https://i.ibb.co/h9YmL3s/Noto-Sans-Javanese-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansRejang Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansRunic Regular ",
       "size": "8.53 KB",
       "image": "https://i.ibb.co/HtfhQrM/Noto-Sans-Old-North-Arabian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansRunic Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSamaritan Regular ",
       "size": "9.77 KB",
       "image": "https://i.ibb.co/qgRX79H/Noto-Sans-Kannada-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSamaritan Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSaurashtra Regular ",
       "size": "18.72 KB",
       "image": "https://i.ibb.co/1JdRBxF/Noto-Sans-Kannada-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSaurashtra Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSharada Regular ",
       "size": "27.75 KB",
       "image": "https://i.ibb.co/VMWYJT0/Noto-Sans-Kannada-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSharada Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansShavian Regular ",
       "size": "6.02 KB",
       "image": "https://i.ibb.co/xz60Jqg/Noto-Sans-Kannada-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansShavian Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSinhala Bold ",
       "size": "84.43 KB",
       "image": "https://i.ibb.co/YdRXrwF/Noto-Sans-Sinhala-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSinhala Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSinhala Medium ",
       "size": "90.90 KB",
       "image": "https://i.ibb.co/p4s3Vj7/Noto-Sans-Sinhala-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSinhala Medium.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSinhala Regular ",
       "size": "84.07 KB",
       "image": "https://i.ibb.co/mDt0JR3/Noto-Sans-Khmer-VF.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSinhala Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSinhalaUI Bold ",
       "size": "84.46 KB",
       "image": "https://i.ibb.co/b71RRCk/Noto-Sans-Kayah-Li-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSinhalaUI Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSinhalaUI Medium ",
       "size": "90.93 KB",
       "image": "https://i.ibb.co/dPZC2h7/Noto-Sans-Khmer-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSinhalaUI Medium.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSinhalaUI Regular ",
       "size": "84.10 KB",
       "image": "https://i.ibb.co/WFCDFzR/Noto-Sans-Sinhala-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSinhalaUI Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSoraSompeng Regular ",
       "size": "6.39 KB",
       "image": "https://i.ibb.co/2K5tY00/Noto-Sans-Newa-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSoraSompeng Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSundanese Regular ",
       "size": "10.36 KB",
       "image": "https://i.ibb.co/Dw35VHK/Noto-Sans-New-Tai-Lue-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSundanese Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSylotiNagri Regular ",
       "size": "14.90 KB",
       "image": "https://i.ibb.co/RhqnsJZ/Noto-Sans-NKo-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSylotiNagri Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSymbols Regular Subsetted2 ",
       "size": "32.93 KB",
       "image": "https://i.ibb.co/Xy5LSMb/Noto-Sans-Inscriptional-Pahlavi-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSymbols Regular Subsetted2.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSymbols Regular Subsetted ",
       "size": "709.19 KB",
       "image": "https://i.ibb.co/BjnfJZM/Noto-Sans-Inscriptional-Parthian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSymbols Regular Subsetted.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSyriacEastern Regular ",
       "size": "50.16 KB",
       "image": "https://i.ibb.co/h9YmL3s/Noto-Sans-Javanese-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSyriacEastern Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSyriacEstrangela Regular ",
       "size": "46.40 KB",
       "image": "https://i.ibb.co/HtfhQrM/Noto-Sans-Old-North-Arabian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSyriacEstrangela Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansSyriacWestern Regular ",
       "size": "52.38 KB",
       "image": "https://i.ibb.co/qgRX79H/Noto-Sans-Kannada-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansSyriacWestern Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTagalog Regular ",
       "size": "5.64 KB",
       "image": "https://i.ibb.co/1JdRBxF/Noto-Sans-Kannada-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTagalog Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTagbanwa Regular ",
       "size": "5.60 KB",
       "image": "https://i.ibb.co/VMWYJT0/Noto-Sans-Kannada-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTagbanwa Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTaiLe Regular ",
       "size": "10.01 KB",
       "image": "https://i.ibb.co/xz60Jqg/Noto-Sans-Kannada-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTaiLe Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTaiTham Regular ",
       "size": "48.06 KB",
       "image": "https://i.ibb.co/YdRXrwF/Noto-Sans-Sinhala-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTaiTham Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTaiViet Regular ",
       "size": "15.85 KB",
       "image": "https://i.ibb.co/p4s3Vj7/Noto-Sans-Sinhala-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTaiViet Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTamil Bold ",
       "size": "30.90 KB",
       "image": "https://i.ibb.co/mDt0JR3/Noto-Sans-Khmer-VF.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTamil Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTamil Medium ",
       "size": "32.97 KB",
       "image": "https://i.ibb.co/b71RRCk/Noto-Sans-Kayah-Li-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTamil Medium.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTamil Regular ",
       "size": "30.86 KB",
       "image": "https://i.ibb.co/dPZC2h7/Noto-Sans-Khmer-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTamil Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTamilUI Bold ",
       "size": "30.98 KB",
       "image": "https://i.ibb.co/8gW6kL7/Noto-Sans-Khojki-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTamilUI Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTamilUI Medium ",
       "size": "33.02 KB",
       "image": "https://i.ibb.co/wgfF6fx/Noto-Sans-Lao-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTamilUI Medium.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTamilUI Regular ",
       "size": "30.91 KB",
       "image": "https://i.ibb.co/ngmTHK1/Noto-Sans-Khmer-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTamilUI Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTelugu Bold ",
       "size": "110.46 KB",
       "image": "https://i.ibb.co/f1zB8Qz/Noto-Sans-Lao-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTelugu Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTelugu Regular ",
       "size": "110.70 KB",
       "image": "https://i.ibb.co/yQFbhKY/Noto-Sans-Lao-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTelugu Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTeluguUI Bold ",
       "size": "111.72 KB",
       "image": "https://i.ibb.co/b7Qt2g3/Noto-Sans-Lepcha-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTeluguUI Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTeluguUI Regular ",
       "size": "111.98 KB",
       "image": "https://i.ibb.co/SVcdTXX/Noto-Sans-Limbu-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTeluguUI Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansThaana Bold ",
       "size": "14.50 KB",
       "image": "https://i.ibb.co/rwHrTJQ/Noto-Sans-Lao-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansThaana Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansThaana Regular ",
       "size": "14.41 KB",
       "image": "https://i.ibb.co/vBWpvSd/Noto-Sans-Linear-B-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansThaana Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansThai Bold ",
       "size": "18.34 KB",
       "image": "https://i.ibb.co/61JyMDc/Noto-Sans-Lisu-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansThai Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansThai Regular ",
       "size": "21.38 KB",
       "image": "https://i.ibb.co/9bMh6G3/Noto-Sans-Thai-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansThai Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansThaiUI Bold ",
       "size": "19.00 KB",
       "image": "https://i.ibb.co/QcW8f64/Noto-Sans-Lydian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansThaiUI Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansThaiUI Regular ",
       "size": "22.02 KB",
       "image": "https://i.ibb.co/Q62y3VJ/Noto-Sans-Malayalam-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansThaiUI Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTibetan Bold ",
       "size": "373.12 KB",
       "image": "https://i.ibb.co/W0mHpMQ/Noto-Sans-Linear-A-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTibetan Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTibetan Regular ",
       "size": "401.76 KB",
       "image": "https://i.ibb.co/N2kVmyH/Noto-Sans-Malayalam-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTibetan Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansTifinagh Regular ",
       "size": "24.92 KB",
       "image": "https://i.ibb.co/G9gXCYH/Noto-Sans-Lycian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansTifinagh Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansUgaritic Regular ",
       "size": "6.77 KB",
       "image": "https://i.ibb.co/WywR3Kt/Noto-Sans-Malayalam-UI-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansUgaritic Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansVai Regular ",
       "size": "64.29 KB",
       "image": "https://i.ibb.co/C9xWtm1/Noto-Sans-Malayalam-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansVai Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansWancho Regular ",
       "size": "14.22 KB",
       "image": "https://i.ibb.co/JnTztR3/Noto-Sans-Wancho-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansWancho Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansWarangCiti Regular ",
       "size": "20.53 KB",
       "image": "https://i.ibb.co/DgLNMkR/Noto-Sans-Warang-Citi-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansWarangCiti Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSansYi Regular ",
       "size": "122.90 KB",
       "image": "https://i.ibb.co/t3RsrfV/Noto-Sans-Yi-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSansYi Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifArmenian Bold ",
       "size": "12.21 KB",
       "image": "https://i.ibb.co/vBWpvSd/Noto-Sans-Linear-B-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifArmenian Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifArmenian Regular ",
       "size": "13.63 KB",
       "image": "https://i.ibb.co/61JyMDc/Noto-Sans-Lisu-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifArmenian Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifBengali Bold ",
       "size": "117.14 KB",
       "image": "https://i.ibb.co/YbWkwBJ/Noto-Sans-Malayalam-UI-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifBengali Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifBengali Regular ",
       "size": "118.36 KB",
       "image": "https://i.ibb.co/QcW8f64/Noto-Sans-Lydian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifBengali Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerif BoldItalic ",
       "size": "263.08 KB",
       "image": "https://i.ibb.co/WNXdTz5/Noto-Serif-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerif BoldItalic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerif Bold ",
       "size": "247.89 KB",
       "image": "https://i.ibb.co/b7Qt2g3/Noto-Sans-Lepcha-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerif Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifCJK Regular.ttc ",
       "size": "24.78 MB",
       "image": "https://i.ibb.co/Q62y3VJ/Noto-Sans-Malayalam-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifCJK Regular.ttc ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifDevanagari Bold ",
       "size": "79.11 KB",
       "image": "https://i.ibb.co/9bMh6G3/Noto-Sans-Thai-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifDevanagari Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifDevanagari Regular ",
       "size": "78.42 KB",
       "image": "https://i.ibb.co/N2kVmyH/Noto-Sans-Malayalam-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifDevanagari Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifEthiopic Bold ",
       "size": "128.61 KB",
       "image": "https://i.ibb.co/G9gXCYH/Noto-Sans-Lycian-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifEthiopic Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifEthiopic Regular ",
       "size": "112.60 KB",
       "image": "https://i.ibb.co/W0mHpMQ/Noto-Sans-Linear-A-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifEthiopic Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifGeorgian VF ",
       "size": "80.42 KB",
       "image": "https://i.ibb.co/C9xWtm1/Noto-Sans-Malayalam-UI-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifGeorgian VF.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifGujarati Bold ",
       "size": "63.94 KB",
       "image": "https://i.ibb.co/KD8xPH3/Noto-Sans-Mandaic-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifGujarati Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifGujarati Regular ",
       "size": "65.16 KB",
       "image": "https://i.ibb.co/VSzJKJt/Noto-Sans-Manichaean-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifGujarati Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifGurmukhi Bold ",
       "size": "29.56 KB",
       "image": "https://i.ibb.co/LZ4vfj9/Noto-Sans-Marchen-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifGurmukhi Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifGurmukhi Regular ",
       "size": "27.58 KB",
       "image": "https://i.ibb.co/cJL3wrp/Noto-Sans-Masaram-Gondi-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifGurmukhi Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifHebrew Bold ",
       "size": "17.21 KB",
       "image": "https://i.ibb.co/x2WZ7ym/Noto-Serif-Hebrew-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifHebrew Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifHebrew Regular ",
       "size": "17.12 KB",
       "image": "https://i.ibb.co/P1pkRSc/Noto-Serif-Hebrew-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifHebrew Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerif Italic ",
       "size": "249.75 KB",
       "image": "https://i.ibb.co/SVcdTXX/Noto-Sans-Limbu-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerif Italic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifKannada Bold ",
       "size": "90.79 KB",
       "image": "https://i.ibb.co/F5HWgVT/Noto-Serif-Kannada-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifKannada Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifKannada Regular ",
       "size": "92.64 KB",
       "image": "https://i.ibb.co/FYsf6gG/Noto-Serif-Kannada-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifKannada Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifKhmer Bold ",
       "size": "48.08 KB",
       "image": "https://i.ibb.co/YZR82JR/Noto-Serif-Khmer-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifKhmer Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifKhmer Regular ",
       "size": "40.69 KB",
       "image": "https://i.ibb.co/9q35KDw/Noto-Serif-Khmer-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifKhmer Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifLao Bold ",
       "size": "30.16 KB",
       "image": "https://i.ibb.co/whdjzTS/Noto-Serif-Lao-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifLao Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifLao Regular ",
       "size": "30.63 KB",
       "image": "https://i.ibb.co/XbTsw58/Noto-Serif-Lao-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifLao Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifMalayalam Bold ",
       "size": "49.96 KB",
       "image": "https://i.ibb.co/9bMh6G3/Noto-Sans-Thai-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifMalayalam Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifMalayalam Regular ",
       "size": "49.64 KB",
       "image": "https://i.ibb.co/HHtT8F4/Noto-Serif-Malayalam-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifMalayalam Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifMyanmar Bold ",
       "size": "136.26 KB",
       "image": "https://i.ibb.co/vk4YJHJ/Noto-Serif-Myanmar-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifMyanmar Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifMyanmar Regular ",
       "size": "137.54 KB",
       "image": "https://i.ibb.co/nM4GJY4/Noto-Serif-Myanmar-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifMyanmar Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerif Regular ",
       "size": "246.74 KB",
       "image": "https://i.ibb.co/rwHrTJQ/Noto-Sans-Lao-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerif Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifSinhala Bold ",
       "size": "85.46 KB",
       "image": "https://i.ibb.co/3NxfTHV/Noto-Serif-Sinhala-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifSinhala Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifSinhala Regular ",
       "size": "74.68 KB",
       "image": "https://i.ibb.co/ScYZqSF/Noto-Serif-Sinhala-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifSinhala Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifTamil Bold ",
       "size": "31.75 KB",
       "image": "https://i.ibb.co/fSkJ0gk/Noto-Serif-Tamil-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifTamil Bold.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifTamil Regular ",
       "size": "31.02 KB",
       "image": "https://i.ibb.co/b7QsTS7/Noto-Serif-Tamil-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifTamil Regular.otf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifTelugu Bold ",
       "size": "150.10 KB",
       "image": "https://i.ibb.co/hysJp0S/Noto-Serif-Telugu-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifTelugu Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifTelugu Regular ",
       "size": "151.20 KB",
       "image": "https://i.ibb.co/BjHC0w6/Noto-Serif-Telugu-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifTelugu Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifThai Bold ",
       "size": "18.65 KB",
       "image": "https://i.ibb.co/9vHSf29/Noto-Serif-Thai-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifThai Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "NotoSerifThai Regular ",
       "size": "19.30 KB",
       "image": "https://i.ibb.co/68L3WrJ/Noto-Serif-Thai-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/NotoSerifThai Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Roboto BlackItalic ",
       "size": "330.45 KB",
       "image": "https://i.ibb.co/3TKm7YC/Roboto-Black.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Roboto BlackItalic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Roboto Black ",
       "size": "306.43 KB",
       "image": "https://i.ibb.co/qxBGrZb/Roboto-Black-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Roboto Black.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Roboto BoldItalic ",
       "size": "332.16 KB",
       "image": "https://i.ibb.co/gd7g6f2/Roboto-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Roboto BoldItalic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Roboto Bold ",
       "size": "306.94 KB",
       "image": "https://i.ibb.co/WBnhGBC/Roboto-Bold-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Roboto Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "RobotoCondensed BoldItalic ",
       "size": "330.50 KB",
       "image": "https://i.ibb.co/wLv8fmG/Roboto-Condensed-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/RobotoCondensed BoldItalic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "RobotoCondensed Bold ",
       "size": "303.94 KB",
       "image": "https://i.ibb.co/9N0HMBc/Roboto-Condensed-Bold-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/RobotoCondensed Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "RobotoCondensed Italic ",
       "size": "329.37 KB",
       "image": "https://i.ibb.co/j68nXPt/Roboto-Condensed-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/RobotoCondensed Italic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "RobotoCondensed LightItalic ",
       "size": "332.50 KB",
       "image": "https://i.ibb.co/5B9v1kJ/Roboto-Condensed-Light.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/RobotoCondensed LightItalic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "RobotoCondensed Light ",
       "size": "302.30 KB",
       "image": "https://i.ibb.co/YXGGbxj/Roboto-Condensed-Light-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/RobotoCondensed Light.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "RobotoCondensed MediumItalic ",
       "size": "330.35 KB",
       "image": "https://i.ibb.co/RCJqxsJ/Roboto-Condensed-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/RobotoCondensed MediumItalic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "RobotoCondensed Medium ",
       "size": "303.60 KB",
       "image": "https://i.ibb.co/7VjSGd8/Roboto-Condensed-Medium-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/RobotoCondensed Medium.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "RobotoCondensed Regular ",
       "size": "300.66 KB",
       "image": "https://i.ibb.co/RjGHqSD/Roboto-Condensed-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/RobotoCondensed Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Roboto Italic ",
       "size": "328.64 KB",
       "image": "https://i.ibb.co/yk6R7J2/Roboto-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Roboto Italic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Roboto LightItalic ",
       "size": "332.17 KB",
       "image": "https://i.ibb.co/ZNgZYBf/Roboto-Light.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Roboto LightItalic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Roboto Light ",
       "size": "307.19 KB",
       "image": "https://i.ibb.co/fSMD06H/Roboto-Light-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Roboto Light.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Roboto MediumItalic ",
       "size": "330.80 KB",
       "image": "https://i.ibb.co/QFDspQH/Roboto-Medium.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Roboto MediumItalic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Roboto Medium ",
       "size": "306.54 KB",
       "image": "https://i.ibb.co/NCZ6SYb/Roboto-Medium-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Roboto Medium.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Roboto Regular ",
       "size": "305.61 KB",
       "image": "https://i.ibb.co/PgwqBmB/Roboto-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Roboto Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Roboto ThinItalic ",
       "size": "329.70 KB",
       "image": "https://i.ibb.co/C56rpZb/Roboto-Thin.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Roboto ThinItalic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "Roboto Thin ",
       "size": "307.66 KB",
       "image": "https://i.ibb.co/PG8T7rc/Roboto-Thin-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/Roboto Thin.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "SourceSansPro BoldItalic ",
       "size": "103.20 KB",
       "image": "https://i.ibb.co/DY536fR/Source-Sans-Pro-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/SourceSansPro BoldItalic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "SourceSansPro Bold ",
       "size": "290.92 KB",
       "image": "https://i.ibb.co/h16S80N/Source-Sans-Pro-Bold-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/SourceSansPro Bold.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "SourceSansPro Italic ",
       "size": "103.83 KB",
       "image": "https://i.ibb.co/p0BhZpx/Source-Sans-Pro-Italic.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/SourceSansPro Italic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "SourceSansPro Regular ",
       "size": "293.52 KB",
       "image": "https://i.ibb.co/Cwf9g8D/Source-Sans-Pro-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/SourceSansPro Regular.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "SourceSansPro SemiBoldItalic ",
       "size": "103.56 KB",
       "image": "https://i.ibb.co/KLkYM5m/Source-Sans-Pro-Semi-Bold.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/SourceSansPro SemiBoldItalic.ttf ?raw=true"
     },
     {
-      "name": ".*?",
-      "category": "English",
+      "name": "SourceSansPro SemiBold ",
       "size": "291.86 KB",
       "image": "https://i.ibb.co/PgwqBmB/Roboto-Regular.png",
       "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/English/SourceSansPro SemiBold.ttf ?raw=true"
