@@ -1,754 +1,879 @@
 {
-    "fonts" : [
-        {
-            "name": "Aardvark Cafe ",
-            "size": "29.09 KB",
-            "image":"https://i.ibb.co/GFYk2yP/Aardvark-Cafe.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Aardvark Cafe.ttf "
-        },
-        {
-            "name": "Abiyells",
-            "size": "179.77 KB",
-            "image":"https://i.ibb.co/1KVJbn5/Abiyells.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Abiyells.ttf"
-        },
-        {
-            "name": "Absolute-Demo",
-            "size": "90.47 KB",
-            "image":"https://i.ibb.co/vhr05LG/Absolute-Demo.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Absolute-Demo.ttf"
-        },
-        {
-            "name": "adlery-pro.swash",
-            "size": "255.75 KB",
-            "image":"https://i.ibb.co/rmmrvFC/adlery-pro-swash.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/adlery-pro.swash.ttf"
-        },
-        {
-            "name": "Adventure of the old Giant ",
-            "size": "63.35 KB",
-            "image":"https://i.ibb.co/P1Ymz2y/Adventure-of-the-old-Giant.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Adventure of the old Giant.ttf "
-        },
-        {
-            "name": "Aircruiser Academy Italic ",
-            "size": "94.67 KB",
-            "image":"https://i.ibb.co/JQ1sD3H/Aircruiser-Academy-Italic.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Aircruiser Academy Italic.ttf "
-        },
-        {
-            "name": "Alistair morrison demo ",
-            "size": "26.83 KB",
-            "image":"https://i.ibb.co/TBvpSsL/Alistair-morrison-demo.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Alistair morrison demo.ttf "
-        },
-        {
-            "name": "Anglo Text ",
-            "size": "44.84 KB",
-            "image":"https://i.ibb.co/Hr5nj76/Anglo-Text.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Anglo Text.ttf "
-        },
-        {
-            "name": "Annisa - Slant ",
-            "size": "116.26 KB",
-            "image":"https://i.ibb.co/7pTtKTJ/Annisa-Slant.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Annisa - Slant.otf "
-        },
-        {
-            "name": "Antigna Signature ",
-            "size": "47.13 KB",
-            "image":"https://i.ibb.co/jrQ9x76/Antigna-Signature.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Antigna Signature.ttf "
-        },
-        {
-            "name": "antipasto.extrabold",
-            "size": "301.86 KB",
-            "image":"https://i.ibb.co/NSfdNxL/antipasto-extrabold.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/antipasto.extrabold.ttf"
-        },
-        {
-            "name": "Anydore",
-            "size": "239.48 KB",
-            "image":"https://i.ibb.co/BBw4H8t/Anydore.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Anydore.otf"
-        },
-        {
-            "name": "Apalu",
-            "size": "36.25 KB",
-            "image":"https://i.ibb.co/HzRfWgw/Apalu.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Apalu.ttf"
-        },
-        {
-            "name": "AromaticGinger",
-            "size": "29.96 KB",
-            "image":"https://i.ibb.co/kqQ9s0h/Aromatic-Ginger.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/AromaticGinger.ttf"
-        },
-        {
-            "name": "arturo-trial.heavy-outline",
-            "size": "811.72 KB",
-            "image":"https://i.ibb.co/pXsSL5f/arturo-trial-heavy-outline.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/arturo-trial.heavy-outline.ttf"
-        },
-        {
-            "name": "austinsigns",
-            "size": "72.10 KB",
-            "image":"https://i.ibb.co/gg8hvRg/austinsigns.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/austinsigns.ttf"
-        },
-        {
-            "name": "Autography",
-            "size": "52.40 KB",
-            "image":"https://i.ibb.co/qFD4CtM/Autography.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Autography.otf"
-        },
-        {
-            "name": "AVONE",
-            "size": "78.74 KB",
-            "image":"https://i.ibb.co/zHgj2gs/AVONE.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/AVONE.ttf"
-        },
-        {
-            "name": "Baliland",
-            "size": "28.46 KB",
-            "image":"https://i.ibb.co/kDyJJmr/Baliland.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Baliland.ttf"
-        },
-        {
-            "name": "beauty angelique ",
-            "size": "47.47 KB",
-            "image":"https://i.ibb.co/WB1cnb5/beauty-angelique.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/beauty angelique.ttf "
-        },
-        {
-            "name": "BeautyDemo",
-            "size": "38.80 KB",
-            "image":"https://i.ibb.co/DbVS07k/Beauty-Demo.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/BeautyDemo.ttf"
-        },
-        {
-            "name": "Bellerose",
-            "size": "13.96 KB",
-            "image":"https://i.ibb.co/nbjYhgz/Bellerose.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Bellerose.ttf"
-        },
-        {
-            "name": "Bemboza script ",
-            "size": "31.33 KB",
-            "image":"https://i.ibb.co/Y8QKP3q/Bemboza-script.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Bemboza script.ttf "
-        },
-        {
-            "name": "Berkahi Blackletter ",
-            "size": "70.97 KB",
-            "image":"https://i.ibb.co/YbQnBY5/Berkahi-Blackletter.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Berkahi Blackletter.ttf "
-        },
-        {
-            "name": "Black Pepper ",
-            "size": "45.42 KB",
-            "image":"https://i.ibb.co/fqTL2GJ/Black-Pepper.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Black Pepper.ttf "
-        },
-        {
-            "name": "blind-heart-demo.regular",
-            "size": "16.80 KB",
-            "image":"https://i.ibb.co/w0brpDT/blind-heart-demo-regular.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/blind-heart-demo.regular.ttf"
-        },
-        {
-            "name": "body-grotesque.trial-bold",
-            "size": "177.62 KB",
-            "image":"https://i.ibb.co/2ZWXLXS/body-grotesque-trial-bold.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/body-grotesque.trial-bold.ttf"
-        },
-        {
-            "name": "Brittaney free ",
-            "size": "82.10 KB",
-            "image":"https://i.ibb.co/SxqZjZ1/Brittaney-free.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Brittaney free.ttf "
-        },
-        {
-            "name": "brock-script.regular",
-            "size": "55.61 KB",
-            "image":"https://i.ibb.co/RbNDhRX/brock-script-regular.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/brock-script.regular.ttf"
-        },
-        {
-            "name": "Broetown Signature ",
-            "size": "34.94 KB",
-            "image":"https://i.ibb.co/2jz7kGN/Broetown-Signature.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Broetown Signature.ttf "
-        },
-        {
-            "name": "BRUTALS Tilted ",
-            "size": "14.87 KB",
-            "image":"https://i.ibb.co/dcVSy0J/BRUTALS-Tilted.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/BRUTALS Tilted.ttf "
-        },
-        {
-            "name": "Bughartta",
-            "size": "43.44 KB",
-            "image":"https://i.ibb.co/wLdCxvw/Bughartta.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Bughartta.ttf"
-        },
-        {
-            "name": "Bvas Estadas Personal Use Only ",
-            "size": "80.41 KB",
-            "image":"https://i.ibb.co/ySD9jHh/Bvas-Estadas-Personal-Use-Only.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Bvas Estadas Personal Use Only.ttf "
-        },
-        {
-            "name": "CocoBiker Regular Trial ",
-            "size": "174.69 KB",
-            "image":"https://i.ibb.co/FbqXQ0m/Coco-Biker-Regular-Trial.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/CocoBiker Regular Trial.ttf "
-        },
-        {
-            "name": "cocogoose.compressed-trial-bold-italic",
-            "size": "713.58 KB",
-            "image":"https://i.ibb.co/Zd7tLmR/cocogoose-compressed-trial-bold-italic.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/cocogoose.compressed-trial-bold-italic.ttf"
-        },
-        {
-            "name": "codec.warm-trial-news-italic",
-            "size": "260.65 KB",
-            "image":"https://i.ibb.co/w6skPg2/codec-warm-trial-news-italic.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/codec.warm-trial-news-italic.ttf"
-        },
-        {
-            "name": "Cronisse",
-            "size": "60.46 KB",
-            "image":"https://i.ibb.co/z6ZkR6s/Cronisse.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Cronisse.ttf"
-        },
-        {
-            "name": "Delamoore",
-            "size": "70.94 KB",
-            "image":"https://i.ibb.co/YbF8jDK/Delamoore.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Delamoore.ttf"
-        },
-        {
-            "name": "dobkin-script.regular",
-            "size": "57.19 KB",
-            "image":"https://i.ibb.co/vBWKy5L/dobkin-script-regular.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/dobkin-script.regular.ttf"
-        },
-        {
-            "name": "eglantine",
-            "size": "317.87 KB",
-            "image":"https://i.ibb.co/vJvXZwF/eglantine.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/eglantine.ttf"
-        },
-        {
-            "name": "eltirg__",
-            "size": "24.08 KB",
-            "image":"https://i.ibb.co/b703PRh/eltirg.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/eltirg__.ttf"
-        },
-        {
-            "name": "EnoughLight",
-            "size": "400.02 KB",
-            "image":"https://i.ibb.co/BLMJT89/Enough-Light.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/EnoughLight.ttf"
-        },
-        {
-            "name": "Ethnocentric Regular ",
-            "size": "62.94 KB",
-            "image":"https://i.ibb.co/QDcpZRn/Ethnocentric-Regular.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Ethnocentric Regular.ttf "
-        },
-        {
-            "name": "Exorcista_-Jed_40",
-            "size": "17.87 KB",
-            "image":"https://i.ibb.co/d6HM8m5/Exorcista-Jed-40.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Exorcista_-Jed_40.ttf"
-        },
-        {
-            "name": "famosa.thin-demo",
-            "size": "23.54 KB",
-            "image":"https://i.ibb.co/ZByvhfK/famosa-thin-demo.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/famosa.thin-demo.otf"
-        },
-        {
-            "name": "Ferro Rosso ",
-            "size": "30.43 KB",
-            "image":"https://i.ibb.co/XWfDRMK/Ferro-Rosso.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Ferro Rosso.ttf "
-        },
-        {
-            "name": "Fino",
-            "size": "63.31 KB",
-            "image":"https://i.ibb.co/Wv2zgQy/Fino.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Fino.ttf"
-        },
-        {
-            "name": "flaemische-kanzleischrift.regular",
-            "size": "62.92 KB",
-            "image":"https://i.ibb.co/HHVNNH3/flaemische-kanzleischrift-regular.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/flaemische-kanzleischrift.regular.ttf"
-        },
-        {
-            "name": "FLAMINGO",
-            "size": "94.97 KB",
-            "image":"https://i.ibb.co/dcXS3zw/FLAMINGO.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/FLAMINGO.ttf"
-        },
-        {
-            "name": "Flashing",
-            "size": "199.67 KB",
-            "image":"https://i.ibb.co/yVRNVdr/Flashing.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Flashing.ttf"
-        },
-        {
-            "name": "FN-DagonMaya",
-            "size": "139.71 KB",
-            "image":"https://i.ibb.co/mT5MX0N/FN-Dagon-Maya.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/FN-DagonMaya.ttf"
-        },
-        {
-            "name": "fontleroybrown.regular",
-            "size": "39.22 KB",
-            "image":"https://i.ibb.co/LtHfhwk/fontleroybrown-regular.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/fontleroybrown.regular.ttf"
-        },
-        {
-            "name": "fortoco",
-            "size": "24.99 KB",
-            "image":"https://i.ibb.co/Z8PX9nK/fortoco.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/fortoco.ttf"
-        },
-        {
-            "name": "Geizer",
-            "size": "33.07 KB",
-            "image":"https://i.ibb.co/wgnkHgM/Geizer.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Geizer.otf"
-        },
-        {
-            "name": "Good-night",
-            "size": "44.67 KB",
-            "image":"https://i.ibb.co/MGRkw28/Good-night.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Good-night.ttf"
-        },
-        {
-            "name": "Gothic Gotera ",
-            "size": "181.41 KB",
-            "image":"https://i.ibb.co/dcB88PX/Gothic-Gotera.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Gothic Gotera.otf "
-        },
-        {
-            "name": "HANG BOARD 123 ",
-            "size": "202.31 KB",
-            "image":"https://i.ibb.co/2Pq7sht/HANG-BOARD-123.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/HANG BOARD 123.ttf "
-        },
-        {
-            "name": "Harilly Aleya ",
-            "size": "17.33 KB",
-            "image":"https://i.ibb.co/LvSnxBf/Harilly-Aleya.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Harilly Aleya.ttf "
-        },
-        {
-            "name": "Hawaii Lover ",
-            "size": "615.92 KB",
-            "image":"https://i.ibb.co/GTSwmwj/Hawaii-Lover.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Hawaii Lover.ttf "
-        },
-        {
-            "name": "Hawkmoon Academy Italic ",
-            "size": "110.72 KB",
-            "image":"https://i.ibb.co/zQxkPvV/Hawkmoon-Academy-Italic.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Hawkmoon Academy Italic.ttf "
-        },
-        {
-            "name": "Heathergreen",
-            "size": "198.26 KB",
-            "image":"https://i.ibb.co/0MWCc81/Heathergreen.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Heathergreen.otf"
-        },
-        {
-            "name": "JandaCelebrationScript",
-            "size": "50.36 KB",
-            "image":"https://i.ibb.co/YWtT7Yy/Janda-Celebration-Script.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/JandaCelebrationScript.ttf"
-        },
-        {
-            "name": "Kaibon (DEMO) ",
-            "size": "33.18 KB",
-            "image":"https://i.ibb.co/jhRM7fc/Kaibon-DEMO.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Kaibon (DEMO).otf "
-        },
-        {
-            "name": "Korean Serif ",
-            "size": "26.67 KB",
-            "image":"https://i.ibb.co/5YJSGPY/Korean-Serif.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Korean Serif.ttf "
-        },
-        {
-            "name": "Kubic s Rube ",
-            "size": "36.30 KB",
-            "image":"https://i.ibb.co/86S8Ns3/Kubic-s-Rube.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Kubic s Rube.ttf "
-        },
-        {
-            "name": "LaPointe s Road ",
-            "size": "47.91 KB",
-            "image":"https://i.ibb.co/J39nV9Q/La-Pointe-s-Road.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/LaPointe s Road.ttf "
-        },
-        {
-            "name": "Laurence Script DEMO ",
-            "size": "32.68 KB",
-            "image":"https://i.ibb.co/ds9rNb2/Laurence-Script-DEMO.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Laurence Script DEMO.ttf "
-        },
-        {
-            "name": "Lihataja",
-            "size": "314.87 KB",
-            "image":"https://i.ibb.co/PTZy22p/Lihataja.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Lihataja.ttf"
-        },
-        {
-            "name": "littlelordfontleroy.regular",
-            "size": "43.40 KB",
-            "image":"https://i.ibb.co/jwDNWQP/littlelordfontleroy-regular.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/littlelordfontleroy.regular.ttf"
-        },
-        {
-            "name": "Lovely Orange Dot ",
-            "size": "201.05 KB",
-            "image":"https://i.ibb.co/TmDLQjs/Lovely-Orange-Dot.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Lovely Orange Dot.ttf "
-        },
-        {
-            "name": "Luxoorea",
-            "size": "64.98 KB",
-            "image":"https://i.ibb.co/ZVFrWGL/Luxoorea.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Luxoorea.ttf"
-        },
-        {
-            "name": "Magenta Rose ",
-            "size": "36.47 KB",
-            "image":"https://i.ibb.co/5x1V7Y3/Magenta-Rose.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Magenta Rose.ttf "
-        },
-        {
-            "name": "Meisha",
-            "size": "60.40 KB",
-            "image":"https://i.ibb.co/NtkVGq3/Meisha.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Meisha.otf"
-        },
-        {
-            "name": "Metal Gear ",
-            "size": "42.94 KB",
-            "image":"https://i.ibb.co/YdBKCCp/Metal-Gear.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Metal Gear.ttf "
-        },
-        {
-            "name": "Michaelmas",
-            "size": "20.04 KB",
-            "image":"https://i.ibb.co/k954y3W/Michaelmas.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Michaelmas.ttf"
-        },
-        {
-            "name": "Mischievous",
-            "size": "53.32 KB",
-            "image":"https://i.ibb.co/8Kp2050/Mischievous.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Mischievous.ttf"
-        },
-        {
-            "name": "Modesfa",
-            "size": "51.41 KB",
-            "image":"https://i.ibb.co/GH9pXrG/Modesfa.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Modesfa.ttf"
-        },
-        {
-            "name": "montez.regular",
-            "size": "77.19 KB",
-            "image":"https://i.ibb.co/km0GPyn/montez-regular.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/montez.regular.ttf"
-        },
-        {
-            "name": "mother-tongue-personal-use.regular",
-            "size": "114.52 KB",
-            "image":"https://i.ibb.co/3zzcJft/mother-tongue-personal-use-regular.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/mother-tongue-personal-use.regular.otf"
-        },
-        {
-            "name": "Moto",
-            "size": "16.92 KB",
-            "image":"https://i.ibb.co/cxzhHtT/Moto.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Moto.ttf"
-        },
-        {
-            "name": "NeoPanSquares",
-            "size": "21.02 KB",
-            "image":"https://i.ibb.co/ngLQRtw/Neo-Pan-Squares.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/NeoPanSquares.ttf"
-        },
-        {
-            "name": "Northwood High ",
-            "size": "97.31 KB",
-            "image":"https://i.ibb.co/L980NS9/Northwood-High.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Northwood High.ttf "
-        },
-        {
-            "name": "Nozomi Regular Demo ",
-            "size": "45.78 KB",
-            "image":"https://i.ibb.co/DKm2jbJ/Nozomi-Regular-Demo.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Nozomi Regular Demo.otf "
-        },
-        {
-            "name": "Pal Mod ",
-            "size": "45.13 KB",
-            "image":"https://i.ibb.co/42cfjVG/Pal-Mod.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Pal Mod.ttf "
-        },
-        {
-            "name": "Paprika Regular ",
-            "size": "43.23 KB",
-            "image":"https://i.ibb.co/hyGY2zx/Paprika-Regular.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Paprika Regular.ttf "
-        },
-        {
-            "name": "Park Lane NF ",
-            "size": "76.89 KB",
-            "image":"https://i.ibb.co/QFFWjDS/Park-Lane-NF.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Park Lane NF.ttf "
-        },
-        {
-            "name": "Pauls Poison Font ",
-            "size": "48.24 KB",
-            "image":"https://i.ibb.co/RCZysH8/Pauls-Poison-Font.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Pauls Poison Font.ttf "
-        },
-        {
-            "name": "pepinot",
-            "size": "16.17 KB",
-            "image":"https://i.ibb.co/Tbny7YZ/pepinot.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/pepinot.otf"
-        },
-        {
-            "name": "Phoresta",
-            "size": "32.21 KB",
-            "image":"https://i.ibb.co/HHvrBCQ/Phoresta.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Phoresta.ttf"
-        },
-        {
-            "name": "Pistoleer Italic ",
-            "size": "37.88 KB",
-            "image":"https://i.ibb.co/47kCGM4/Pistoleer-Italic.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Pistoleer Italic.ttf "
-        },
-        {
-            "name": "Polo Brush MF ",
-            "size": "46.34 KB",
-            "image":"https://i.ibb.co/NN1620S/Polo-Brush-MF.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Polo Brush MF.ttf "
-        },
-        {
-            "name": "Precious",
-            "size": "38.18 KB",
-            "image":"https://i.ibb.co/GdN4Js1/Precious.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Precious.ttf"
-        },
-        {
-            "name": "PRINP___",
-            "size": "148.25 KB",
-            "image":"https://i.ibb.co/9Z9w90z/PRINP.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/PRINP___.ttf"
-        },
-        {
-            "name": "Promethean Bold Italic ",
-            "size": "39.83 KB",
-            "image":"https://i.ibb.co/RzxFjKz/Promethean-Bold-Italic.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Promethean Bold Italic.ttf "
-        },
-        {
-            "name": "Pronave",
-            "size": "60.61 KB",
-            "image":"https://i.ibb.co/JC1kwgD/Pronave.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Pronave.ttf"
-        },
-        {
-            "name": "Queen of Camelot 2.0_D ",
-            "size": "241.60 KB",
-            "image":"https://i.ibb.co/Tw7QD0b/Queen-of-Camelot-2-0-D.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Queen of Camelot 2.0_D.otf "
-        },
-        {
-            "name": "Quick",
-            "size": "16.24 KB",
-            "image":"https://i.ibb.co/6YprNLW/Quick.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Quick.ttf"
-        },
-        {
-            "name": "Ridicule",
-            "size": "49.21 KB",
-            "image":"https://i.ibb.co/Wz62f3D/Ridicule.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Ridicule.ttf"
-        },
-        {
-            "name": "riesling",
-            "size": "45.74 KB",
-            "image":"https://i.ibb.co/D8dcjbB/riesling.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/riesling.ttf"
-        },
-        {
-            "name": "Ropstone (free demo) ",
-            "size": "167.01 KB",
-            "image":"https://i.ibb.co/jDDVYwN/Ropstone-free-demo.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Ropstone (free demo).ttf "
-        },
-        {
-            "name": "SantasSleighFull",
-            "size": "91.26 KB",
-            "image":"https://i.ibb.co/SdbnJ3X/Santas-Sleigh-Full.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/SantasSleighFull.ttf"
-        },
-        {
-            "name": "SEEDS",
-            "size": "47.14 KB",
-            "image":"https://i.ibb.co/sPJ1HQm/SEEDS.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/SEEDS.ttf"
-        },
-        {
-            "name": "Simplisicky Fill ",
-            "size": "197.51 KB",
-            "image":"https://i.ibb.co/dM0BwxS/Simplisicky-Fill.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Simplisicky Fill.ttf "
-        },
-        {
-            "name": "Sloe Gin Rickey ",
-            "size": "30.27 KB",
-            "image":"https://i.ibb.co/7n6BJbp/Sloe-Gin-Rickey.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Sloe Gin Rickey.ttf "
-        },
-        {
-            "name": "Speed Normal ",
-            "size": "24.30 KB",
-            "image":"https://i.ibb.co/rZ5Yx9x/Speed-Normal.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Speed Normal.ttf "
-        },
-        {
-            "name": "Sri Papan ",
-            "size": "137.00 KB",
-            "image":"https://i.ibb.co/0Y9pwCQ/Sri-Papan.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Sri Papan.ttf "
-        },
-        {
-            "name": "Steelworks Vintage Demo ",
-            "size": "232.26 KB",
-            "image":"https://i.ibb.co/VtgSNMp/Steelworks-Vintage-Demo.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Steelworks Vintage Demo.ttf "
-        },
-        {
-            "name": "StingRay",
-            "size": "21.00 KB",
-            "image":"https://i.ibb.co/XkLDf49/StingRay.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/StingRay.ttf"
-        },
-        {
-            "name": "Stockard-PersonalUse",
-            "size": "30.29 KB",
-            "image":"https://i.ibb.co/jbftPDN/Stockard-Personal-Use.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Stockard-PersonalUse.ttf"
-        },
-        {
-            "name": "streetwear.regular",
-            "size": "32.66 KB",
-            "image":"https://i.ibb.co/Xt1pzd4/streetwear-regular.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/streetwear.regular.otf"
-        },
-        {
-            "name": "Sweet Buddy ",
-            "size": "42.81 KB",
-            "image":"https://i.ibb.co/7JCQR9Z/Sweet-Buddy.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Sweet Buddy.ttf "
-        },
-        {
-            "name": "the black Manba ",
-            "size": "27.87 KB",
-            "image":"https://i.ibb.co/6s6SDSt/the-black-Manba.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/the black Manba.ttf "
-        },
-        {
-            "name": "The Devil Net ",
-            "size": "201.36 KB",
-            "image":"https://i.ibb.co/ZBR7nxN/The-Devil-Net.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/The Devil Net.ttf "
-        },
-        {
-            "name": "The FrontMan2 demo ",
-            "size": "1.14 MB",
-            "image":"https://i.ibb.co/V97xm5B/The-Frontman.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/The FrontMan2 demo.ttf "
-        },
-        {
-            "name": "The Frontman ",
-            "size": "189.34 KB",
-            "image":"https://i.ibb.co/vjTkybF/The-Front-Man2-demo.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/The Frontman.ttf "
-        },
-        {
-            "name": "the-heart-maze-demo.regular",
-            "size": "116.30 KB",
-            "image":"https://i.ibb.co/0K5S42g/the-heart-maze-demo-regular.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/the-heart-maze-demo.regular.ttf"
-        },
-        {
-            "name": "Towards  ",
-            "size": "57.82 KB",
-            "image":"https://i.ibb.co/VM7xKyd/Towards.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Towards .ttf "
-        },
-        {
-            "name": "Tribalcase",
-            "size": "14.79 KB",
-            "image":"https://i.ibb.co/rf18dcG/Tribalcase.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Tribalcase.otf"
-        },
-        {
-            "name": "Veshion",
-            "size": "156.26 KB",
-            "image":"https://i.ibb.co/wKxbT3n/Veshion.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Veshion.ttf"
-        },
-        {
-            "name": "Vibes",
-            "size": "140.09 KB",
-            "image":"https://i.ibb.co/58TMstY/Vibes.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Vibes.ttf"
-        },
-        {
-            "name": "wacaban",
-            "size": "82.38 KB",
-            "image":"https://i.ibb.co/MR7Cg3D/wacaban.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/wacaban.ttf"
-        },
-        {
-            "name": "Walt Disney Script v4.1 ",
-            "size": "45.31 KB",
-            "image":"https://i.ibb.co/jh6J0zG/Walt-Disney-Script-v4-1.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Walt Disney Script v4.1.ttf "
-        },
-        {
-            "name": "Waluxe",
-            "size": "59.87 KB",
-            "image":"https://i.ibb.co/vdytRRC/Waluxe.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Waluxe.ttf"
-        },
-        {
-            "name": "Wile Reguler ",
-            "size": "29.92 KB",
-            "image":"https://i.ibb.co/Cv6TG97/Wile-Reguler.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Wile Reguler.ttf "
-        },
-        {
-            "name": "Yolissa Demo ",
-            "size": "35.16 KB",
-            "image":"https://i.ibb.co/p36XyYp/Yolissa-Demo.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Yolissa Demo.ttf "
-        }
-    ]
+  "fonts": [
+    {
+      "name": "Aardvark Cafe ",
+      "size": "29.09 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/GFYk2yP/Aardvark-Cafe.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Aardvark Cafe.ttf "
+    },
+    {
+      "name": "Abiyells",
+      "size": "179.77 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/1KVJbn5/Abiyells.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Abiyells.ttf"
+    },
+    {
+      "name": "Absolute-Demo",
+      "size": "90.47 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/vhr05LG/Absolute-Demo.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Absolute-Demo.ttf"
+    },
+    {
+      "name": "adlery-pro.swash",
+      "size": "255.75 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/rmmrvFC/adlery-pro-swash.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/adlery-pro.swash.ttf"
+    },
+    {
+      "name": "Adventure of the old Giant ",
+      "size": "63.35 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/P1Ymz2y/Adventure-of-the-old-Giant.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Adventure of the old Giant.ttf "
+    },
+    {
+      "name": "Aircruiser Academy Italic ",
+      "size": "94.67 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/JQ1sD3H/Aircruiser-Academy-Italic.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Aircruiser Academy Italic.ttf "
+    },
+    {
+      "name": "Alistair morrison demo ",
+      "size": "26.83 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/TBvpSsL/Alistair-morrison-demo.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Alistair morrison demo.ttf "
+    },
+    {
+      "name": "Anglo Text ",
+      "size": "44.84 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/Hr5nj76/Anglo-Text.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Anglo Text.ttf "
+    },
+    {
+      "name": "Annisa - Slant ",
+      "size": "116.26 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/7pTtKTJ/Annisa-Slant.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Annisa - Slant.otf "
+    },
+    {
+      "name": "Antigna Signature ",
+      "size": "47.13 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/jrQ9x76/Antigna-Signature.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Antigna Signature.ttf "
+    },
+    {
+      "name": "antipasto.extrabold",
+      "size": "301.86 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/NSfdNxL/antipasto-extrabold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/antipasto.extrabold.ttf"
+    },
+    {
+      "name": "Anydore",
+      "size": "239.48 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/BBw4H8t/Anydore.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Anydore.otf"
+    },
+    {
+      "name": "Apalu",
+      "size": "36.25 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/HzRfWgw/Apalu.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Apalu.ttf"
+    },
+    {
+      "name": "AromaticGinger",
+      "size": "29.96 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/kqQ9s0h/Aromatic-Ginger.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/AromaticGinger.ttf"
+    },
+    {
+      "name": "arturo-trial.heavy-outline",
+      "size": "811.72 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/pXsSL5f/arturo-trial-heavy-outline.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/arturo-trial.heavy-outline.ttf"
+    },
+    {
+      "name": "austinsigns",
+      "size": "72.10 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/gg8hvRg/austinsigns.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/austinsigns.ttf"
+    },
+    {
+      "name": "Autography",
+      "size": "52.40 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/qFD4CtM/Autography.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Autography.otf"
+    },
+    {
+      "name": "AVONE",
+      "size": "78.74 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/zHgj2gs/AVONE.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/AVONE.ttf"
+    },
+    {
+      "name": "Baliland",
+      "size": "28.46 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/kDyJJmr/Baliland.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Baliland.ttf"
+    },
+    {
+      "name": "beauty angelique ",
+      "size": "47.47 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/WB1cnb5/beauty-angelique.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/beauty angelique.ttf "
+    },
+    {
+      "name": "BeautyDemo",
+      "size": "38.80 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/DbVS07k/Beauty-Demo.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/BeautyDemo.ttf"
+    },
+    {
+      "name": "Bellerose",
+      "size": "13.96 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/nbjYhgz/Bellerose.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Bellerose.ttf"
+    },
+    {
+      "name": "Bemboza script ",
+      "size": "31.33 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/Y8QKP3q/Bemboza-script.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Bemboza script.ttf "
+    },
+    {
+      "name": "Berkahi Blackletter ",
+      "size": "70.97 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/YbQnBY5/Berkahi-Blackletter.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Berkahi Blackletter.ttf "
+    },
+    {
+      "name": "Black Pepper ",
+      "size": "45.42 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/fqTL2GJ/Black-Pepper.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Black Pepper.ttf "
+    },
+    {
+      "name": "blind-heart-demo.regular",
+      "size": "16.80 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/w0brpDT/blind-heart-demo-regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/blind-heart-demo.regular.ttf"
+    },
+    {
+      "name": "body-grotesque.trial-bold",
+      "size": "177.62 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/2ZWXLXS/body-grotesque-trial-bold.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/body-grotesque.trial-bold.ttf"
+    },
+    {
+      "name": "Brittaney free ",
+      "size": "82.10 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/SxqZjZ1/Brittaney-free.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Brittaney free.ttf "
+    },
+    {
+      "name": "brock-script.regular",
+      "size": "55.61 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/RbNDhRX/brock-script-regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/brock-script.regular.ttf"
+    },
+    {
+      "name": "Broetown Signature ",
+      "size": "34.94 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/2jz7kGN/Broetown-Signature.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Broetown Signature.ttf "
+    },
+    {
+      "name": "BRUTALS Tilted ",
+      "size": "14.87 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/dcVSy0J/BRUTALS-Tilted.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/BRUTALS Tilted.ttf "
+    },
+    {
+      "name": "Bughartta",
+      "size": "43.44 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/wLdCxvw/Bughartta.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Bughartta.ttf"
+    },
+    {
+      "name": "Bvas Estadas Personal Use Only ",
+      "size": "80.41 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/ySD9jHh/Bvas-Estadas-Personal-Use-Only.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Bvas Estadas Personal Use Only.ttf "
+    },
+    {
+      "name": "CocoBiker Regular Trial ",
+      "size": "174.69 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/FbqXQ0m/Coco-Biker-Regular-Trial.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/CocoBiker Regular Trial.ttf "
+    },
+    {
+      "name": "cocogoose.compressed-trial-bold-italic",
+      "size": "713.58 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/Zd7tLmR/cocogoose-compressed-trial-bold-italic.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/cocogoose.compressed-trial-bold-italic.ttf"
+    },
+    {
+      "name": "codec.warm-trial-news-italic",
+      "size": "260.65 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/w6skPg2/codec-warm-trial-news-italic.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/codec.warm-trial-news-italic.ttf"
+    },
+    {
+      "name": "Cronisse",
+      "size": "60.46 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/z6ZkR6s/Cronisse.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Cronisse.ttf"
+    },
+    {
+      "name": "Delamoore",
+      "size": "70.94 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/YbF8jDK/Delamoore.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Delamoore.ttf"
+    },
+    {
+      "name": "dobkin-script.regular",
+      "size": "57.19 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/vBWKy5L/dobkin-script-regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/dobkin-script.regular.ttf"
+    },
+    {
+      "name": "eglantine",
+      "size": "317.87 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/vJvXZwF/eglantine.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/eglantine.ttf"
+    },
+    {
+      "name": "eltirg__",
+      "size": "24.08 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/b703PRh/eltirg.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/eltirg__.ttf"
+    },
+    {
+      "name": "EnoughLight",
+      "size": "400.02 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/BLMJT89/Enough-Light.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/EnoughLight.ttf"
+    },
+    {
+      "name": "Ethnocentric Regular ",
+      "size": "62.94 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/QDcpZRn/Ethnocentric-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Ethnocentric Regular.ttf "
+    },
+    {
+      "name": "Exorcista_-Jed_40",
+      "size": "17.87 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/d6HM8m5/Exorcista-Jed-40.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Exorcista_-Jed_40.ttf"
+    },
+    {
+      "name": "famosa.thin-demo",
+      "size": "23.54 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/ZByvhfK/famosa-thin-demo.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/famosa.thin-demo.otf"
+    },
+    {
+      "name": "Ferro Rosso ",
+      "size": "30.43 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/XWfDRMK/Ferro-Rosso.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Ferro Rosso.ttf "
+    },
+    {
+      "name": "Fino",
+      "size": "63.31 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/Wv2zgQy/Fino.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Fino.ttf"
+    },
+    {
+      "name": "flaemische-kanzleischrift.regular",
+      "size": "62.92 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/HHVNNH3/flaemische-kanzleischrift-regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/flaemische-kanzleischrift.regular.ttf"
+    },
+    {
+      "name": "FLAMINGO",
+      "size": "94.97 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/dcXS3zw/FLAMINGO.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/FLAMINGO.ttf"
+    },
+    {
+      "name": "Flashing",
+      "size": "199.67 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/yVRNVdr/Flashing.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Flashing.ttf"
+    },
+    {
+      "name": "FN-DagonMaya",
+      "size": "139.71 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/mT5MX0N/FN-Dagon-Maya.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/FN-DagonMaya.ttf"
+    },
+    {
+      "name": "fontleroybrown.regular",
+      "size": "39.22 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/LtHfhwk/fontleroybrown-regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/fontleroybrown.regular.ttf"
+    },
+    {
+      "name": "fortoco",
+      "size": "24.99 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/Z8PX9nK/fortoco.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/fortoco.ttf"
+    },
+    {
+      "name": "Geizer",
+      "size": "33.07 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/wgnkHgM/Geizer.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Geizer.otf"
+    },
+    {
+      "name": "Good-night",
+      "size": "44.67 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/MGRkw28/Good-night.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Good-night.ttf"
+    },
+    {
+      "name": "Gothic Gotera ",
+      "size": "181.41 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/dcB88PX/Gothic-Gotera.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Gothic Gotera.otf "
+    },
+    {
+      "name": "HANG BOARD 123 ",
+      "size": "202.31 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/2Pq7sht/HANG-BOARD-123.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/HANG BOARD 123.ttf "
+    },
+    {
+      "name": "Harilly Aleya ",
+      "size": "17.33 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/LvSnxBf/Harilly-Aleya.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Harilly Aleya.ttf "
+    },
+    {
+      "name": "Hawaii Lover ",
+      "size": "615.92 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/GTSwmwj/Hawaii-Lover.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Hawaii Lover.ttf "
+    },
+    {
+      "name": "Hawkmoon Academy Italic ",
+      "size": "110.72 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/zQxkPvV/Hawkmoon-Academy-Italic.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Hawkmoon Academy Italic.ttf "
+    },
+    {
+      "name": "Heathergreen",
+      "size": "198.26 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/0MWCc81/Heathergreen.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Heathergreen.otf"
+    },
+    {
+      "name": "JandaCelebrationScript",
+      "size": "50.36 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/YWtT7Yy/Janda-Celebration-Script.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/JandaCelebrationScript.ttf"
+    },
+    {
+      "name": "Kaibon (DEMO) ",
+      "size": "33.18 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/jhRM7fc/Kaibon-DEMO.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Kaibon (DEMO).otf "
+    },
+    {
+      "name": "Korean Serif ",
+      "size": "26.67 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/5YJSGPY/Korean-Serif.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Korean Serif.ttf "
+    },
+    {
+      "name": "Kubic s Rube ",
+      "size": "36.30 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/86S8Ns3/Kubic-s-Rube.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Kubic s Rube.ttf "
+    },
+    {
+      "name": "LaPointe s Road ",
+      "size": "47.91 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/J39nV9Q/La-Pointe-s-Road.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/LaPointe s Road.ttf "
+    },
+    {
+      "name": "Laurence Script DEMO ",
+      "size": "32.68 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/ds9rNb2/Laurence-Script-DEMO.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Laurence Script DEMO.ttf "
+    },
+    {
+      "name": "Lihataja",
+      "size": "314.87 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/PTZy22p/Lihataja.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Lihataja.ttf"
+    },
+    {
+      "name": "littlelordfontleroy.regular",
+      "size": "43.40 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/jwDNWQP/littlelordfontleroy-regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/littlelordfontleroy.regular.ttf"
+    },
+    {
+      "name": "Lovely Orange Dot ",
+      "size": "201.05 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/TmDLQjs/Lovely-Orange-Dot.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Lovely Orange Dot.ttf "
+    },
+    {
+      "name": "Luxoorea",
+      "size": "64.98 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/ZVFrWGL/Luxoorea.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Luxoorea.ttf"
+    },
+    {
+      "name": "Magenta Rose ",
+      "size": "36.47 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/5x1V7Y3/Magenta-Rose.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Magenta Rose.ttf "
+    },
+    {
+      "name": "Meisha",
+      "size": "60.40 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/NtkVGq3/Meisha.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Meisha.otf"
+    },
+    {
+      "name": "Metal Gear ",
+      "size": "42.94 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/YdBKCCp/Metal-Gear.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Metal Gear.ttf "
+    },
+    {
+      "name": "Michaelmas",
+      "size": "20.04 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/k954y3W/Michaelmas.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Michaelmas.ttf"
+    },
+    {
+      "name": "Mischievous",
+      "size": "53.32 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/8Kp2050/Mischievous.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Mischievous.ttf"
+    },
+    {
+      "name": "Modesfa",
+      "size": "51.41 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/GH9pXrG/Modesfa.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Modesfa.ttf"
+    },
+    {
+      "name": "montez.regular",
+      "size": "77.19 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/km0GPyn/montez-regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/montez.regular.ttf"
+    },
+    {
+      "name": "mother-tongue-personal-use.regular",
+      "size": "114.52 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/3zzcJft/mother-tongue-personal-use-regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/mother-tongue-personal-use.regular.otf"
+    },
+    {
+      "name": "Moto",
+      "size": "16.92 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/cxzhHtT/Moto.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Moto.ttf"
+    },
+    {
+      "name": "NeoPanSquares",
+      "size": "21.02 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/ngLQRtw/Neo-Pan-Squares.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/NeoPanSquares.ttf"
+    },
+    {
+      "name": "Northwood High ",
+      "size": "97.31 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/L980NS9/Northwood-High.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Northwood High.ttf "
+    },
+    {
+      "name": "Nozomi Regular Demo ",
+      "size": "45.78 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/DKm2jbJ/Nozomi-Regular-Demo.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Nozomi Regular Demo.otf "
+    },
+    {
+      "name": "Pal Mod ",
+      "size": "45.13 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/42cfjVG/Pal-Mod.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Pal Mod.ttf "
+    },
+    {
+      "name": "Paprika Regular ",
+      "size": "43.23 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/hyGY2zx/Paprika-Regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Paprika Regular.ttf "
+    },
+    {
+      "name": "Park Lane NF ",
+      "size": "76.89 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/QFFWjDS/Park-Lane-NF.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Park Lane NF.ttf "
+    },
+    {
+      "name": "Pauls Poison Font ",
+      "size": "48.24 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/RCZysH8/Pauls-Poison-Font.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Pauls Poison Font.ttf "
+    },
+    {
+      "name": "pepinot",
+      "size": "16.17 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/Tbny7YZ/pepinot.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/pepinot.otf"
+    },
+    {
+      "name": "Phoresta",
+      "size": "32.21 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/HHvrBCQ/Phoresta.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Phoresta.ttf"
+    },
+    {
+      "name": "Pistoleer Italic ",
+      "size": "37.88 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/47kCGM4/Pistoleer-Italic.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Pistoleer Italic.ttf "
+    },
+    {
+      "name": "Polo Brush MF ",
+      "size": "46.34 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/NN1620S/Polo-Brush-MF.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Polo Brush MF.ttf "
+    },
+    {
+      "name": "Precious",
+      "size": "38.18 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/GdN4Js1/Precious.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Precious.ttf"
+    },
+    {
+      "name": "PRINP___",
+      "size": "148.25 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/9Z9w90z/PRINP.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/PRINP___.ttf"
+    },
+    {
+      "name": "Promethean Bold Italic ",
+      "size": "39.83 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/RzxFjKz/Promethean-Bold-Italic.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Promethean Bold Italic.ttf "
+    },
+    {
+      "name": "Pronave",
+      "size": "60.61 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/JC1kwgD/Pronave.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Pronave.ttf"
+    },
+    {
+      "name": "Queen of Camelot 2.0_D ",
+      "size": "241.60 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/Tw7QD0b/Queen-of-Camelot-2-0-D.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Queen of Camelot 2.0_D.otf "
+    },
+    {
+      "name": "Quick",
+      "size": "16.24 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/6YprNLW/Quick.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Quick.ttf"
+    },
+    {
+      "name": "Ridicule",
+      "size": "49.21 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/Wz62f3D/Ridicule.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Ridicule.ttf"
+    },
+    {
+      "name": "riesling",
+      "size": "45.74 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/D8dcjbB/riesling.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/riesling.ttf"
+    },
+    {
+      "name": "Ropstone (free demo) ",
+      "size": "167.01 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/jDDVYwN/Ropstone-free-demo.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Ropstone (free demo).ttf "
+    },
+    {
+      "name": "SantasSleighFull",
+      "size": "91.26 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/SdbnJ3X/Santas-Sleigh-Full.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/SantasSleighFull.ttf"
+    },
+    {
+      "name": "SEEDS",
+      "size": "47.14 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/sPJ1HQm/SEEDS.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/SEEDS.ttf"
+    },
+    {
+      "name": "Simplisicky Fill ",
+      "size": "197.51 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/dM0BwxS/Simplisicky-Fill.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Simplisicky Fill.ttf "
+    },
+    {
+      "name": "Sloe Gin Rickey ",
+      "size": "30.27 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/7n6BJbp/Sloe-Gin-Rickey.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Sloe Gin Rickey.ttf "
+    },
+    {
+      "name": "Speed Normal ",
+      "size": "24.30 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/rZ5Yx9x/Speed-Normal.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Speed Normal.ttf "
+    },
+    {
+      "name": "Sri Papan ",
+      "size": "137.00 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/0Y9pwCQ/Sri-Papan.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Sri Papan.ttf "
+    },
+    {
+      "name": "Steelworks Vintage Demo ",
+      "size": "232.26 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/VtgSNMp/Steelworks-Vintage-Demo.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Steelworks Vintage Demo.ttf "
+    },
+    {
+      "name": "StingRay",
+      "size": "21.00 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/XkLDf49/StingRay.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/StingRay.ttf"
+    },
+    {
+      "name": "Stockard-PersonalUse",
+      "size": "30.29 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/jbftPDN/Stockard-Personal-Use.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Stockard-PersonalUse.ttf"
+    },
+    {
+      "name": "streetwear.regular",
+      "size": "32.66 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/Xt1pzd4/streetwear-regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/streetwear.regular.otf"
+    },
+    {
+      "name": "Sweet Buddy ",
+      "size": "42.81 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/7JCQR9Z/Sweet-Buddy.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Sweet Buddy.ttf "
+    },
+    {
+      "name": "the black Manba ",
+      "size": "27.87 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/6s6SDSt/the-black-Manba.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/the black Manba.ttf "
+    },
+    {
+      "name": "The Devil Net ",
+      "size": "201.36 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/ZBR7nxN/The-Devil-Net.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/The Devil Net.ttf "
+    },
+    {
+      "name": "The FrontMan2 demo ",
+      "size": "1.14 MB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/V97xm5B/The-Frontman.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/The FrontMan2 demo.ttf "
+    },
+    {
+      "name": "The Frontman ",
+      "size": "189.34 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/vjTkybF/The-Front-Man2-demo.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/The Frontman.ttf "
+    },
+    {
+      "name": "the-heart-maze-demo.regular",
+      "size": "116.30 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/0K5S42g/the-heart-maze-demo-regular.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/the-heart-maze-demo.regular.ttf"
+    },
+    {
+      "name": "Towards  ",
+      "size": "57.82 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/VM7xKyd/Towards.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Towards .ttf "
+    },
+    {
+      "name": "Tribalcase",
+      "size": "14.79 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/rf18dcG/Tribalcase.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Tribalcase.otf"
+    },
+    {
+      "name": "Veshion",
+      "size": "156.26 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/wKxbT3n/Veshion.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Veshion.ttf"
+    },
+    {
+      "name": "Vibes",
+      "size": "140.09 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/58TMstY/Vibes.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Vibes.ttf"
+    },
+    {
+      "name": "wacaban",
+      "size": "82.38 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/MR7Cg3D/wacaban.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/wacaban.ttf"
+    },
+    {
+      "name": "Walt Disney Script v4.1 ",
+      "size": "45.31 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/jh6J0zG/Walt-Disney-Script-v4-1.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Walt Disney Script v4.1.ttf "
+    },
+    {
+      "name": "Waluxe",
+      "size": "59.87 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/vdytRRC/Waluxe.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Waluxe.ttf"
+    },
+    {
+      "name": "Wile Reguler ",
+      "size": "29.92 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/Cv6TG97/Wile-Reguler.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Wile Reguler.ttf "
+    },
+    {
+      "name": "Yolissa Demo ",
+      "size": "35.16 KB",
+      "category": "Stylish",
+      "image": "https://i.ibb.co/p36XyYp/Yolissa-Demo.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Stylish Fonts/Yolissa Demo.ttf "
+    }
+  ]
 }

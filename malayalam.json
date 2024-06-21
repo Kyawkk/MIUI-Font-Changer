@@ -1,52 +1,60 @@
 {
-    "fonts": [
-        {
-            "name": "Anjali_Old_Lipi",
-            "size": "442.11 KB",
-            "image": "https://i.ibb.co/kSG3zWw/Anjali-Old-Lipi.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Anjali_Old_Lipi.ttf"
-        },
-        {
-            "name": "Chilanka",
-            "size": "349.42 KB",
-            "image": "https://i.ibb.co/fQ75SVm/Chilanka.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Chilanka.ttf"
-        },
-        {
-            "name": "Dyuthi",
-            "size": "207.96 KB",
-            "image": "https://i.ibb.co/TkdWcND/Dyuthi.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Dyuthi.ttf"
-        },
-        {
-            "name": "Gayathri",
-            "size": "163.04 KB",
-            "image": "https://i.ibb.co/nwRkKB3/Gayathri.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Gayathri.ttf"
-        },
-        {
-            "name": "Kartika",
-            "size": "121.45 KB",
-            "image": "https://i.ibb.co/s2YFPpZ/Kartika.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Kartika.ttf"
-        },
-        {
-            "name": "Meera",
-            "size": "334.40 KB",
-            "image": "https://i.ibb.co/B4K7Qw5/Meera.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Meera.ttf"
-        },
-        {
-            "name": "Rachana",
-            "size": "383.41 KB",
-            "image": "https://i.ibb.co/QrHVszr/Rachana.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Rachana.ttf"
-        },
-        {
-            "name": "Suruma",
-            "size": "472.02 KB",
-            "image": "https://i.ibb.co/hYpgDhN/Suruma.png",
-            "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Suruma.ttf"
-        }
-    ]
+  "fonts": [
+    {
+      "name": "Anjali_Old_Lipi",
+      "size": "442.11 KB",
+      "category": "Malayalam",
+      "image": "https://i.ibb.co/kSG3zWw/Anjali-Old-Lipi.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Anjali_Old_Lipi.ttf"
+    },
+    {
+      "name": "Chilanka",
+      "size": "349.42 KB",
+      "category": "Malayalam",
+      "image": "https://i.ibb.co/fQ75SVm/Chilanka.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Chilanka.ttf"
+    },
+    {
+      "name": "Dyuthi",
+      "size": "207.96 KB",
+      "category": "Malayalam",
+      "image": "https://i.ibb.co/TkdWcND/Dyuthi.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Dyuthi.ttf"
+    },
+    {
+      "name": "Gayathri",
+      "size": "163.04 KB",
+      "category": "Malayalam",
+      "image": "https://i.ibb.co/nwRkKB3/Gayathri.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Gayathri.ttf"
+    },
+    {
+      "name": "Kartika",
+      "size": "121.45 KB",
+      "category": "Malayalam",
+      "image": "https://i.ibb.co/s2YFPpZ/Kartika.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Kartika.ttf"
+    },
+    {
+      "name": "Meera",
+      "size": "334.40 KB",
+      "category": "Malayalam",
+      "image": "https://i.ibb.co/B4K7Qw5/Meera.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Meera.ttf"
+    },
+    {
+      "name": "Rachana",
+      "size": "383.41 KB",
+      "category": "Malayalam",
+      "image": "https://i.ibb.co/QrHVszr/Rachana.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Rachana.ttf"
+    },
+    {
+      "name": "Suruma",
+      "size": "472.02 KB",
+      "category": "Malayalam",
+      "image": "https://i.ibb.co/hYpgDhN/Suruma.png",
+      "url": "https://github.com/Kyawkk/MIUI-Font-Changer/raw/Version-2/Fonts/Malayalam/Suruma.ttf"
+    }
+  ]
 }
