@@ -1,0 +1,1905 @@
+00:00:00.080 --> 00:00:04.760
+I'd love to start with these. 10 years of work 
+right there. Someone on your team called these
+
+00:00:04.760 --> 00:00:08.440
+the real life Tony Stark glasses. Very hard 
+to make each one of these... That makes me feel
+
+00:00:08.440 --> 00:00:11.800
+incredibly optimistic... In a world where AI 
+gets smarter and smarter... This is probably
+
+00:00:11.800 --> 00:00:16.320
+going to be the next major platform after 
+phones... I miss hugging my mom. Yeah haptics
+
+00:00:16.320 --> 00:00:21.320
+is hard... How does generative AI change 
+how social media feels?... We haven't found
+
+00:00:21.320 --> 00:00:26.040
+the end yet... The average American has fewer 
+friends now than they did 15 years ago. Why
+
+00:00:26.040 --> 00:00:32.751
+do you think that's happening? I mean 
+there's a lot going on to to unpack there...
+
+00:00:33.835 --> 00:00:41.080
+I'm about to interview Meta CEO
+Mark Zuckerberg. There are not
+
+00:00:41.080 --> 00:00:47.320
+that many people with more power over what our 
+future might look like. Nearly half the total human
+
+00:00:47.320 --> 00:00:52.760
+population now uses Meta products and I just 
+tested some of their new tech that feels like
+
+00:00:52.760 --> 00:01:00.160
+science fiction. This is crazy! Mark Zuckerberg and 
+the team at Meta are imagining a future that billions
+
+00:01:00.160 --> 00:01:05.080
+of other people might actually end up living in. So 
+my goal for this conversation is to try to figure
+
+00:01:05.080 --> 00:01:10.680
+out what that future really looks like. To paint a 
+picture of the future Mark Zuckerberg is trying to
+
+00:01:10.680 --> 00:01:15.073
+build so that you can decide for yourself what you 
+think of it. Welcome to the first episode of our
+
+00:01:15.073 --> 00:01:17.749
+new series, Huge Conversations
+
+00:01:23.012 --> 00:01:26.079
+Hey, good to meet you! Thanks
+for doing this. Yeah looking forward
+
+00:01:26.079 --> 00:01:34.320
+to it. Awesome. I'd love to tell you what my goal 
+is of this conversation. Go for it. We have a called
+
+00:01:34.320 --> 00:01:39.760
+huge if true which is this very optimistic about 
+science and technology and the potential futures
+
+00:01:39.760 --> 00:01:45.680
+that we can build and in every episode we're sort 
+of exploring what does it look like if you play a
+
+00:01:45.680 --> 00:01:52.840
+certain technological future out and so my goal 
+in this conversation is to try to help people
+
+00:01:52.840 --> 00:01:57.240
+see the future that you're imagining when you're 
+building the products that you and the Meta team
+
+00:01:57.240 --> 00:02:01.440
+are building. What are you imagining this looks 
+like in future? How are you imagining people use
+
+00:02:01.440 --> 00:02:09.240
+this? All of that. Cool. All right awesome. So 
+I'd love to start with these. Let's do it. 10 years
+
+00:02:09.240 --> 00:02:15.880
+of work right there! I got to demo them a little 
+bit earlier today. I heard someone on your team
+
+00:02:15.880 --> 00:02:20.680
+call these the real life Tony Stark glasses? We're 
+getting there. But I'd love to just hear in your
+
+00:02:20.680 --> 00:02:29.320
+voice what are these? Well these are the first full 
+holographic augmented reality glasses I think that
+
+00:02:29.320 --> 00:02:37.400
+exist in the world. We've made I think it's a 
+a few thousand or something right. Very hard to
+
+00:02:37.400 --> 00:02:43.600
+make each one of these but this is the culmination 
+of 10 years of research and and development that
+
+00:02:43.600 --> 00:02:53.440
+we've done to basically miniaturize all the 
+computing that you need to have glasses not a
+
+00:02:53.440 --> 00:03:00.960
+headset but glasses that can put full holograms 
+into the world with a wide field of view. So you
+
+00:03:00.960 --> 00:03:06.200
+can imagine sort of in the future we'd be having a 
+version of this conversation where you know maybe
+
+00:03:06.200 --> 00:03:10.680
+I or you are not even here it's like one of us is 
+physically here and the other one is here as a as
+
+00:03:10.680 --> 00:03:14.920
+kind of a full body hologram and it's not just 
+a video call you can actually interact you can
+
+00:03:14.920 --> 00:03:20.000
+do things I mean in the the demo we had the you 
+know ping pong and games and things like that but
+
+00:03:20.000 --> 00:03:24.240
+I mean you could you can interact you can work 
+together you can you know play poker play chests
+
+00:03:24.240 --> 00:03:29.400
+whatever like the holographic cards holographic 
+board game. I just think it's going to be wild.
+
+00:03:29.400 --> 00:03:36.760
+it's going to remake I think so many different 
+fields that we think about today from how we work
+
+00:03:36.760 --> 00:03:43.160
+and productivity to a lot of things around science 
+a lot of things around education entertainment fun
+
+00:03:43.160 --> 00:03:48.280
+gaming. But this is just the beginning you 
+know this is the first version, it's a
+
+00:03:48.280 --> 00:03:54.880
+prototype version that we've made in order 
+to develop the next version which is hopefully
+
+00:03:54.880 --> 00:03:59.840
+going to be the consumer one that we sell to 
+a lot of people. Why build these? Well I think
+
+00:03:59.840 --> 00:04:04.760
+it's going to be the next major computing platform. 
+So if you look at like the grand arc of computing
+
+00:04:04.760 --> 00:04:11.000
+over time you've you've gone from like main 
+frames to computers that basically like live
+
+00:04:11.000 --> 00:04:17.400
+on you know your desk or on a tower to phones 
+that you have in your hand that you basically
+
+00:04:17.400 --> 00:04:21.880
+like you know can take with you everywhere that 
+you want but it's it's pretty unnatural right it
+
+00:04:21.880 --> 00:04:28.920
+takes you away from the world around you and. I 
+think that the trend in computing is it gets more
+
+00:04:28.920 --> 00:04:34.760
+ubiquitous it gets more natural and it just 
+gets more social right so you want to be able
+
+00:04:34.760 --> 00:04:38.720
+to interact with people in the world around you 
+and I think that this is probably going to be
+
+00:04:38.720 --> 00:04:44.080
+the next major platform after phones. I'll give 
+these to you. These are the clear ones that show
+
+00:04:44.080 --> 00:04:48.160
+all the... The whole thing is a special edition and 
+this is like a really special edition. There's
+
+00:04:48.160 --> 00:04:60.000
+not a single millimeter of of space. You know 
+everything in here from the micro projectors that
+
+00:05:00.000 --> 00:05:06.120
+um basically shoot light into the wave guides 
+right it's a special type of display system. I
+
+00:05:06.120 --> 00:05:11.360
+mean these aren't normal displays like you have 
+in a phone or a TV or computer like the type of
+
+00:05:11.360 --> 00:05:15.960
+displays that people have been building for 
+decades. It's a waveguide system. The projector
+
+00:05:15.960 --> 00:05:23.240
+that's shooting light basically goes into these 
+nano etchings across the wave guide that are what
+
+00:05:23.240 --> 00:05:30.120
+catches and creates the holograms. In order to 
+synchronize that with your where you're looking
+
+00:05:30.120 --> 00:05:35.520
+there's eye tracking and little cameras, 
+they illuminate your eyes and then of course
+
+00:05:35.520 --> 00:05:41.840
+there's all the basic stuff that you need all the 
+computing, the batteries to power the whole thing,
+
+00:05:41.840 --> 00:05:48.320
+microphones, the speakers because it needs to be 
+able to play audio and speak with you and the
+
+00:05:48.320 --> 00:05:53.240
+cameras and sensors to see things around you in 
+the world so that way when it's placing holograms
+
+00:05:53.240 --> 00:05:58.040
+in the world it can do that in the right place 
+and understand where you are so that probably
+
+00:05:58.040 --> 00:06:03.200
+is still not covering everything because there's 
+a lot of things that need to go into syncing up
+
+00:06:03.200 --> 00:06:08.760
+the holographic images between the two displays 
+because you don't just have a single display
+
+00:06:08.760 --> 00:06:15.200
+like you have in a phone or TV you have two and 
+it moves around and you know physical things
+
+00:06:15.200 --> 00:06:19.480
+are hard and need to be synced up. There's also 
+the radio that has to communicate with your other
+
+00:06:19.480 --> 00:06:25.680
+computing devices to do heavier computing um and 
+the wrist based neural interface that you probably
+
+00:06:25.680 --> 00:06:31.200
+got to try out. We kind of miniaturized all of this 
+and fit it into uh you know normal looking pair of
+
+00:06:31.200 --> 00:06:38.360
+glasses which is... you know when I told the team 
+that we were going to do this 10 years ago you
+
+00:06:38.360 --> 00:06:42.280
+know people weren't sure if we were going to be 
+able to but I think you not only we're going
+
+00:06:42.280 --> 00:06:46.120
+to be able to do this but I think we're going to 
+be able to get it cheaper and higher quality and
+
+00:06:46.120 --> 00:06:51.000
+even even smaller and more stylish over time. So 
+I think this is going to be a pretty wild future.
+
+00:06:51.000 --> 00:06:57.240
+There are so many versions of trying to get 
+a similar idea of digital objects in physical
+
+00:06:57.240 --> 00:07:05.800
+space. I'm thinking of for example of glasses that 
+have heads up displays where it's headlocked and
+
+00:07:05.800 --> 00:07:10.720
+it's moving with my eyes, glasses that are really 
+creating digital objects in physical space that
+
+00:07:10.720 --> 00:07:16.920
+don't move as I move, I'm thinking of these, I'm 
+also thinking of the Snapchat Spectacles that they
+
+00:07:16.920 --> 00:07:22.080
+just announced, then on the other hand there are 
+headsets like the Quest and also like the Apple
+
+00:07:22.080 --> 00:07:26.760
+Vision Pro that seem to fall into a different 
+category. I'm curious how you would organize this
+
+00:07:26.760 --> 00:07:31.120
+landscape for people and how you think about 
+people using these tools in their real lives
+
+00:07:31.120 --> 00:07:36.240
+in the near future? Yeah so when we were getting 
+started on this about 10 years ago I thought that
+
+00:07:36.240 --> 00:07:41.360
+something like this was going to be the ultimate 
+product for everyone. Right you get to you know
+
+00:07:41.360 --> 00:07:46.040
+normal looking pair of glasses and we'll continue 
+improving that that can have full holographic
+
+00:07:46.040 --> 00:07:51.680
+images. I think it's super powerful 
+and it is sort of the science fiction future that
+
+00:07:51.680 --> 00:07:59.560
+I think we all hope to get to. On the journey we 
+took a few other approaches as well um to help us
+
+00:07:59.560 --> 00:08:06.240
+develop towards that including building glasses 
+that don't have displays to try to learn. Just
+
+00:08:06.240 --> 00:08:11.120
+take a stylish pair of glasses today and put as 
+much technology into it as you can but really
+
+00:08:11.120 --> 00:08:16.880
+focus on the form factor and that's the Ray Ban 
+Meta glasses and it's doing really well and
+
+00:08:16.880 --> 00:08:23.120
+initially we thought that that was sort of intro 
+product for us to learn how to build this but one
+
+00:08:23.120 --> 00:08:29.920
+of the things that's clear now is you're going to 
+be able to make that product a lot more affordable
+
+00:08:29.920 --> 00:08:35.800
+than this probably permanently. So I actually think 
+that there are going to be a bunch of different of
+
+00:08:35.800 --> 00:08:40.440
+these paths that we've taken are going to be 
+kind of permanent product lines that people
+
+00:08:40.440 --> 00:08:45.840
+will choose. I think you'll see display-less glasses 
+like the Ray Ban Metas continue to get better and
+
+00:08:45.840 --> 00:08:51.240
+better, great for AI, no display but you can talk 
+to it, it can talk back. I think there's going to
+
+00:08:51.240 --> 00:08:57.240
+be something in between these that's basically a 
+heads up display, so it's not a 70° field of view,
+
+00:08:57.240 --> 00:09:03.600
+maybe it's a 20° or 30 degree field of view, 
+so that's not going to be what you want for
+
+00:09:03.600 --> 00:09:08.360
+putting kind of a full hologram of a person or 
+interacting with the world around you but it's
+
+00:09:08.360 --> 00:09:12.880
+going to be great for you know when you're talking 
+to AI, not just having voice but also being able
+
+00:09:12.880 --> 00:09:18.760
+to see what it's saying or being able to text 
+someone with your wrist-based neural interface and
+
+00:09:18.760 --> 00:09:22.920
+then have their text show up rather than having it 
+read to you, which is, we read faster than we
+
+00:09:22.920 --> 00:09:28.120
+can listen or getting directions right or just 
+being able to search for information get all that.
+
+00:09:28.120 --> 00:09:32.120
+So there's a lot of value for heads up display 
+that will be somewhat more expensive than the
+
+00:09:32.120 --> 00:09:38.560
+display-less but somewhat cheaper than this. 
+Then I think you're going to get this. It's going
+
+00:09:38.560 --> 00:09:46.000
+to be probably the most premium and and expensive 
+of glasses products but hopefully still something
+
+00:09:46.000 --> 00:09:51.200
+that you know like a computer is generally 
+accessible to most people in the world but I think
+
+00:09:51.200 --> 00:09:55.600
+that there are going to be all of those and I 
+I think people will like them. I also think that
+
+00:09:55.600 --> 00:10:01.000
+the headsets that people are using around mixed 
+reality will continue to be a thing too because
+
+00:10:01.000 --> 00:10:04.600
+no matter how good we get at miniaturizing 
+the tech for this you're just going to be
+
+00:10:04.600 --> 00:10:11.360
+able to fit more compute into a full headset. 
+Fundamentally our mission is not you know build
+
+00:10:11.360 --> 00:10:17.200
+something that is advanced and only a few people 
+can use, we want to take it you the last mile and
+
+00:10:17.200 --> 00:10:22.760
+do all the innovation to get it to everyone. We 
+you know just shipped or announced Quest 3S,
+
+00:10:22.760 --> 00:10:29.320
+the new mixed reality headset where we basically are 
+delivering high quality mixed reality for $299.
+
+00:10:30.320 --> 00:10:36.000
+I was really proud last year when we delivered 
+Quest 3, the first kind of really high quality
+
+00:10:36.000 --> 00:10:42.920
+high resolution color mixed reality device for 
+$500, right it was like, it's like a fraction of
+
+00:10:42.920 --> 00:10:46.880
+the cost of of what the competitors are doing 
+and I think it's actually higher quality in a
+
+00:10:46.880 --> 00:10:52.680
+lot of ways, and now we've just doubled down on 
+that. So I think that they're all actually going
+
+00:10:52.680 --> 00:10:59.640
+to end up being important long-term product lines: 
+display-less, heads up display, full holographic
+
+00:10:59.640 --> 00:11:06.560
+AR, full headsets. I think that they're all going 
+to be important. Yeah. If you play out the future
+
+00:11:06.560 --> 00:11:16.280
+of not just the hardware that we've been talking 
+about so Meta Ray Bans, Quest, Orion, but also
+
+00:11:16.280 --> 00:11:23.160
+the Llama models, if everything goes according to 
+you and the teams wildest dreams, I'd love for
+
+00:11:23.160 --> 00:11:28.280
+you to just begin to describe what that feels like. 
+I mean I think that there are two primary values
+
+00:11:28.280 --> 00:11:34.560
+that we're trying to bring. On the AR and kind of 
+mixed reality side, the main value we're trying to
+
+00:11:34.560 --> 00:11:39.800
+bring is this feeling of presence .Right so there's 
+something that I think is just really deep about
+
+00:11:39.800 --> 00:11:45.960
+being physically present with another person that 
+you don't get from any other technology today and
+
+00:11:45.960 --> 00:11:51.040
+I think that's the thing when people have a very 
+visceral reaction to experiencing virtual or mixed
+
+00:11:51.040 --> 00:11:56.800
+reality what they're really reacting to is that 
+they actually for the first time with technology
+
+00:11:56.800 --> 00:12:02.200
+feel a sense of presence like they're in a place 
+with the person and that's super powerful. I
+
+00:12:02.200 --> 00:12:08.520
+focused on designing social apps and experiences 
+for 20 years that's sort of like the Holy Grail
+
+00:12:08.520 --> 00:12:13.680
+of that is being able to build a technology 
+platform that delivers this like deep sense of
+
+00:12:13.680 --> 00:12:20.480
+of social presence. The other big track is around 
+personalized AI and for that and that's sort of
+
+00:12:20.480 --> 00:12:25.200
+where Llama and Meta AI and all those things are 
+going. There's all this development that's going
+
+00:12:25.200 --> 00:12:31.680
+into making the models smarter and smarter over 
+time but I think where this is going to get
+
+00:12:31.680 --> 00:12:38.040
+really compelling is when it's personalized for 
+you and in order for it to be personalized for you
+
+00:12:38.040 --> 00:12:44.520
+it has to have context and understand what's going 
+on in your life both kind of at a global level and
+
+00:12:44.520 --> 00:12:49.560
+like what's physically happening around you right 
+now and in order to do that I think that glasses
+
+00:12:49.560 --> 00:12:53.960
+are going to be the ideal form factor because 
+they're positioned on your face in a way where
+
+00:12:53.960 --> 00:12:58.840
+they can let them see what you see and hear what 
+you hear which are the two most important senses
+
+00:12:58.840 --> 00:13:03.800
+that we use for for kind of taking information 
+and context about the world. I think that this is
+
+00:13:03.800 --> 00:13:07.480
+all going to be kind of really deep and profound 
+stuff but it's basically those two things: It's
+
+00:13:07.480 --> 00:13:12.520
+this feeling of presence and this capability 
+of really personalized intelligence that can
+
+00:13:12.520 --> 00:13:20.040
+help you. I'd love to talk about each of those 
+two things. The first on presence, I owe a lot
+
+00:13:20.040 --> 00:13:25.880
+to being able to connect with people online. Right 
+this job that I have is by definition that, also with
+
+00:13:25.880 --> 00:13:31.760
+my family. My parents don't live anywhere close 
+to me. I video call them a lot and when I think
+
+00:13:31.760 --> 00:13:39.680
+about the progress of technology like this in a 
+timeline from the telegram to the telephone
+
+00:13:39.680 --> 00:13:45.160
+to video call to some feeling of presence with 
+another person who's feels like they're right
+
+00:13:45.160 --> 00:13:51.200
+there in front of me, that makes me feel incredibly 
+optimistic. I would love a future where like I can
+
+00:13:51.200 --> 00:13:57.200
+lose in Scrabble to my mom and feel like she's 
+really there in front of me. Yeah and it feels like
+
+00:13:57.200 --> 00:14:01.640
+we're not that far away from something - I agree! - that
+persuades my brain that that's happening. Yeah
+
+00:14:01.640 --> 00:14:12.320
+totally. And also I miss hugging my mom right like 
+that never goes away. Yeah haptics is hard. Yeah and
+
+00:14:12.320 --> 00:14:16.080
+so my question is about that 
+it's about this this feeling of like it's hard
+
+00:14:16.080 --> 00:14:25.520
+for me to imagine um a future where real physical 
+presence is not different and special in some way
+
+00:14:25.520 --> 00:14:33.760
+where I don't miss literally hugging my 
+mom and I'm curious how you think about the
+
+00:14:33.760 --> 00:14:41.360
+parts of human connection that are eye contact and 
+physical touch and things that our ape brains
+
+00:14:41.360 --> 00:14:47.520
+value for connection with other people. Yeah well eye
+contact I think we're going to get to a lot before
+
+00:14:47.520 --> 00:14:53.920
+the the touch part. For haptics I do think we'll 
+make progress on that but it's it's obviously
+
+00:14:53.920 --> 00:15:01.120
+there's a spectrum there too from kind of hands 
+which is where if you you draw out the kind
+
+00:15:01.120 --> 00:15:05.920
+of like homunculus version of a person in terms 
+of like what are what are our kind of sensory you
+
+00:15:05.920 --> 00:15:10.760
+know what what's like the majority of what we're 
+sensing it's like yeah yeah so I think being
+
+00:15:10.760 --> 00:15:16.520
+able to do that for your hands is probably the 
+most important place to start and you have a rough
+
+00:15:16.520 --> 00:15:21.160
+version of that with controllers today. I think 
+that that'll get even more over time. We have this
+
+00:15:21.160 --> 00:15:27.040
+demo playing pingpong where you have a controller 
+where as the digital ball hits the ping pong
+
+00:15:27.040 --> 00:15:31.600
+paddle you feel it hit the as if it's hitting the 
+ping pong paddle wherever it is so you actually
+
+00:15:31.600 --> 00:15:36.640
+have a sense of like where it's it's hitting 
+the the the paddle so I think that was that
+
+00:15:36.640 --> 00:15:41.920
+was just a wild demo so I think we'll get some of 
+that the most extreme version of this is wanting
+
+00:15:41.920 --> 00:15:47.600
+force feedback right so I mean like for doing a lot 
+of sports right it's it's like okay we can kind of
+
+00:15:47.600 --> 00:15:54.120
+do a good approximation of like boxing today or 
+you get like good feedback on your hands but it
+
+00:15:54.120 --> 00:15:59.600
+would be hard to do a virtual reality version of 
+Jiu-Jitsu where you're like grappling with someone and
+
+00:15:59.600 --> 00:16:04.040
+you need like real kind of force feedback on 
+that so that's probably like the hardest thing
+
+00:16:04.040 --> 00:16:11.040
+right to go do but I think we'll get there. 
+You know I think like most science fiction it's
+
+00:16:11.040 --> 00:16:14.960
+not this binary thing that you just like wake up 
+one day and we're like oh we've realized all the
+
+00:16:14.960 --> 00:16:20.920
+dreams but but I I do think that these platforms 
+are going to be the first time that I think that
+
+00:16:20.920 --> 00:16:29.080
+there's a realistic sense of presence in all 
+the ways that that's special to people for
+
+00:16:29.080 --> 00:16:33.640
+most things that people want to do which are not 
+the most physical ones and even some of the basic
+
+00:16:33.640 --> 00:16:38.000
+physical ones I think we'll get. But then there's 
+a long tale of other stuff I mean smell is also
+
+00:16:38.000 --> 00:16:42.520
+really important for people yeah right it's 
+I think it's disproportionately important for
+
+00:16:42.520 --> 00:16:49.240
+memories and that's not really a thing that 
+I think in the next few years we're going to
+
+00:16:49.240 --> 00:16:55.160
+have in any of these devices I mean that's a very 
+difficult and challenging thing on its own. What is
+
+00:16:55.160 --> 00:17:01.720
+the piece of that that you feel most interested in, 
+that you keep coming back to in your mind? This has
+
+00:17:01.720 --> 00:17:07.320
+the frustrating property to develop that the 
+sense of presence is almost like when you're
+
+00:17:07.320 --> 00:17:12.280
+designing something that that's sort of trying 
+to artificially deliver it you're delivering
+
+00:17:12.280 --> 00:17:20.280
+an illusion to a person and more than any one 
+thing that provides a sense of presence it's
+
+00:17:20.280 --> 00:17:24.720
+actually more the case that any one thing done 
+wrong breaks the sense of presence. You kind
+
+00:17:24.720 --> 00:17:33.080
+of know that you're interacting with technology 
+but it's so convincing that um that you just kind
+
+00:17:33.080 --> 00:17:37.680
+of go along with it. You're like okay yeah no this 
+person feels like it feel like they're there right.
+
+00:17:37.680 --> 00:17:44.520
+When I did that pingpong demo I like at the end 
+of it I dropped the pingpong paddle on the virtual
+
+00:17:44.520 --> 00:17:50.920
+table and it shattered so that was not the best 
+for for our internal development but
+
+00:17:50.920 --> 00:17:55.040
+like that's winning in our in our development 
+right it's like when when you feel like something
+
+00:17:55.040 --> 00:18:01.880
+is is kind of so realistic that you you're just 
+convinced that um that it's there now and there
+
+00:18:01.880 --> 00:18:06.800
+are a lot of things that can break that right so 
+I think a a field of view that's too low right so
+
+00:18:06.800 --> 00:18:12.600
+something feels real but then you turn your head 
+and it's not there um latency read physics that
+
+00:18:12.600 --> 00:18:19.760
+don't behave like realistic physics. It also is 
+interesting in some ways what people can accept
+
+00:18:19.760 --> 00:18:25.560
+as physically real even though it's not right 
+so like we've done a ton of work on avatars we
+
+00:18:25.560 --> 00:18:30.560
+we have this whole work stream on Kodak avatars 
+to do these photo avatars and it's I think it's
+
+00:18:30.560 --> 00:18:36.040
+going to be incredbly compelling and people are 
+going to love it but one of the things I found
+
+00:18:36.040 --> 00:18:42.640
+interesting is the ability to mix photorealistic 
+and expressive kind of the cartoony avatars with
+
+00:18:42.640 --> 00:18:49.520
+photorealistic worlds and kind of more cartoony 
+computer game type worlds so you can have the
+
+00:18:49.520 --> 00:18:54.760
+a Kodak kind of photorealistic avatar of a 
+person in what is clearly like a video game
+
+00:18:54.760 --> 00:18:58.920
+or cartoon world and people are generally 
+pretty fine with that it's like okay that
+
+00:18:58.920 --> 00:19:06.480
+that feels pretty good and similarly having 
+a photorealistic world but good increasingly
+
+00:19:06.480 --> 00:19:13.160
+good kind of cartoon avatars as long as the 
+avatars move in a way that feels authentic to
+
+00:19:13.160 --> 00:19:17.040
+the person you're interacting with it actually 
+feels pretty good you know it's when you look at
+
+00:19:17.040 --> 00:19:22.640
+a 2d still frame of it some of the stuff can 
+look a little bit silly and and we've certainly
+
+00:19:22.640 --> 00:19:27.840
+you know had had a our share of memes around 
+that but um but when you're in there you know and
+
+00:19:27.840 --> 00:19:32.480
+you you've played around with lot of the stuff it 
+feels realistic because it's basically mimicking
+
+00:19:32.480 --> 00:19:37.640
+the kind of authentic mannerisms of of a person 
+that you're interacting with and even if it's not
+
+00:19:37.640 --> 00:19:42.400
+a Kodak photo realistic avatar if it's kind of 
+a more cartoony expressive one so I I think that
+
+00:19:42.400 --> 00:19:48.120
+that's it's very interesting to see kind of 
+which pieces you need to unlock and what where you
+
+00:19:48.120 --> 00:19:52.840
+just need to be like very technically excellent 
+and consistent but it's um this isn't a space
+
+00:19:52.840 --> 00:19:58.800
+where it's like you deliver one thing and it's 
+good this is like there's a wide breth of things
+
+00:19:58.800 --> 00:20:03.480
+that you need to nail and then have it all come 
+together and that's why these are you know 10 year
+
+00:20:03.480 --> 00:20:11.840
+projects. It seems like an interesting way to learn 
+about the human brain and what we actually care
+
+00:20:11.840 --> 00:20:17.320
+about with respect to what feels real. I was 
+wondering about, there was this moment in an
+
+00:20:17.320 --> 00:20:25.040
+interview that you did with Lex Friedman, you quoted 
+research that says that the average American has
+
+00:20:25.040 --> 00:20:30.400
+fewer friends now than they did 15 years ago  and I was so interested in that because
+
+00:20:30.400 --> 00:20:36.440
+it seems like if we want to get to a world where 
+there's more human connection this is the trend
+
+00:20:36.440 --> 00:20:43.760
+that we're going to have to grapple with and just 
+to give some data on this in the American Time Use
+
+00:20:43.760 --> 00:20:49.120
+Survey over the last 20 years the amount of time 
+American adults spend socializing in person has
+
+00:20:49.120 --> 00:20:58.840
+dropped by nearly 30%. For ages 15 to 24 according 
+to the Surgeon General it's nearly 70%. and I
+
+00:20:58.840 --> 00:21:03.480
+look at that data and I think to myself well maybe 
+if we're all socializing digitally that doesn't
+
+00:21:03.480 --> 00:21:08.640
+matter so much maybe there's a future where that's 
+actually fine but there's also data that suggest
+
+00:21:08.640 --> 00:21:15.240
+that we're struggling somewhat. The number of 
+Americans who say that they don't have a single
+
+00:21:15.240 --> 00:21:24.280
+close friend - yeah it's really sad - that share has
+jumped from 3% to 12% in the last 30 years. It feels to
+
+00:21:24.280 --> 00:21:33.440
+me like with all the tools that we've built for human
+connection, we're struggling to connect and I'm curious
+
+00:21:33.440 --> 00:21:43.400
+why do you think that's happening? I mean there's a lot 
+going on to to unpack there. A lot has changed
+
+00:21:43.400 --> 00:21:49.120
+sort of economically and socially during that 
+period and a lot of those trends go back before
+
+00:21:49.120 --> 00:21:54.520
+a lot of the modern technology. So I mean this 
+is something that a lot of academics and folks
+
+00:21:54.520 --> 00:22:01.520
+have have studied but it is an interesting lens 
+to look at this though because I think whenever
+
+00:22:01.520 --> 00:22:07.200
+you're talking about building digital types 
+of connection one of the first questions that
+
+00:22:07.200 --> 00:22:16.280
+you get is is that going to replace the physical 
+connection and my answer to that especially in the
+
+00:22:16.280 --> 00:22:25.200
+case of something like this is that no because 
+people already don't have as much connection
+
+00:22:25.200 --> 00:22:30.480
+as they would like to have. It's not like this is 
+replacing some sort of better physical connection
+
+00:22:30.480 --> 00:22:37.240
+that they would have otherwise had. It's that the 
+average person would like to have 10 friends and
+
+00:22:37.240 --> 00:22:45.880
+they have two right or three and there's just 
+more demand to socialize than what people are
+
+00:22:45.880 --> 00:22:52.200
+able to do given the current construct and giving 
+people the ability to be present with people who
+
+00:22:52.200 --> 00:22:56.440
+are in other places physically just seems like 
+it will unlock more. It's not going to make it
+
+00:22:56.440 --> 00:23:00.560
+so, if I have glasses, it's not going to make 
+it that I spend less time with my wife, it's going
+
+00:23:00.560 --> 00:23:06.360
+to make it so that I spend more time with you 
+know my sister who lives across the country. And
+
+00:23:06.360 --> 00:23:12.960
+that's, I think that's good. I 
+think people need that. As for the rest, I
+
+00:23:12.960 --> 00:23:19.080
+I think we could probably spend a multi-hour 
+podcast just going into all of the different
+
+00:23:19.080 --> 00:23:28.520
+kind of socioeconomic political dynamics that are 
+going on but none of the trends that I've seen
+
+00:23:28.520 --> 00:23:33.520
+does it seem like the primary thing that's going 
+on is that because people are interacting online
+
+00:23:33.520 --> 00:23:42.920
+they're now not interacting with their with people
+physically. Now certainly I think you
+
+00:23:42.920 --> 00:23:48.480
+you I do interact with people online who I also 
+like to interact with physically but and I think
+
+00:23:48.480 --> 00:23:54.160
+that that's kind of like a combination um like 
+more combined richer relationship that you have
+
+00:23:54.160 --> 00:24:01.080
+overall but I think that there's a lot going 
+on with the loss of of kind of social capital and
+
+00:24:01.080 --> 00:24:08.520
+connections that really predates a lot of the 
+modern technology. The goal of what, I'm what I'm
+
+00:24:08.520 --> 00:24:15.920
+trying most to learn about is how we can structure 
+the technologies that we use in the future to get
+
+00:24:15.920 --> 00:24:22.000
+toward this future I think you're imagining of 
+more human connection in more ways. I'm curious, you
+
+00:24:22.000 --> 00:24:29.240
+brought up the other big pillar of AI and in some 
+of your conversations, I'm thinking of a conversation
+
+00:24:29.240 --> 00:24:35.480
+with Tim Ferris in particular, you talked about 
+a lot of different use cases of AI and they seem
+
+00:24:35.480 --> 00:24:42.760
+to me to fall on somewhat of a spectrum. Like 
+for example you mentioned automatic real-time
+
+00:24:42.760 --> 00:24:47.520
+translation, like basically the Star Trek 
+Universal translator. We're pretty
+
+00:24:47.520 --> 00:24:54.560
+much there! Yeah and that's one example on one 
+end of the spectrum where some people might argue
+
+00:24:54.560 --> 00:24:59.360
+that there is a chance that someone is less likely 
+for example to learn a language because we can all
+
+00:24:59.360 --> 00:25:04.040
+speak to each other in real time in different 
+languages. I think nobody would really argue
+
+00:25:04.040 --> 00:25:08.560
+that therefore we shouldn't have that kind of 
+universal translator. People still learn Latin and
+
+00:25:08.560 --> 00:25:16.640
+Greek. Right exactly and so I think that end 
+of the spectrum is something like um technologies
+
+00:25:16.640 --> 00:25:23.840
+that really measurably unlock our humanity because 
+they remove a struggle between people and then on
+
+00:25:23.840 --> 00:25:27.640
+the other end of the spectrum there are a lot of 
+educational things for example where the struggle
+
+00:25:27.640 --> 00:25:32.760
+is kind of the point right? Like it's like building 
+a muscle. I can think of so many times
+
+00:25:32.760 --> 00:25:36.960
+in my life where like the reason why I was doing 
+something was not the output it was the fact that
+
+00:25:36.960 --> 00:25:41.880
+I was trying so hard to do it. There's one example 
+in the Tim Ferris interview where you talked
+
+00:25:41.880 --> 00:25:48.040
+about your kids struggling to articulate 
+themselves emotionally and adults very much had
+
+00:25:48.040 --> 00:25:54.480
+the same problem and you talked about AI as a way 
+to help them articulate those emotions. Yeah and
+
+00:25:54.480 --> 00:26:00.080
+I thought about all of the many times in my life 
+where I have struggled to articulate my emotions
+
+00:26:00.080 --> 00:26:04.240
+and how I really could have used some help in 
+those moments and I also found myself thinking
+
+00:26:04.240 --> 00:26:09.320
+about the times when that was really building 
+a muscle where like the act of struggling to
+
+00:26:09.320 --> 00:26:14.080
+communicate with someone and understand what they 
+wanted from me was was important to my development.
+
+00:26:14.080 --> 00:26:19.560
+And so my question is if you think about that 
+as a spectrum between things that are really
+
+00:26:19.560 --> 00:26:25.440
+important to our humanity where and the struggle 
+being removed is helpful versus things where the
+
+00:26:25.440 --> 00:26:31.440
+struggle is the point and it unlocks 
+something about our humanity and is important
+
+00:26:31.440 --> 00:26:37.480
+to preserve like building a muscle, how do you 
+draw the line between those things and how do
+
+00:26:37.480 --> 00:26:42.600
+we ensure that the muscles that we're building for 
+this future are stronger and not weaker? Yeah it's
+
+00:26:42.600 --> 00:26:47.480
+interesting I mean I think we're always going to 
+find new things to struggle with and I mean it's
+
+00:26:47.480 --> 00:26:52.040
+you can always get better at communicating with 
+other people and kind of expressing yourself and
+
+00:26:52.040 --> 00:26:56.960
+understanding other people so having a tool that 
+can help you do that better isn't going to mean
+
+00:26:56.960 --> 00:27:05.600
+that like oh now we perfectly understand every you 
+know it's I mean I think the maybe one
+
+00:27:05.600 --> 00:27:09.040
+of the most functional aspects of this you're 
+already seeing a lot of these AI models really
+
+00:27:09.040 --> 00:27:14.920
+help people with coding right like a generation 
+ago um before I was getting started a lot of
+
+00:27:14.920 --> 00:27:20.760
+coding was like really low-level system software 
+and you know then by the time that I got into
+
+00:27:20.760 --> 00:27:26.840
+it there was a little bit of that but um you you 
+can make websites pretty easily make apps pretty
+
+00:27:26.840 --> 00:27:34.120
+easily and I think in 20 years or a lot sooner 
+than that you're going to basically be in a
+
+00:27:34.120 --> 00:27:39.480
+world where kids will be able to just describe the 
+things that they want and build incredibly complex
+
+00:27:39.480 --> 00:27:47.080
+pieces of software so it's um in that world 
+are kids going to be not struggling I I don't
+
+00:27:47.080 --> 00:27:51.880
+think so I think that they're going to be just 
+expressing their creativity and and it'll it'll
+
+00:27:51.880 --> 00:27:59.240
+be this kind of constant iterative feedback loop 
+around like okay like yeah I you know took a few
+
+00:27:59.240 --> 00:28:05.120
+minutes to describe this thing and like yeah this 
+whole like amazing virtual world was created that
+
+00:28:05.120 --> 00:28:10.440
+I can have see on my glasses or whatever but like 
+these things are not exactly what I want them to
+
+00:28:10.440 --> 00:28:15.040
+be so now I need to like go back and edit them it 
+just I don't know I think that there's always
+
+00:28:15.040 --> 00:28:21.120
+more. Another way to get this - it's one of the things 
+that I think makes makes people so good. It just
+
+00:28:21.120 --> 00:28:25.120
+there's there's always more to do. We'll always 
+find the struggle? Yeah. Another way to get at this
+
+00:28:25.120 --> 00:28:30.960
+is if you if you play this out to make the 
+tools even better in like 10 years let's say
+
+00:28:30.960 --> 00:28:35.760
+your kids are in high school are there ways that 
+you would want them using AI because you think it
+
+00:28:35.760 --> 00:28:42.680
+would accelerate them intellectually and ways that 
+you would advocate for them not to use it or
+
+00:28:42.680 --> 00:28:46.560
+things that you would have concerns about? I mean 
+I think that there's some things that you need
+
+00:28:46.560 --> 00:28:52.800
+to be able to do yourself. I think that's a lot of 
+the basic fear that people have around this is
+
+00:28:52.800 --> 00:29:01.840
+that while we're building these amazing tools we 
+get away from this self-confidence and ability of
+
+00:29:01.840 --> 00:29:08.120
+being able to do like this basic stuff yourself so 
+it's like all right you have a calculator but it's
+
+00:29:08.120 --> 00:29:13.000
+still good to be able to do kind of basic math in 
+your head because there are a lot of things that
+
+00:29:13.000 --> 00:29:19.960
+come up throughout the day that you just want to 
+have a general numeracy around right that often
+
+00:29:19.960 --> 00:29:25.520
+they're not expressed in numerical terms but just 
+in terms of understanding trends or understanding
+
+00:29:25.520 --> 00:29:30.320
+arguments that people are making, you you kind of 
+need to understand the shape of how numbers come
+
+00:29:30.320 --> 00:29:35.440
+together and so I think one of the big debates 
+is like should we still teach our kids to program
+
+00:29:35.440 --> 00:29:42.680
+computers even though you're going to have
+these tools in the future that are just so much
+
+00:29:42.680 --> 00:29:49.000
+more powerful than anything that we have now to 
+produce incredibly complicated pieces of software.
+
+00:29:49.000 --> 00:29:55.440
+I think the answer to that is probably yes 
+because I think teaching someone how to code
+
+00:29:55.440 --> 00:30:01.520
+is teaching them a way to think rigorously and 
+that even if they're not doing most of the code
+
+00:30:01.520 --> 00:30:06.080
+production I think it's important that you kind of 
+have the ability to think in that way and I think
+
+00:30:06.080 --> 00:30:14.000
+it's going to just make you generally a better 
+thinker and better person so yeah maybe that's
+
+00:30:14.000 --> 00:30:18.200
+like this generation's version of calculators 
+it's like so you you want to you want to use the
+
+00:30:18.200 --> 00:30:25.120
+calculator but you'll also want to be able to 
+generally do without it. Other ones like language
+
+00:30:25.120 --> 00:30:28.160
+I don't know I mean different people can come 
+out I think this is one of the interesting
+
+00:30:28.160 --> 00:30:34.920
+questions about parenting these days is like is 
+is just kind of like what what's important to
+
+00:30:34.920 --> 00:30:40.120
+teach your your kids and in an era where so much 
+is going to change over the the time that they're
+
+00:30:40.120 --> 00:30:45.200
+even in school. Language I think you can make 
+similar arguments. I think there's a lot of it's
+
+00:30:45.200 --> 00:30:49.600
+like it's probably going to be less functionally 
+relevant in the future to learn multiple languages
+
+00:30:49.600 --> 00:30:54.840
+but it sort of helps you think in different ways,
+you know I found from the languages that I've
+
+00:30:54.840 --> 00:31:00.640
+studied that a lot of it you learn about 
+the structure of your own language, you can
+
+00:31:00.640 --> 00:31:04.480
+you know you also learn about the culture right 
+because so much of how things are expressed in
+
+00:31:04.480 --> 00:31:09.960
+different places is tied to the nuance and the 
+history of kind of what how so I think
+
+00:31:09.960 --> 00:31:15.520
+like you that's all valuable and interesting 
+stuff to get into but then I don't know at the
+
+00:31:15.520 --> 00:31:18.640
+same time we only have so many hours in the day 
+so people need to prioritize what they're going
+
+00:31:18.640 --> 00:31:23.760
+to learn and it may be that okay in a world with 
+perfect translation which by the way we basically
+
+00:31:23.760 --> 00:31:27.920
+just announced on the Ray Ban Metas that now 
+you're going to be able to just like you go to
+
+00:31:28.520 --> 00:31:33.600
+countries yeah we're starting out with just a few 
+languages but we'll roll it out to more and you
+
+00:31:33.600 --> 00:31:36.800
+know you'll be you could be traveling anywhere and 
+you have your glasses and they just translate in
+
+00:31:36.800 --> 00:31:42.840
+real time in your ear. So it's wild, yeah so 
+I think people are going to need to choose what
+
+00:31:42.840 --> 00:31:48.080
+what what they want to focus on going forward. 
+How do the developments that we've been talking
+
+00:31:48.080 --> 00:31:54.760
+about in AI intersect with social media and the 
+platforms that most people use today? There's a
+
+00:31:54.760 --> 00:32:03.680
+future where there's images and generated text 
+and maybe AI influencers. How does generative
+
+00:32:03.680 --> 00:32:10.280
+AI change how social media feels in the future? 
+Yeah I mean I think that that's a really
+
+00:32:10.280 --> 00:32:16.680
+deep one. You know there's already been one 
+big shift which is that social media started
+
+00:32:16.680 --> 00:32:23.200
+out as people primarily interacting with their 
+friends and now it is you know at least half of
+
+00:32:23.200 --> 00:32:28.040
+the content is basically people interacting 
+with creators or content that's not created
+
+00:32:28.040 --> 00:32:36.320
+by people who they kind of personally know so 
+we sort sort of already have that paradigm and
+
+00:32:36.320 --> 00:32:42.080
+I think AI is probably going to accelerate that. It 
+will give all these people additional tools right
+
+00:32:42.080 --> 00:32:49.880
+so your friends will create kind of funnier memes 
+and more interesting content um that'll come from
+
+00:32:49.880 --> 00:32:54.520
+a lot of different ways. I think some of it will 
+be okay your friends have glasses and they capture
+
+00:32:54.520 --> 00:32:59.040
+a bunch of stuff and before they might have not 
+been able bble to edit it to make it interesting
+
+00:32:59.040 --> 00:33:02.520
+or maybe it was just too much work or they didn't 
+even realize that they captured something amazing
+
+00:33:02.520 --> 00:33:07.880
+but now the AI is like hey I like made this thing 
+for you out of your content um it's like okay
+
+00:33:07.880 --> 00:33:15.520
+that's awesome like people will enjoy that. Creators 
+obviously kind of much more specialized skills
+
+00:33:15.520 --> 00:33:20.760
+are going to be able to use even more advanced AI 
+tools to make more compelling content but then I
+
+00:33:20.760 --> 00:33:27.200
+think that there will be a bunch of kind of green 
+field type stuff where maybe in the future there
+
+00:33:27.200 --> 00:33:35.480
+will be content that is purely generated by AI 
+by the system personalized for you maybe it's
+
+00:33:35.480 --> 00:33:41.600
+summarizing things that are out there that that 
+are going to be interesting maybe it's um just
+
+00:33:41.600 --> 00:33:46.960
+producing something funny that makes you laugh 
+this is going to be like a very kind of deep zone
+
+00:33:46.960 --> 00:33:52.160
+that there's a lot to to experiment with. 
+I think there are going to be AI creators as well,
+
+00:33:52.160 --> 00:33:58.040
+as creators building AI versions of themselves, 
+I mean that's a thing that we just showed too
+
+00:33:58.040 --> 00:34:02.720
+at Connect is basically I mean if you're
+a Creator one of the big challenges is
+
+00:34:02.720 --> 00:34:08.040
+like all right there are only so many hours 
+in the day and your community probably has a
+
+00:34:08.040 --> 00:34:11.920
+nearly unlimited demand to interact with you and 
+you want to interact with them because you're
+
+00:34:11.920 --> 00:34:16.240
+trying to grow your community. I mean that's both 
+socially and from a business perspective that's
+
+00:34:16.240 --> 00:34:20.920
+sort of you know growing the community is an 
+important part of what every creator does so
+
+00:34:20.920 --> 00:34:27.720
+okay if we can make it so that each creator 
+can basically make an like an AI artifact
+
+00:34:28.240 --> 00:34:32.880
+that their community can interact with people be 
+clear it's not the actual creator themselves but
+
+00:34:32.880 --> 00:34:37.480
+it's almost like a piece of digital art that 
+you're producing like an interactive sculpture
+
+00:34:37.480 --> 00:34:41.440
+or something that it's like it's like you train 
+it to here's the context that I wanted to have
+
+00:34:41.440 --> 00:34:45.160
+here's the topics I wanted to communicate 
+on here's stuff that I wanted to stay away
+
+00:34:45.160 --> 00:34:51.720
+from you're giving your community something to 
+interact with when you can't be there to to kind
+
+00:34:51.720 --> 00:34:57.840
+of answer all the questions and I think that's 
+going to be super compelling so there's like
+
+00:34:57.840 --> 00:35:04.720
+these interesting things but I think it's I AI 
+it's kind of like the internet in a way where
+
+00:35:04.720 --> 00:35:11.960
+it's probably going to change almost every field 
+and almost every feature of every application that
+
+00:35:11.960 --> 00:35:18.840
+we use um it seems sort of hyperbolic to say that 
+but I do think that's true and it's just hard to
+
+00:35:18.840 --> 00:35:23.240
+sort of enumerate all the different things up 
+front but I think that over the next 5 to 10
+
+00:35:23.240 --> 00:35:27.080
+years we're just going to explore the impacts 
+in each of these areas and it's going to be
+
+00:35:27.080 --> 00:35:32.840
+like an amazing amount of innovation and really 
+exciting. I feel two things simultaneously when
+
+00:35:32.840 --> 00:35:38.520
+you say that. I feel both like I really want 
+to be optimistic about the future of these
+
+00:35:38.520 --> 00:35:45.560
+platforms and I obviously have gained so much from 
+an enormous pace of change right like everything
+
+00:35:45.560 --> 00:35:54.160
+that we're doing now and what I actually feel is 
+worried. I feel some specific concerns around the
+
+00:35:54.160 --> 00:35:57.800
+way that you know I might communicate with an 
+audience and the way that they might respond to
+
+00:35:57.800 --> 00:36:02.600
+that or the way that human communication might 
+change but also more generalized just sort of
+
+00:36:02.600 --> 00:36:07.120
+fear of the pace of change and and worry and I 
+don't think I'm alone in that feeling. Yeah and
+
+00:36:07.120 --> 00:36:14.120
+you're supposed to be the optimist! I know! And I'm 
+curious like how you talk to people who feel that
+
+00:36:14.120 --> 00:36:21.880
+way. What concerns do you feel are most legitimate 
+and what do you feel most misunderstood? I think
+
+00:36:21.880 --> 00:36:30.000
+the pace of change is always a concerning 
+thing right it's there is a lot of uncertainty
+
+00:36:30.000 --> 00:36:35.560
+about how how things will go in the future and 
+we're all going to get really amazing new tools
+
+00:36:35.560 --> 00:36:44.200
+to do both our hobbies and our jobs and
+they'll make it so we can do better work and
+
+00:36:44.200 --> 00:36:48.800
+have better lives but at least on the professional 
+side it's going to be our responsibility to keep
+
+00:36:48.800 --> 00:36:53.200
+up with that or else it's going to be difficult 
+for us to compete with other people who are
+
+00:36:53.200 --> 00:36:57.520
+doing a good job of kind of keeping up with 
+the new trends. So I get it. I mean I think
+
+00:36:58.280 --> 00:37:04.240
+you know especially in the you know line of of 
+work of being a creator and it's a very sort of
+
+00:37:04.240 --> 00:37:07.800
+competitive space, I don't think that like creators 
+necessarily think about it as competitive but it
+
+00:37:07.800 --> 00:37:16.000
+is right it's like it's you know and um and so I 
+get it. I think that this is going to make it so
+
+00:37:16.000 --> 00:37:20.640
+that like the quality of work that people produce 
+and how interesting it is and how much they can
+
+00:37:20.640 --> 00:37:27.520
+communicate and like really efficiently is is 
+just going to kind of go through the roof but
+
+00:37:28.040 --> 00:37:35.880
+but when you're staring down a set of changes like 
+you know that there's some big change coming and
+
+00:37:35.880 --> 00:37:42.000
+you don't know what it is that's always a time of 
+anxiety so I get it. If I take my creator hat
+
+00:37:42.000 --> 00:37:51.320
+off and I'm just a person who is youngish starting 
+out my career-ish, starting out building a family,
+
+00:37:51.320 --> 00:38:00.720
+how would you advise someone like me to prepare 
+well for the future that we're headed toward
+
+00:38:00.720 --> 00:38:09.440
+to be able to learn new skills now or just think 
+about this future in an educated way? Yeah I mean
+
+00:38:09.440 --> 00:38:16.920
+I just think maintaining curiosity about things is 
+is important. I do think we can overstate to what
+
+00:38:16.920 --> 00:38:21.400
+extent the next 10 years is going to be sort of 
+different from the last 10 or 15. I mean a ton of
+
+00:38:21.400 --> 00:38:25.640
+stuff changed over the last 10 or 15 years too. 
+It's not like this is the only time in history
+
+00:38:25.640 --> 00:38:30.520
+where there's some technology it's going to make 
+it so there's new opportunities and things change
+
+00:38:30.520 --> 00:38:36.640
+the internet coming into maturity and everyone 
+having smartphones has already rewired things
+
+00:38:36.640 --> 00:38:44.760
+dramatically and I mean maybe the next period will 
+be a somewhat bigger change or maybe it won't I
+
+00:38:44.760 --> 00:38:51.200
+think it'll feel different to different people but
+ I don't think this is like going from zero to
+
+00:38:51.200 --> 00:38:55.320
+one it's not like okay everything's just kind of 
+been normal and now like now it's about to change
+
+00:38:55.320 --> 00:39:01.080
+it's like the technology of evolves over time and 
+and like the opportunities that we have evolve and
+
+00:39:01.080 --> 00:39:06.640
+improve and I think that's like the people who 
+do well I think are are people who are generally
+
+00:39:06.640 --> 00:39:14.800
+curious about it and and dig in and and try 
+to use it to live better lives rather than the
+
+00:39:14.800 --> 00:39:23.400
+people who who basically you know try to fight it 
+in in some way. One thing that I really want to ask
+
+00:39:23.400 --> 00:39:30.760
+you about is open source. Yeah. I think imagine that 
+we're talking to an audience that has maybe heard
+
+00:39:30.760 --> 00:39:37.440
+that term but doesn't have any real idea of how 
+that might impact them in the development of AI.
+
+00:39:37.440 --> 00:39:41.640
+How would you explain the reasonable debate 
+that people in your field are having about this
+
+00:39:41.640 --> 00:39:47.400
+right now? Well I think there are two pieces. I mean 
+so what does open source mean? It means that people
+
+00:39:47.400 --> 00:39:52.960
+can build a lot of different things right so at 
+a high level I look at the vision that a bunch of
+
+00:39:52.960 --> 00:39:59.520
+companies have right so Open AI, Google, they're 
+building an AI right like one AI that I think
+
+00:39:59.520 --> 00:40:03.360
+in general they're like okay this is going to be 
+it's like you're going to use they think you're
+
+00:40:03.360 --> 00:40:07.520
+going to use Gemini or ChatGPT for like all the 
+different things that you want to interact with
+
+00:40:07.520 --> 00:40:11.360
+and at a high level that's just not how I think 
+the world is going to go. I think we're going to
+
+00:40:11.360 --> 00:40:17.160
+have a lot of different AI systems just like we're 
+going to have we have a lot of different apps.
+
+00:40:17.160 --> 00:40:22.760
+I think in the future every business just like 
+they have a website and a phone number and an
+
+00:40:22.760 --> 00:40:28.040
+email address and a social media account is also 
+going to have an AI that can interact with with
+
+00:40:28.040 --> 00:40:34.480
+their customers to help them sell things to help 
+them do support. I think a lot of creators will
+
+00:40:34.480 --> 00:40:39.000
+have their own AIs right I think like a lot 
+of people will interact with with a bunch of
+
+00:40:39.000 --> 00:40:45.520
+different things. There's a question of okay do you 
+want a future that's fundamentally kind of very
+
+00:40:45.520 --> 00:40:50.240
+concentrated and where you're interacting with 
+kind of one system for everything or do you want
+
+00:40:50.240 --> 00:40:56.280
+one where a lot of different people are building
+a lot of different AIs and systems just kind
+
+00:40:56.280 --> 00:41:00.800
+of like you probably didn't want there to be you 
+know just one app or just one website. It's like a
+
+00:41:00.800 --> 00:41:05.640
+richer world when there's a diversity of different 
+things so that's one piece is is just giving
+
+00:41:05.640 --> 00:41:09.240
+people the ability to build it themselves and 
+what open source does it makes it that everyone
+
+00:41:09.240 --> 00:41:15.360
+can take and modify the model and build stuff on 
+top of it which is different from the kind
+
+00:41:15.360 --> 00:41:26.920
+of closed and centralized approach. The safety 
+debate is a specific part of this which is in a
+
+00:41:26.920 --> 00:41:35.120
+world where AI gets smarter and smarter, what's the 
+way that we have the highest chance of of having a
+
+00:41:35.120 --> 00:41:40.280
+a a kind of positive future and and not having 
+a lot of the safety concerns? And I think some
+
+00:41:40.280 --> 00:41:48.520
+people think that if we keep the model closed 
+and don't give it to a lot of developers that
+
+00:41:48.520 --> 00:41:57.240
+should make it safer because then you don't get 
+bad developers doing bad things with the model.
+
+00:41:59.440 --> 00:42:05.240
+Historically I think what we've seen with open 
+source is actually the opposite which is that
+
+00:42:05.240 --> 00:42:09.240
+this is not the first open source project right 
+I mean this is obviously this has been a thing in
+
+00:42:09.240 --> 00:42:14.440
+the industry for decades and I think what we've 
+traditionally seen is that open source software
+
+00:42:14.440 --> 00:42:20.960
+is safer and more secure largely because you put 
+it out there more people can scrutinize it because
+
+00:42:20.960 --> 00:42:27.520
+they can see all parts of the system and then 
+there are inevitably issues with any software
+
+00:42:27.520 --> 00:42:32.440
+there are bugs there are security issues and 
+initially with open source people thought hey if
+
+00:42:32.440 --> 00:42:36.360
+you're putting the software out there and there 
+are holes in it isn't everyone just going to go
+
+00:42:36.360 --> 00:42:41.280
+exploit those holes and especially the bad 
+guys but it turned out that it sort of in this
+
+00:42:41.280 --> 00:42:49.360
+counterintuitive way that by making by adding more 
+scrutiny to the systems the holes became apparent
+
+00:42:49.360 --> 00:42:52.680
+quicker and then were fixed and then people 
+roll out a new version just like we roll out
+
+00:42:52.680 --> 00:42:59.680
+a new version of our models right Llama 3, Llama 
+3.1, Llama 3.2 everyone upgrades, so I think the
+
+00:42:59.680 --> 00:43:04.960
+same thing is going to happen here I think it's 
+sort of this counterintuitive thing where even
+
+00:43:04.960 --> 00:43:12.200
+though I I think there's some concern around all 
+right are bad guys going to do bad things with
+
+00:43:12.200 --> 00:43:18.280
+these models. I actually think you just get a kind 
+of smarter and safer model for everyone the more
+
+00:43:18.280 --> 00:43:23.320
+it's rolled out and the more kind of scrutiny 
+is on it and then part of that is we get
+
+00:43:23.320 --> 00:43:27.800
+feedback and we make the model safer so that is 
+we roll it out to to more people it's safer
+
+00:43:27.800 --> 00:43:33.520
+for more people to use. So I think that the history 
+of open source in the software industry generally
+
+00:43:33.520 --> 00:43:39.280
+would suggest that open source is going to lead 
+to a more prosperous and safer future. Our show
+
+00:43:39.280 --> 00:43:46.040
+is called Huge If True and what I mean by that is 
+kind of testing the most optimistic non-obvious
+
+00:43:46.040 --> 00:43:51.680
+thing and so my question to you is what is the 
+biggest open genuine question on your mind right
+
+00:43:51.680 --> 00:44:07.160
+now? In which field? You're in so many! I am 
+particularly curious about the combination of
+
+00:44:07.160 --> 00:44:12.400
+AI and hardware but I realize that we've covered 
+a lot so I'm curious the direction you'd take this
+
+00:44:12.400 --> 00:44:17.080
+on a question that occupies you right now. Gosh 
+I mean I think maybe one that's a little more
+
+00:44:17.080 --> 00:44:25.480
+AI specific is there a current set of methods 
+that seem to be scaling very well right so with
+
+00:44:25.480 --> 00:44:32.360
+past AI architecture you could kind of feed an 
+AI system a certain amount of data and and use
+
+00:44:32.360 --> 00:44:37.200
+a certain amount of compute but eventually it 
+hit a plateau and one of the interesting things
+
+00:44:37.200 --> 00:44:44.240
+about these new transformer based architectures 
+over the last you know 5 to 10 years is that we
+
+00:44:44.240 --> 00:44:52.840
+haven't found the end yet. So that leads to this 
+dynamic where Llama 3 you know we could train on
+
+00:44:52.840 --> 00:44:59.480
+you know 10 to 20,000 gpus, Llama 4 we could train 
+on you know more more than 100,000 gpus, Llama 5
+
+00:44:59.480 --> 00:45:06.280
+we can plan to scale even further and there's just 
+an interesting question of how far that goes. It's
+
+00:45:06.280 --> 00:45:11.880
+totally possible that at some point we just like 
+hit a limit and just like previous systems there's
+
+00:45:11.880 --> 00:45:17.880
+an asymptote and it doesn't keep on growing but 
+it's also possible that that limit is not going
+
+00:45:17.880 --> 00:45:24.520
+to happen anytime soon and that we're going to be 
+able to keep on just building more clusters and
+
+00:45:24.520 --> 00:45:30.400
+generating more you know synthetic data train the 
+systems and that they're just going to keep on
+
+00:45:30.400 --> 00:45:36.640
+getting more and more useful for people for quite 
+a while to come and it's a really big and high
+
+00:45:36.640 --> 00:45:42.760
+stakes question I think for for the company is 
+because we're basically making these bets on how
+
+00:45:42.760 --> 00:45:48.200
+much infrastructure to build out for the future 
+and this is like hundreds of billions of dollars
+
+00:45:48.200 --> 00:45:54.280
+of infrastructure so like I'm clearly betting 
+that this is going to keep scaling for a while
+
+00:45:54.280 --> 00:45:59.480
+but it's one of the big questions I think in the 
+field because it is possible that it doesn't. You
+
+00:45:59.480 --> 00:46:04.600
+know that obviously would lead to a very different 
+world where it's I mean I'm sure people still
+
+00:46:04.600 --> 00:46:09.040
+figure it out eventually just need to make some 
+new fundamental improvements to the architecture
+
+00:46:09.040 --> 00:46:15.680
+in some way but that might be a somewhat longer 
+trajectory for okay maybe you know the the kind
+
+00:46:15.680 --> 00:46:21.600
+of fundamental AI advances slow down for a bit 
+and we just take some time to build new products
+
+00:46:21.600 --> 00:46:26.520
+around this or it could be the case and that's 
+what I'm betting on that the fundamental AI will
+
+00:46:26.520 --> 00:46:31.840
+just continue advancing for quite a while and that 
+we're going to get both a new set of products that
+
+00:46:31.840 --> 00:46:35.840
+are just really compelling in all these ways 
+and that the technology landscape and what's
+
+00:46:35.840 --> 00:46:42.000
+possible will just continue being dynamic over 
+like a 20-year period and that's probably what
+
+00:46:42.000 --> 00:46:46.680
+I'd guess is going to happen but it I think it's 
+one of the bigger questions in the industry and
+
+00:46:46.680 --> 00:46:52.520
+kind of for technology across the world today. 
+Is there anything else that you want to say? I
+
+00:46:52.520 --> 00:47:09.560
+don't know! Awesome. We're good. Amazing yeah thank 
+you so much for doing this. Yeah no thank you...
